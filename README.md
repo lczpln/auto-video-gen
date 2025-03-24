@@ -1,76 +1,5 @@
 # Auto Video Gen
 
-Serviço para geração automática de vídeos utilizando NestJS.
-
-## Funcionalidades
-
-- Criação de jobs para geração de vídeos
-- Geração de conteúdo de texto com IA
-- Geração de áudio a partir de texto
-- Geração de imagens para ilustrar o conteúdo
-- Geração de vídeo a partir de áudio e imagens com legendas
-
-## Serviços
-
-### Geração de Vídeo
-
-O serviço de geração de vídeo (`VideoService`) utiliza FFmpeg e FFCreator para produzir vídeos a partir de arquivos de áudio e imagens. O serviço cria uma sequência de cenas, cada uma com um arquivo de áudio e uma imagem, e adiciona legendas ao vídeo final.
-
-Principais componentes:
-
-- `VideoService`: Serviço principal que coordena a geração de vídeo
-- `VideoCreatorClass`: Classe interna que lida com a criação de vídeos utilizando FFCreator
-- Processamento de legendas com suporte para alinhamento de texto com áudio
-- Fallback para métodos mais simples em caso de falha
-
-#### Configuração
-
-As seguintes opções podem ser configuradas através de variáveis de ambiente:
-
-- `STORAGE_PATH`: Caminho de armazenamento dos arquivos
-- `USE_FFMPEG`: Se deve usar FFmpeg para geração de vídeo
-- `FFMPEG_PATH`: Caminho para o binário do FFmpeg
-- `FFPROBE_PATH`: Caminho para o binário do FFprobe
-- `VIDEO_WIDTH`: Largura do vídeo em pixels
-- `VIDEO_HEIGHT`: Altura do vídeo em pixels
-- `USE_XVFB`: Se deve usar Xvfb para renderização em ambientes headless
-- `XVFB_DISPLAY`: Display do Xvfb
-- `VIDEO_OUTPUT_DIR`: Diretório para saída de vídeos
-
-## Instalação
-
-```bash
-npm install
-```
-
-## Execução
-
-### Desenvolvimento
-
-```bash
-npm run start:dev
-```
-
-### Produção
-
-```bash
-npm run build
-npm run start:prod
-```
-
-### Ambiente Local
-
-```bash
-npm run start:local
-```
-
-## Dependências Externas
-
-O serviço depende das seguintes ferramentas externas:
-
-- FFmpeg: Manipulação de vídeo e áudio
-- Xvfb: Framebuffer virtual para ambientes headless
-
 ## Overview
 
 This service takes a prompt from the user and generates a complete video through a series of AI-powered workers:
@@ -92,10 +21,7 @@ This service takes a prompt from the user and generates a complete video through
 
 ### Prerequisites
 
-- Node.js (v16+)
 - Docker and Docker Compose
-- MongoDB
-- Redis
 
 ### Setup
 
@@ -120,22 +46,6 @@ This service takes a prompt from the user and generates a complete video through
    ```
 
 4. The API will be available at `http://localhost:3000`
-
-### Development Setup
-
-For local development:
-
-1. Install dependencies:
-
-   ```bash
-   cd app-service
-   npm install
-   ```
-
-2. Start the development server:
-   ```bash
-   npm run start:dev
-   ```
 
 ## API Usage
 
