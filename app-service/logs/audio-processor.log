@@ -1,0 +1,40 @@
+[2025-03-18T19:45:12.593Z] [audio-processor] [info]: Processing audio for job: 67d9cd47ea2b34e635bae0c0
+[2025-03-18T19:45:12.609Z] [audio-processor] [info]: Audio processing completed for job: 67d9cd47ea2b34e635bae0c0
+[2025-03-18T19:55:24.409Z] [audio-processor] [info]: Processing audio for job: 67d9cfabf812280297eb1bc4
+[2025-03-18T19:55:24.427Z] [audio-processor] [info]: Audio processing completed for job: 67d9cfabf812280297eb1bc4
+[2025-03-18T20:02:04.624Z] [audio-processor] [info]: Processing audio for job: 67d9d13c80f626dcd75c9f65
+[2025-03-18T20:02:04.640Z] [audio-processor] [info]: Audio processing completed for job: 67d9d13c80f626dcd75c9f65
+[2025-03-18T20:03:06.228Z] [audio-processor] [info]: Processing audio for job: 67d9d17934cfbbf9f9fd04cc
+[2025-03-18T20:03:06.248Z] [audio-processor] [info]: Audio processing completed for job: 67d9d17934cfbbf9f9fd04cc
+[2025-03-18T20:05:35.945Z] [audio-processor] [info]: Processing audio for job: 67d9d2027993b4ea61d53481
+[2025-03-18T20:06:34.539Z] [audio-processor] [info]: Audio processing completed for job: 67d9d2027993b4ea61d53481
+[2025-03-18T20:06:47.705Z] [audio-processor] [info]: Processing audio for job: 67d9d2447993b4ea61d53496
+[2025-03-18T20:07:01.887Z] [audio-processor] [info]: Processing audio for job: 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:08:35.830Z] [audio-processor] [info]: Audio processing completed for job: 67d9d2447993b4ea61d53496
+[2025-03-18T20:08:44.753Z] [audio-processor] [info]: Audio processing completed for job: 67d9d24c7993b4ea61d5349f
+[2025-03-19T12:12:18.820Z] [audio-processor] [info]: Processing audio for job: 67dab49363e40732224c973d
+[2025-03-19T12:15:00.103Z] [audio-processor] [error]: Error processing audio: Invalid audio data received from TTS API
+[2025-03-19T12:15:00.122Z] [audio-processor] [info]: Processing audio for job: 67dab49363e40732224c973d
+[2025-03-19T12:18:03.893Z] [audio-processor] [info]: Processing audio for job: 67dab49363e40732224c973d
+[2025-03-19T12:20:42.648Z] [audio-processor] [error]: Error processing audio: Invalid audio data received from TTS API
+[2025-03-19T12:20:42.677Z] [audio-processor] [info]: Processing audio for job: 67dab49363e40732224c973d
+[2025-03-19T12:24:32.677Z] [audio-processor] [info]: Processing audio for job: 67dab772bffdda2d31fab352
+[2025-03-19T12:28:28.841Z] [audio-processor] [error]: Error processing audio: Invalid audio data received from TTS API
+[2025-03-19T12:28:28.859Z] [audio-processor] [info]: Processing audio for job: 67dab772bffdda2d31fab352
+[2025-03-19T12:31:47.999Z] [audio-processor] [error]: Error processing audio: Invalid audio data received from TTS API
+[2025-03-19T12:31:48.034Z] [audio-processor] [info]: Processing audio for job: 67dab772bffdda2d31fab352
+[2025-03-19T12:35:48.630Z] [audio-processor] [error]: Error processing audio: Invalid audio data received from TTS API
+[2025-03-19T12:53:36.333Z] [audio-processor] [info]: Processing audio for job: 67dabe42bffdda2d31fab36c
+[2025-03-19T12:54:33.361Z] [audio-processor] [info]: Audio processing completed for job: 67dabe42bffdda2d31fab36c
+[2025-03-19T13:48:07.734Z] [audio-processor] [info]: Processing audio for job: 67dacb097ca9a97b132031a4
+[2025-03-19T13:49:05.362Z] [audio-processor] [info]: Audio processing completed for job: 67dacb097ca9a97b132031a4
+[2025-03-19T14:09:56.173Z] [audio-processor] [info]: Processing audio for job: 67dad024be384bbec08813b1
+[2025-03-19T14:13:50.089Z] [audio-processor] [info]: Audio processing completed for job: 67dad024be384bbec08813b1
+[2025-03-19T14:43:16.572Z] [audio-processor] [info]: Processing audio for job: 67dad7f4bafc03c132e58280
+[2025-03-19T14:44:13.767Z] [audio-processor] [info]: Audio processing completed for job: 67dad7f4bafc03c132e58280
+[2025-03-19T16:50:23.670Z] [audio-processor] [info]: Processing audio for job: 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:51:21.659Z] [audio-processor] [info]: Audio processing completed for job: 67daf5c011c09a0ff3103ea9
+[2025-03-19T17:21:57.485Z] [audio-processor] [info]: Processing audio for job: 67dafd275a4368873ac78681
+[2025-03-19T17:22:55.871Z] [audio-processor] [info]: Audio processing completed for job: 67dafd275a4368873ac78681
+[2025-03-24T11:05:13.367Z] [audio-processor] [info]: Processing audio for job: 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:06:11.738Z] [audio-processor] [info]: Audio processing completed for job: 67e13c5a070848d8a2e49dcd

@@ -1,0 +1,8 @@
+[2025-03-19T12:10:47.577Z] [regenerate-audio-processor] [info]: Regenerating audio for job: 67d9d17934cfbbf9f9fd04cc, index: 0
+[2025-03-19T12:10:47.585Z] [regenerate-audio-processor] [info]: Set job 67d9d17934cfbbf9f9fd04cc status to GENERATING_ASSETS for audio regeneration
+[2025-03-19T12:10:52.722Z] [regenerate-audio-processor] [info]: Regenerated audio at index 0 for job: 67d9d17934cfbbf9f9fd04cc
+[2025-03-19T12:10:52.729Z] [regenerate-audio-processor] [info]: Marked audio worker as completed for job: 67d9d17934cfbbf9f9fd04cc
+[2025-03-19T13:01:42.469Z] [regenerate-audio-processor] [info]: Regenerating audio for job: 67dabe42bffdda2d31fab36c, index: 0
+[2025-03-19T13:01:42.490Z] [regenerate-audio-processor] [info]: Set job 67dabe42bffdda2d31fab36c status to GENERATING_ASSETS for audio regeneration
+[2025-03-19T13:01:54.991Z] [regenerate-audio-processor] [info]: Regenerated audio at index 0 for job: 67dabe42bffdda2d31fab36c
+[2025-03-19T13:01:55.006Z] [regenerate-audio-processor] [info]: Marked audio worker as completed for job: 67dabe42bffdda2d31fab36c

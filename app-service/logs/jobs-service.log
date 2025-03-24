@@ -1,0 +1,238 @@
+[2025-03-18T19:45:11.540Z] [jobs-service] [info]: Job created with ID: 67d9cd47ea2b34e635bae0c0
+[2025-03-18T19:45:11.577Z] [jobs-service] [info]: Job 67d9cd47ea2b34e635bae0c0 status updated to PROCESSING
+[2025-03-18T19:46:28.931Z] [jobs-service] [info]: Job 67d9cd47ea2b34e635bae0c0 status updated to GENERATING_VIDEO
+[2025-03-18T19:46:28.935Z] [jobs-service] [info]: Added job 67d9cd47ea2b34e635bae0c0 to video queue
+[2025-03-18T19:46:28.941Z] [jobs-service] [info]: Job 67d9cd47ea2b34e635bae0c0 status updated to GENERATING_VIDEO
+[2025-03-18T19:46:33.501Z] [jobs-service] [info]: Job 67d9cd47ea2b34e635bae0c0 status updated to COMPLETED
+[2025-03-18T19:55:23.811Z] [jobs-service] [info]: Job created with ID: 67d9cfabf812280297eb1bc4
+[2025-03-18T19:55:23.825Z] [jobs-service] [info]: Job 67d9cfabf812280297eb1bc4 status updated to PROCESSING
+[2025-03-18T20:01:32.506Z] [jobs-service] [info]: Added job 67d9cfabf812280297eb1bc4 to regenerate-image queue for image index 0
+[2025-03-18T20:01:33.024Z] [jobs-service] [info]: Updated image URL at index 0 for job 67d9cfabf812280297eb1bc4
+[2025-03-18T20:02:04.219Z] [jobs-service] [info]: Job created with ID: 67d9d13c80f626dcd75c9f65
+[2025-03-18T20:02:04.226Z] [jobs-service] [info]: Job 67d9d13c80f626dcd75c9f65 status updated to PROCESSING
+[2025-03-18T20:03:05.232Z] [jobs-service] [info]: Job created with ID: 67d9d17934cfbbf9f9fd04cc
+[2025-03-18T20:03:05.251Z] [jobs-service] [info]: Job 67d9d17934cfbbf9f9fd04cc status updated to PROCESSING
+[2025-03-18T20:05:22.046Z] [jobs-service] [info]: Job created with ID: 67d9d2027993b4ea61d53481
+[2025-03-18T20:05:22.059Z] [jobs-service] [info]: Job 67d9d2027993b4ea61d53481 status updated to PROCESSING
+[2025-03-18T20:06:28.863Z] [jobs-service] [info]: Job created with ID: 67d9d2447993b4ea61d53496
+[2025-03-18T20:06:28.875Z] [jobs-service] [info]: Job 67d9d2447993b4ea61d53496 status updated to PROCESSING
+[2025-03-18T20:06:36.200Z] [jobs-service] [info]: Job created with ID: 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:06:36.207Z] [jobs-service] [info]: Job 67d9d24c7993b4ea61d5349f status updated to PROCESSING
+[2025-03-18T20:06:50.464Z] [jobs-service] [info]: Job 67d9d24c7993b4ea61d5349f status updated to ERROR
+[2025-03-18T20:06:50.475Z] [jobs-service] [info]: Job 67d9d24c7993b4ea61d5349f status updated to PROCESSING
+[2025-03-18T20:07:46.882Z] [jobs-service] [info]: Added job 67d9d2027993b4ea61d53481 to regenerate-image queue for image index 7
+[2025-03-18T20:07:47.514Z] [jobs-service] [info]: Updated image URL at index 7 for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:10:38.270Z] [jobs-service] [info]: Added job 67d9d2027993b4ea61d53481 to regenerate-image queue for image index 0
+[2025-03-18T20:10:39.783Z] [jobs-service] [info]: Updated image URL at index 0 for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:12:11.035Z] [jobs-service] [info]: Added job 67d9d24c7993b4ea61d5349f to regenerate-image queue for image index 0
+[2025-03-18T20:12:11.703Z] [jobs-service] [info]: Updated image URL at index 0 for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:13:57.205Z] [jobs-service] [info]: Added job 67d9d24c7993b4ea61d5349f to regenerate-image queue for image index 0
+[2025-03-18T20:13:57.828Z] [jobs-service] [info]: Updated image URL at index 0 for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:14:34.686Z] [jobs-service] [info]: Added job 67d9d24c7993b4ea61d5349f to regenerate-image queue for image index 0
+[2025-03-18T20:14:34.699Z] [jobs-service] [info]: Job 67d9d24c7993b4ea61d5349f status updated to GENERATING_ASSETS
+[2025-03-18T20:14:39.796Z] [jobs-service] [info]: Updated image URL at index 0 for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:14:58.409Z] [jobs-service] [info]: Added job 67d9d24c7993b4ea61d5349f to regenerate-image queue for all images
+[2025-03-18T20:14:58.418Z] [jobs-service] [info]: Job 67d9d24c7993b4ea61d5349f status updated to GENERATING_ASSETS
+[2025-03-18T20:21:18.889Z] [jobs-service] [info]: Added job 67d9d24c7993b4ea61d5349f to regenerate-image queue for image index 0
+[2025-03-18T20:21:18.900Z] [jobs-service] [info]: Job 67d9d24c7993b4ea61d5349f status updated to GENERATING_ASSETS
+[2025-03-18T20:21:27.268Z] [jobs-service] [info]: Updated image URL at index 0 for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:22:08.552Z] [jobs-service] [info]: Added job 67d9d17934cfbbf9f9fd04cc to regenerate-image queue for image index 0
+[2025-03-18T20:22:08.561Z] [jobs-service] [info]: Job 67d9d17934cfbbf9f9fd04cc status updated to GENERATING_ASSETS
+[2025-03-18T20:22:11.833Z] [jobs-service] [info]: Updated image URL at index 0 for job 67d9d17934cfbbf9f9fd04cc
+[2025-03-18T20:22:13.318Z] [jobs-service] [info]: Added job 67d9d17934cfbbf9f9fd04cc to regenerate-image queue for image index 1
+[2025-03-18T20:22:13.330Z] [jobs-service] [info]: Job 67d9d17934cfbbf9f9fd04cc status updated to GENERATING_ASSETS
+[2025-03-18T20:22:16.945Z] [jobs-service] [info]: Updated image URL at index 1 for job 67d9d17934cfbbf9f9fd04cc
+[2025-03-18T20:22:23.337Z] [jobs-service] [info]: Added job 67d9d17934cfbbf9f9fd04cc to regenerate-image queue for image index 3
+[2025-03-18T20:22:23.346Z] [jobs-service] [info]: Job 67d9d17934cfbbf9f9fd04cc status updated to GENERATING_ASSETS
+[2025-03-18T20:22:27.942Z] [jobs-service] [info]: Updated image URL at index 3 for job 67d9d17934cfbbf9f9fd04cc
+[2025-03-18T20:22:29.721Z] [jobs-service] [info]: Added job 67d9d17934cfbbf9f9fd04cc to regenerate-image queue for image index 4
+[2025-03-18T20:22:29.731Z] [jobs-service] [info]: Job 67d9d17934cfbbf9f9fd04cc status updated to GENERATING_ASSETS
+[2025-03-18T20:22:32.849Z] [jobs-service] [info]: Updated image URL at index 4 for job 67d9d17934cfbbf9f9fd04cc
+[2025-03-18T20:22:36.428Z] [jobs-service] [info]: Added job 67d9d17934cfbbf9f9fd04cc to regenerate-image queue for image index 2
+[2025-03-18T20:22:36.435Z] [jobs-service] [info]: Job 67d9d17934cfbbf9f9fd04cc status updated to GENERATING_ASSETS
+[2025-03-18T20:22:39.881Z] [jobs-service] [info]: Updated image URL at index 2 for job 67d9d17934cfbbf9f9fd04cc
+[2025-03-18T20:23:36.038Z] [jobs-service] [info]: Job 67d9d2027993b4ea61d53481 status updated to GENERATING_VIDEO
+[2025-03-18T20:23:36.041Z] [jobs-service] [info]: Added job 67d9d2027993b4ea61d53481 to video queue
+[2025-03-18T20:23:36.048Z] [jobs-service] [info]: Job 67d9d2027993b4ea61d53481 status updated to GENERATING_VIDEO
+[2025-03-18T20:23:40.592Z] [jobs-service] [info]: Job 67d9d2027993b4ea61d53481 status updated to COMPLETED
+[2025-03-18T20:50:14.216Z] [jobs-service] [info]: Job 67d9d2447993b4ea61d53496 status updated to GENERATING_VIDEO
+[2025-03-18T20:50:14.224Z] [jobs-service] [info]: Added job 67d9d2447993b4ea61d53496 to video queue
+[2025-03-18T20:50:14.232Z] [jobs-service] [info]: Job 67d9d2447993b4ea61d53496 status updated to GENERATING_VIDEO
+[2025-03-18T20:50:14.276Z] [jobs-service] [info]: Job 67d9d2447993b4ea61d53496 status updated to ERROR
+[2025-03-18T20:50:14.281Z] [jobs-service] [info]: Job 67d9d2447993b4ea61d53496 status updated to GENERATING_VIDEO
+[2025-03-18T20:50:14.303Z] [jobs-service] [info]: Job 67d9d2447993b4ea61d53496 status updated to ERROR
+[2025-03-18T20:50:14.307Z] [jobs-service] [info]: Job 67d9d2447993b4ea61d53496 status updated to GENERATING_VIDEO
+[2025-03-18T20:50:14.328Z] [jobs-service] [info]: Job 67d9d2447993b4ea61d53496 status updated to ERROR
+[2025-03-18T20:51:52.495Z] [jobs-service] [info]: Job 67d9d24c7993b4ea61d5349f status updated to GENERATING_VIDEO
+[2025-03-18T20:51:52.502Z] [jobs-service] [info]: Added job 67d9d24c7993b4ea61d5349f to video queue
+[2025-03-18T20:51:52.513Z] [jobs-service] [info]: Job 67d9d24c7993b4ea61d5349f status updated to GENERATING_VIDEO
+[2025-03-18T20:51:52.550Z] [jobs-service] [info]: Job 67d9d24c7993b4ea61d5349f status updated to ERROR
+[2025-03-18T20:51:52.558Z] [jobs-service] [info]: Job 67d9d24c7993b4ea61d5349f status updated to GENERATING_VIDEO
+[2025-03-18T20:51:52.581Z] [jobs-service] [info]: Job 67d9d24c7993b4ea61d5349f status updated to ERROR
+[2025-03-18T20:51:52.584Z] [jobs-service] [info]: Job 67d9d24c7993b4ea61d5349f status updated to GENERATING_VIDEO
+[2025-03-18T20:51:52.610Z] [jobs-service] [info]: Job 67d9d24c7993b4ea61d5349f status updated to ERROR
+[2025-03-19T12:10:30.094Z] [jobs-service] [info]: Added job 67d9d17934cfbbf9f9fd04cc to regenerate-image queue for image index 0
+[2025-03-19T12:10:30.108Z] [jobs-service] [info]: Job 67d9d17934cfbbf9f9fd04cc status updated to GENERATING_ASSETS
+[2025-03-19T12:10:33.403Z] [jobs-service] [info]: Updated image URL at index 0 for job 67d9d17934cfbbf9f9fd04cc
+[2025-03-19T12:10:47.574Z] [jobs-service] [info]: Added job 67d9d17934cfbbf9f9fd04cc to regenerate-audio queue for audio index 0
+[2025-03-19T12:10:47.584Z] [jobs-service] [info]: Job 67d9d17934cfbbf9f9fd04cc status updated to GENERATING_ASSETS
+[2025-03-19T12:11:34.608Z] [jobs-service] [info]: Job 67d9d17934cfbbf9f9fd04cc status updated to GENERATING_VIDEO
+[2025-03-19T12:11:34.614Z] [jobs-service] [info]: Added job 67d9d17934cfbbf9f9fd04cc to video queue
+[2025-03-19T12:11:34.621Z] [jobs-service] [info]: Job 67d9d17934cfbbf9f9fd04cc status updated to GENERATING_VIDEO
+[2025-03-19T12:12:03.455Z] [jobs-service] [info]: Job created with ID: 67dab49363e40732224c973d
+[2025-03-19T12:12:03.477Z] [jobs-service] [info]: Job 67dab49363e40732224c973d status updated to PROCESSING
+[2025-03-19T12:15:00.110Z] [jobs-service] [info]: Job 67dab49363e40732224c973d status updated to ERROR
+[2025-03-19T12:18:03.946Z] [jobs-service] [info]: Job 67d9d17934cfbbf9f9fd04cc status updated to GENERATING_VIDEO
+[2025-03-19T12:20:42.665Z] [jobs-service] [info]: Job 67dab49363e40732224c973d status updated to ERROR
+[2025-03-19T12:24:18.965Z] [jobs-service] [info]: Job created with ID: 67dab772bffdda2d31fab352
+[2025-03-19T12:24:18.986Z] [jobs-service] [info]: Job 67dab772bffdda2d31fab352 status updated to PROCESSING
+[2025-03-19T12:28:28.851Z] [jobs-service] [info]: Job 67dab772bffdda2d31fab352 status updated to ERROR
+[2025-03-19T12:31:48.025Z] [jobs-service] [info]: Job 67dab772bffdda2d31fab352 status updated to ERROR
+[2025-03-19T12:35:48.657Z] [jobs-service] [info]: Job 67dab772bffdda2d31fab352 status updated to ERROR
+[2025-03-19T12:53:22.635Z] [jobs-service] [info]: Job created with ID: 67dabe42bffdda2d31fab36c
+[2025-03-19T12:53:22.647Z] [jobs-service] [info]: Job 67dabe42bffdda2d31fab36c status updated to PROCESSING
+[2025-03-19T13:01:42.463Z] [jobs-service] [info]: Added job 67dabe42bffdda2d31fab36c to regenerate-audio queue for audio index 0
+[2025-03-19T13:01:42.488Z] [jobs-service] [info]: Job 67dabe42bffdda2d31fab36c status updated to GENERATING_ASSETS
+[2025-03-19T13:02:26.140Z] [jobs-service] [info]: Job 67dabe42bffdda2d31fab36c status updated to GENERATING_VIDEO
+[2025-03-19T13:02:26.147Z] [jobs-service] [info]: Added job 67dabe42bffdda2d31fab36c to video queue
+[2025-03-19T13:02:26.157Z] [jobs-service] [info]: Job 67dabe42bffdda2d31fab36c status updated to GENERATING_VIDEO
+[2025-03-19T13:02:41.793Z] [jobs-service] [info]: Job 67dabe42bffdda2d31fab36c status updated to COMPLETED
+[2025-03-19T13:47:53.693Z] [jobs-service] [info]: Job created with ID: 67dacb097ca9a97b132031a4
+[2025-03-19T13:47:53.710Z] [jobs-service] [info]: Job 67dacb097ca9a97b132031a4 status updated to PROCESSING
+[2025-03-19T13:53:20.161Z] [jobs-service] [info]: Added job 67dacb097ca9a97b132031a4 to regenerate-image queue for all images
+[2025-03-19T13:53:20.180Z] [jobs-service] [info]: Job 67dacb097ca9a97b132031a4 status updated to GENERATING_ASSETS
+[2025-03-19T13:59:49.110Z] [jobs-service] [info]: Added job 67dacb097ca9a97b132031a4 to regenerate-image queue for all images
+[2025-03-19T13:59:49.127Z] [jobs-service] [info]: Job 67dacb097ca9a97b132031a4 status updated to GENERATING_ASSETS
+[2025-03-19T14:01:22.864Z] [jobs-service] [info]: Added job 67dacb097ca9a97b132031a4 to regenerate-image queue for all images
+[2025-03-19T14:01:22.877Z] [jobs-service] [info]: Job 67dacb097ca9a97b132031a4 status updated to GENERATING_ASSETS
+[2025-03-19T14:02:47.908Z] [jobs-service] [info]: Job 67dacb097ca9a97b132031a4 status updated to GENERATING_ASSETS
+[2025-03-19T14:09:40.246Z] [jobs-service] [info]: Job created with ID: 67dad024be384bbec08813b1
+[2025-03-19T14:09:40.268Z] [jobs-service] [info]: Job 67dad024be384bbec08813b1 status updated to PROCESSING
+[2025-03-19T14:10:51.591Z] [jobs-service] [info]: Job 67dad024be384bbec08813b1 status updated to ERROR
+[2025-03-19T14:15:44.828Z] [jobs-service] [info]: Added job 67dad024be384bbec08813b1 to regenerate-image queue for all images
+[2025-03-19T14:15:44.839Z] [jobs-service] [info]: Job 67dad024be384bbec08813b1 status updated to GENERATING_ASSETS
+[2025-03-19T14:18:32.103Z] [jobs-service] [info]: Added job 67dad024be384bbec08813b1 to regenerate-image queue for image index 1
+[2025-03-19T14:18:32.117Z] [jobs-service] [info]: Job 67dad024be384bbec08813b1 status updated to GENERATING_ASSETS
+[2025-03-19T14:18:39.293Z] [jobs-service] [info]: Updated image URL at index 1 for job 67dad024be384bbec08813b1
+[2025-03-19T14:19:00.095Z] [jobs-service] [info]: Added job 67dad024be384bbec08813b1 to regenerate-image queue for image index 3
+[2025-03-19T14:19:00.107Z] [jobs-service] [info]: Job 67dad024be384bbec08813b1 status updated to GENERATING_ASSETS
+[2025-03-19T14:19:07.654Z] [jobs-service] [info]: Updated image URL at index 3 for job 67dad024be384bbec08813b1
+[2025-03-19T14:22:29.624Z] [jobs-service] [info]: Added job 67dad024be384bbec08813b1 to regenerate-image queue for image index 0
+[2025-03-19T14:22:29.641Z] [jobs-service] [info]: Job 67dad024be384bbec08813b1 status updated to GENERATING_ASSETS
+[2025-03-19T14:22:52.622Z] [jobs-service] [info]: Updated image URL at index 0 for job 67dad024be384bbec08813b1
+[2025-03-19T14:23:37.109Z] [jobs-service] [info]: Added job 67dad024be384bbec08813b1 to regenerate-image queue for image index 0
+[2025-03-19T14:23:37.122Z] [jobs-service] [info]: Job 67dad024be384bbec08813b1 status updated to GENERATING_ASSETS
+[2025-03-19T14:23:45.528Z] [jobs-service] [info]: Updated image URL at index 0 for job 67dad024be384bbec08813b1
+[2025-03-19T14:25:29.291Z] [jobs-service] [info]: Added job 67dad024be384bbec08813b1 to regenerate-image queue for image index 1
+[2025-03-19T14:25:29.310Z] [jobs-service] [info]: Job 67dad024be384bbec08813b1 status updated to GENERATING_ASSETS
+[2025-03-19T14:25:35.385Z] [jobs-service] [info]: Updated image URL at index 1 for job 67dad024be384bbec08813b1
+[2025-03-19T14:25:45.709Z] [jobs-service] [info]: Added job 67dad024be384bbec08813b1 to regenerate-image queue for image index 2
+[2025-03-19T14:25:45.721Z] [jobs-service] [info]: Job 67dad024be384bbec08813b1 status updated to GENERATING_ASSETS
+[2025-03-19T14:25:53.347Z] [jobs-service] [info]: Updated image URL at index 2 for job 67dad024be384bbec08813b1
+[2025-03-19T14:26:14.886Z] [jobs-service] [info]: Added job 67dad024be384bbec08813b1 to regenerate-image queue for image index 4
+[2025-03-19T14:26:14.896Z] [jobs-service] [info]: Job 67dad024be384bbec08813b1 status updated to GENERATING_ASSETS
+[2025-03-19T14:26:22.978Z] [jobs-service] [info]: Updated image URL at index 4 for job 67dad024be384bbec08813b1
+[2025-03-19T14:26:31.479Z] [jobs-service] [info]: Added job 67dad024be384bbec08813b1 to regenerate-image queue for image index 7
+[2025-03-19T14:26:31.489Z] [jobs-service] [info]: Job 67dad024be384bbec08813b1 status updated to GENERATING_ASSETS
+[2025-03-19T14:26:38.375Z] [jobs-service] [info]: Updated image URL at index 7 for job 67dad024be384bbec08813b1
+[2025-03-19T14:26:39.124Z] [jobs-service] [info]: Added job 67dad024be384bbec08813b1 to regenerate-image queue for image index 8
+[2025-03-19T14:26:39.135Z] [jobs-service] [info]: Job 67dad024be384bbec08813b1 status updated to GENERATING_ASSETS
+[2025-03-19T14:26:45.531Z] [jobs-service] [info]: Updated image URL at index 8 for job 67dad024be384bbec08813b1
+[2025-03-19T14:26:51.887Z] [jobs-service] [info]: Added job 67dad024be384bbec08813b1 to regenerate-image queue for image index 9
+[2025-03-19T14:26:51.898Z] [jobs-service] [info]: Job 67dad024be384bbec08813b1 status updated to GENERATING_ASSETS
+[2025-03-19T14:26:58.953Z] [jobs-service] [info]: Updated image URL at index 9 for job 67dad024be384bbec08813b1
+[2025-03-19T14:27:53.119Z] [jobs-service] [info]: Added job 67dad024be384bbec08813b1 to regenerate-image queue for image index 8
+[2025-03-19T14:27:53.131Z] [jobs-service] [info]: Job 67dad024be384bbec08813b1 status updated to GENERATING_ASSETS
+[2025-03-19T14:28:00.704Z] [jobs-service] [info]: Updated image URL at index 8 for job 67dad024be384bbec08813b1
+[2025-03-19T14:28:22.990Z] [jobs-service] [info]: Added job 67dad024be384bbec08813b1 to regenerate-image queue for image index 4
+[2025-03-19T14:28:23.010Z] [jobs-service] [info]: Job 67dad024be384bbec08813b1 status updated to GENERATING_ASSETS
+[2025-03-19T14:28:28.691Z] [jobs-service] [info]: Updated image URL at index 4 for job 67dad024be384bbec08813b1
+[2025-03-19T14:28:31.274Z] [jobs-service] [info]: Added job 67dad024be384bbec08813b1 to regenerate-image queue for image index 7
+[2025-03-19T14:28:31.284Z] [jobs-service] [info]: Job 67dad024be384bbec08813b1 status updated to GENERATING_ASSETS
+[2025-03-19T14:28:38.564Z] [jobs-service] [info]: Updated image URL at index 7 for job 67dad024be384bbec08813b1
+[2025-03-19T14:29:16.206Z] [jobs-service] [info]: Added job 67dad024be384bbec08813b1 to regenerate-image queue for image index 7
+[2025-03-19T14:29:16.225Z] [jobs-service] [info]: Job 67dad024be384bbec08813b1 status updated to GENERATING_ASSETS
+[2025-03-19T14:29:40.548Z] [jobs-service] [info]: Updated image URL at index 7 for job 67dad024be384bbec08813b1
+[2025-03-19T14:29:57.955Z] [jobs-service] [info]: Added job 67dad024be384bbec08813b1 to regenerate-image queue for image index 7
+[2025-03-19T14:29:57.964Z] [jobs-service] [info]: Job 67dad024be384bbec08813b1 status updated to GENERATING_ASSETS
+[2025-03-19T14:30:09.554Z] [jobs-service] [info]: Updated image URL at index 7 for job 67dad024be384bbec08813b1
+[2025-03-19T14:33:40.544Z] [jobs-service] [info]: Added job 67dad024be384bbec08813b1 to regenerate-image queue for image index 7
+[2025-03-19T14:33:40.557Z] [jobs-service] [info]: Job 67dad024be384bbec08813b1 status updated to GENERATING_ASSETS
+[2025-03-19T14:34:04.195Z] [jobs-service] [info]: Updated image URL at index 7 for job 67dad024be384bbec08813b1
+[2025-03-19T14:43:00.648Z] [jobs-service] [info]: Job created with ID: 67dad7f4bafc03c132e58280
+[2025-03-19T14:43:00.676Z] [jobs-service] [info]: Job 67dad7f4bafc03c132e58280 status updated to PROCESSING
+[2025-03-19T16:27:44.299Z] [jobs-service] [info]: Added job 67dad7f4bafc03c132e58280 to regenerate-image queue for image index 0
+[2025-03-19T16:27:44.316Z] [jobs-service] [info]: Job 67dad7f4bafc03c132e58280 status updated to GENERATING_ASSETS
+[2025-03-19T16:27:52.824Z] [jobs-service] [info]: Updated image URL at index 0 for job 67dad7f4bafc03c132e58280
+[2025-03-19T16:28:09.000Z] [jobs-service] [info]: Added job 67dad7f4bafc03c132e58280 to regenerate-image queue for image index 0
+[2025-03-19T16:28:09.013Z] [jobs-service] [info]: Job 67dad7f4bafc03c132e58280 status updated to GENERATING_ASSETS
+[2025-03-19T16:28:15.311Z] [jobs-service] [info]: Updated image URL at index 0 for job 67dad7f4bafc03c132e58280
+[2025-03-19T16:28:16.241Z] [jobs-service] [info]: Added job 67dad7f4bafc03c132e58280 to regenerate-image queue for image index 2
+[2025-03-19T16:28:16.253Z] [jobs-service] [info]: Job 67dad7f4bafc03c132e58280 status updated to GENERATING_ASSETS
+[2025-03-19T16:28:24.173Z] [jobs-service] [info]: Updated image URL at index 2 for job 67dad7f4bafc03c132e58280
+[2025-03-19T16:28:24.952Z] [jobs-service] [info]: Added job 67dad7f4bafc03c132e58280 to regenerate-image queue for image index 5
+[2025-03-19T16:28:24.963Z] [jobs-service] [info]: Job 67dad7f4bafc03c132e58280 status updated to GENERATING_ASSETS
+[2025-03-19T16:28:33.341Z] [jobs-service] [info]: Updated image URL at index 5 for job 67dad7f4bafc03c132e58280
+[2025-03-19T16:28:34.016Z] [jobs-service] [info]: Added job 67dad7f4bafc03c132e58280 to regenerate-image queue for image index 7
+[2025-03-19T16:28:34.028Z] [jobs-service] [info]: Job 67dad7f4bafc03c132e58280 status updated to GENERATING_ASSETS
+[2025-03-19T16:28:44.333Z] [jobs-service] [info]: Updated image URL at index 7 for job 67dad7f4bafc03c132e58280
+[2025-03-19T16:29:02.157Z] [jobs-service] [info]: Added job 67dad7f4bafc03c132e58280 to regenerate-image queue for image index 2
+[2025-03-19T16:29:02.170Z] [jobs-service] [info]: Job 67dad7f4bafc03c132e58280 status updated to GENERATING_ASSETS
+[2025-03-19T16:29:08.486Z] [jobs-service] [info]: Updated image URL at index 2 for job 67dad7f4bafc03c132e58280
+[2025-03-19T16:29:22.619Z] [jobs-service] [info]: Added job 67dad7f4bafc03c132e58280 to regenerate-image queue for image index 2
+[2025-03-19T16:29:22.624Z] [jobs-service] [info]: Job 67dad7f4bafc03c132e58280 status updated to GENERATING_ASSETS
+[2025-03-19T16:29:28.611Z] [jobs-service] [info]: Updated image URL at index 2 for job 67dad7f4bafc03c132e58280
+[2025-03-19T16:29:46.023Z] [jobs-service] [info]: Added job 67dad7f4bafc03c132e58280 to regenerate-image queue for image index 3
+[2025-03-19T16:29:46.035Z] [jobs-service] [info]: Job 67dad7f4bafc03c132e58280 status updated to GENERATING_ASSETS
+[2025-03-19T16:29:52.729Z] [jobs-service] [info]: Updated image URL at index 3 for job 67dad7f4bafc03c132e58280
+[2025-03-19T16:30:36.444Z] [jobs-service] [info]: Added job 67dad7f4bafc03c132e58280 to regenerate-image queue for image index 3
+[2025-03-19T16:30:36.459Z] [jobs-service] [info]: Job 67dad7f4bafc03c132e58280 status updated to GENERATING_ASSETS
+[2025-03-19T16:30:50.042Z] [jobs-service] [info]: Updated image URL at index 3 for job 67dad7f4bafc03c132e58280
+[2025-03-19T16:31:53.278Z] [jobs-service] [info]: Added job 67dad7f4bafc03c132e58280 to regenerate-image queue for image index 4
+[2025-03-19T16:31:53.291Z] [jobs-service] [info]: Job 67dad7f4bafc03c132e58280 status updated to GENERATING_ASSETS
+[2025-03-19T16:31:59.529Z] [jobs-service] [info]: Updated image URL at index 4 for job 67dad7f4bafc03c132e58280
+[2025-03-19T16:32:07.203Z] [jobs-service] [info]: Added job 67dad7f4bafc03c132e58280 to regenerate-image queue for image index 5
+[2025-03-19T16:32:07.214Z] [jobs-service] [info]: Job 67dad7f4bafc03c132e58280 status updated to GENERATING_ASSETS
+[2025-03-19T16:32:15.679Z] [jobs-service] [info]: Updated image URL at index 5 for job 67dad7f4bafc03c132e58280
+[2025-03-19T16:32:22.223Z] [jobs-service] [info]: Added job 67dad7f4bafc03c132e58280 to regenerate-image queue for image index 5
+[2025-03-19T16:32:22.233Z] [jobs-service] [info]: Job 67dad7f4bafc03c132e58280 status updated to GENERATING_ASSETS
+[2025-03-19T16:32:29.308Z] [jobs-service] [info]: Updated image URL at index 5 for job 67dad7f4bafc03c132e58280
+[2025-03-19T16:32:39.011Z] [jobs-service] [info]: Added job 67dad7f4bafc03c132e58280 to regenerate-image queue for image index 5
+[2025-03-19T16:32:39.023Z] [jobs-service] [info]: Job 67dad7f4bafc03c132e58280 status updated to GENERATING_ASSETS
+[2025-03-19T16:32:46.106Z] [jobs-service] [info]: Updated image URL at index 5 for job 67dad7f4bafc03c132e58280
+[2025-03-19T16:32:53.193Z] [jobs-service] [info]: Added job 67dad7f4bafc03c132e58280 to regenerate-image queue for image index 5
+[2025-03-19T16:32:53.206Z] [jobs-service] [info]: Job 67dad7f4bafc03c132e58280 status updated to GENERATING_ASSETS
+[2025-03-19T16:33:13.597Z] [jobs-service] [info]: Updated image URL at index 5 for job 67dad7f4bafc03c132e58280
+[2025-03-19T16:36:53.434Z] [jobs-service] [info]: Added job 67dad7f4bafc03c132e58280 to regenerate-image queue for image index 5
+[2025-03-19T16:36:53.449Z] [jobs-service] [info]: Job 67dad7f4bafc03c132e58280 status updated to GENERATING_ASSETS
+[2025-03-19T16:37:21.116Z] [jobs-service] [info]: Updated image URL at index 5 for job 67dad7f4bafc03c132e58280
+[2025-03-19T16:40:30.025Z] [jobs-service] [info]: Job 67dad7f4bafc03c132e58280 status updated to GENERATING_VIDEO
+[2025-03-19T16:40:30.029Z] [jobs-service] [info]: Added job 67dad7f4bafc03c132e58280 to video queue
+[2025-03-19T16:40:30.041Z] [jobs-service] [info]: Job 67dad7f4bafc03c132e58280 status updated to GENERATING_VIDEO
+[2025-03-19T16:40:49.344Z] [jobs-service] [info]: Job 67dad7f4bafc03c132e58280 status updated to COMPLETED
+[2025-03-19T16:50:08.992Z] [jobs-service] [info]: Job created with ID: 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:50:09.026Z] [jobs-service] [info]: Job 67daf5c011c09a0ff3103ea9 status updated to PROCESSING
+[2025-03-19T16:52:00.987Z] [jobs-service] [info]: Job 67daf5c011c09a0ff3103ea9 status updated to GENERATING_VIDEO
+[2025-03-19T16:52:00.991Z] [jobs-service] [info]: Added job 67daf5c011c09a0ff3103ea9 to video queue
+[2025-03-19T16:52:00.997Z] [jobs-service] [info]: Job 67daf5c011c09a0ff3103ea9 status updated to GENERATING_VIDEO
+[2025-03-19T16:52:21.237Z] [jobs-service] [info]: Job 67daf5c011c09a0ff3103ea9 status updated to COMPLETED
+[2025-03-19T17:21:43.459Z] [jobs-service] [info]: Job created with ID: 67dafd275a4368873ac78681
+[2025-03-19T17:21:43.479Z] [jobs-service] [info]: Job 67dafd275a4368873ac78681 status updated to PROCESSING
+[2025-03-19T17:24:42.080Z] [jobs-service] [info]: Job 67dafd275a4368873ac78681 status updated to GENERATING_VIDEO
+[2025-03-19T17:24:42.083Z] [jobs-service] [info]: Added job 67dafd275a4368873ac78681 to video queue
+[2025-03-19T17:24:42.093Z] [jobs-service] [info]: Job 67dafd275a4368873ac78681 status updated to GENERATING_VIDEO
+[2025-03-19T17:26:15.205Z] [jobs-service] [info]: Job 67dafd275a4368873ac78681 status updated to GENERATING_VIDEO
+[2025-03-19T17:26:39.180Z] [jobs-service] [info]: Job 67dafd275a4368873ac78681 status updated to ERROR
+[2025-03-19T17:27:01.291Z] [jobs-service] [info]: Job 67dafd275a4368873ac78681 status updated to GENERATING_VIDEO
+[2025-03-19T17:29:18.831Z] [jobs-service] [info]: Job 67dafd275a4368873ac78681 status updated to ERROR
+[2025-03-19T17:29:50.342Z] [jobs-service] [info]: Job 67dafd275a4368873ac78681 status updated to ERROR
+[2025-03-24T11:04:58.099Z] [jobs-service] [info]: Job created with ID: 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:04:58.111Z] [jobs-service] [info]: Job 67e13c5a070848d8a2e49dcd status updated to PROCESSING
+[2025-03-24T11:07:27.684Z] [jobs-service] [info]: Job 67e13c5a070848d8a2e49dcd status updated to GENERATING_VIDEO
+[2025-03-24T11:07:27.687Z] [jobs-service] [info]: Added job 67e13c5a070848d8a2e49dcd to video queue
+[2025-03-24T11:07:27.697Z] [jobs-service] [info]: Job 67e13c5a070848d8a2e49dcd status updated to GENERATING_VIDEO
+[2025-03-24T11:09:01.849Z] [jobs-service] [info]: Job 67e13c5a070848d8a2e49dcd status updated to ERROR
+[2025-03-24T11:09:01.853Z] [jobs-service] [info]: Job 67e13c5a070848d8a2e49dcd status updated to GENERATING_VIDEO
+[2025-03-24T11:10:35.182Z] [jobs-service] [info]: Job 67e13c5a070848d8a2e49dcd status updated to ERROR
+[2025-03-24T11:10:35.184Z] [jobs-service] [info]: Job 67e13c5a070848d8a2e49dcd status updated to GENERATING_VIDEO
+[2025-03-24T11:12:08.243Z] [jobs-service] [info]: Job 67e13c5a070848d8a2e49dcd status updated to ERROR

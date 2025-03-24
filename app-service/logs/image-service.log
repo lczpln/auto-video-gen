@@ -1,0 +1,1182 @@
+[2025-03-18T19:45:12.596Z] [image-service] [info]: Generating images for job: 67d9cd47ea2b34e635bae0c0
+[2025-03-18T19:45:12.598Z] [image-service] [info]: Processing image 1/5 for job 67d9cd47ea2b34e635bae0c0
+[2025-03-18T19:45:13.101Z] [image-service] [info]: Image 1/5 generated successfully for job 67d9cd47ea2b34e635bae0c0
+[2025-03-18T19:45:13.102Z] [image-service] [info]: Processing image 2/5 for job 67d9cd47ea2b34e635bae0c0
+[2025-03-18T19:45:13.606Z] [image-service] [info]: Image 2/5 generated successfully for job 67d9cd47ea2b34e635bae0c0
+[2025-03-18T19:45:13.609Z] [image-service] [info]: Processing image 3/5 for job 67d9cd47ea2b34e635bae0c0
+[2025-03-18T19:45:14.122Z] [image-service] [info]: Image 3/5 generated successfully for job 67d9cd47ea2b34e635bae0c0
+[2025-03-18T19:45:14.125Z] [image-service] [info]: Processing image 4/5 for job 67d9cd47ea2b34e635bae0c0
+[2025-03-18T19:45:14.632Z] [image-service] [info]: Image 4/5 generated successfully for job 67d9cd47ea2b34e635bae0c0
+[2025-03-18T19:45:14.636Z] [image-service] [info]: Processing image 5/5 for job 67d9cd47ea2b34e635bae0c0
+[2025-03-18T19:45:15.146Z] [image-service] [info]: Image 5/5 generated successfully for job 67d9cd47ea2b34e635bae0c0
+[2025-03-18T19:55:24.414Z] [image-service] [info]: Generating images for job: 67d9cfabf812280297eb1bc4
+[2025-03-18T19:55:24.416Z] [image-service] [info]: Processing image 1/5 for job 67d9cfabf812280297eb1bc4
+[2025-03-18T19:55:24.920Z] [image-service] [info]: Image 1/5 generated successfully for job 67d9cfabf812280297eb1bc4
+[2025-03-18T19:55:24.923Z] [image-service] [info]: Processing image 2/5 for job 67d9cfabf812280297eb1bc4
+[2025-03-18T19:55:25.431Z] [image-service] [info]: Image 2/5 generated successfully for job 67d9cfabf812280297eb1bc4
+[2025-03-18T19:55:25.433Z] [image-service] [info]: Processing image 3/5 for job 67d9cfabf812280297eb1bc4
+[2025-03-18T19:55:25.951Z] [image-service] [info]: Image 3/5 generated successfully for job 67d9cfabf812280297eb1bc4
+[2025-03-18T19:55:25.953Z] [image-service] [info]: Processing image 4/5 for job 67d9cfabf812280297eb1bc4
+[2025-03-18T19:55:26.464Z] [image-service] [info]: Image 4/5 generated successfully for job 67d9cfabf812280297eb1bc4
+[2025-03-18T19:55:26.468Z] [image-service] [info]: Processing image 5/5 for job 67d9cfabf812280297eb1bc4
+[2025-03-18T19:55:26.975Z] [image-service] [info]: Image 5/5 generated successfully for job 67d9cfabf812280297eb1bc4
+[2025-03-18T20:01:32.511Z] [image-service] [info]: Generating single image for job: 67d9cfabf812280297eb1bc4 at index: 0
+[2025-03-18T20:02:04.628Z] [image-service] [info]: Generating images for job: 67d9d13c80f626dcd75c9f65
+[2025-03-18T20:02:04.629Z] [image-service] [info]: Processing image 1/5 for job 67d9d13c80f626dcd75c9f65
+[2025-03-18T20:02:05.133Z] [image-service] [info]: Image 1/5 generated successfully for job 67d9d13c80f626dcd75c9f65
+[2025-03-18T20:02:05.136Z] [image-service] [info]: Processing image 2/5 for job 67d9d13c80f626dcd75c9f65
+[2025-03-18T20:02:05.647Z] [image-service] [info]: Image 2/5 generated successfully for job 67d9d13c80f626dcd75c9f65
+[2025-03-18T20:02:05.649Z] [image-service] [info]: Processing image 3/5 for job 67d9d13c80f626dcd75c9f65
+[2025-03-18T20:02:06.155Z] [image-service] [info]: Image 3/5 generated successfully for job 67d9d13c80f626dcd75c9f65
+[2025-03-18T20:02:06.158Z] [image-service] [info]: Processing image 4/5 for job 67d9d13c80f626dcd75c9f65
+[2025-03-18T20:02:06.670Z] [image-service] [info]: Image 4/5 generated successfully for job 67d9d13c80f626dcd75c9f65
+[2025-03-18T20:02:06.673Z] [image-service] [info]: Processing image 5/5 for job 67d9d13c80f626dcd75c9f65
+[2025-03-18T20:02:07.184Z] [image-service] [info]: Image 5/5 generated successfully for job 67d9d13c80f626dcd75c9f65
+[2025-03-18T20:03:06.234Z] [image-service] [info]: Generating images for job: 67d9d17934cfbbf9f9fd04cc
+[2025-03-18T20:03:06.235Z] [image-service] [info]: Processing image 1/5 for job 67d9d17934cfbbf9f9fd04cc
+[2025-03-18T20:03:06.739Z] [image-service] [info]: Image 1/5 generated successfully for job 67d9d17934cfbbf9f9fd04cc
+[2025-03-18T20:03:06.741Z] [image-service] [info]: Processing image 2/5 for job 67d9d17934cfbbf9f9fd04cc
+[2025-03-18T20:03:07.248Z] [image-service] [info]: Image 2/5 generated successfully for job 67d9d17934cfbbf9f9fd04cc
+[2025-03-18T20:03:07.250Z] [image-service] [info]: Processing image 3/5 for job 67d9d17934cfbbf9f9fd04cc
+[2025-03-18T20:03:07.756Z] [image-service] [info]: Image 3/5 generated successfully for job 67d9d17934cfbbf9f9fd04cc
+[2025-03-18T20:03:07.759Z] [image-service] [info]: Processing image 4/5 for job 67d9d17934cfbbf9f9fd04cc
+[2025-03-18T20:03:08.268Z] [image-service] [info]: Image 4/5 generated successfully for job 67d9d17934cfbbf9f9fd04cc
+[2025-03-18T20:03:08.271Z] [image-service] [info]: Processing image 5/5 for job 67d9d17934cfbbf9f9fd04cc
+[2025-03-18T20:03:08.785Z] [image-service] [info]: Image 5/5 generated successfully for job 67d9d17934cfbbf9f9fd04cc
+[2025-03-18T20:05:35.958Z] [image-service] [info]: Generating images for job: 67d9d2027993b4ea61d53481
+[2025-03-18T20:05:35.960Z] [image-service] [info]: Processing image 1/10 for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:05:35.960Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:05:35.961Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:05:45.005Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d2027993b4ea61d53481/67d9d2027993b4ea61d53481-image-0-1742328335961-faa59e66.jpg
+[2025-03-18T20:05:45.007Z] [image-service] [info]: Image 1/10 generated successfully for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:05:45.007Z] [image-service] [info]: Processing image 2/10 for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:05:45.008Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:05:45.009Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:05:52.202Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d2027993b4ea61d53481/67d9d2027993b4ea61d53481-image-1-1742328345009-8d486c52.jpg
+[2025-03-18T20:05:52.205Z] [image-service] [info]: Image 2/10 generated successfully for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:05:52.206Z] [image-service] [info]: Processing image 3/10 for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:05:52.207Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:05:52.209Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:05:59.334Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d2027993b4ea61d53481/67d9d2027993b4ea61d53481-image-2-1742328352209-02f50f8e.jpg
+[2025-03-18T20:05:59.336Z] [image-service] [info]: Image 3/10 generated successfully for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:05:59.337Z] [image-service] [info]: Processing image 4/10 for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:05:59.338Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:05:59.340Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:06:03.993Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d2027993b4ea61d53481/67d9d2027993b4ea61d53481-image-3-1742328359340-f3ebb736.jpg
+[2025-03-18T20:06:03.996Z] [image-service] [info]: Image 4/10 generated successfully for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:06:03.998Z] [image-service] [info]: Processing image 5/10 for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:06:04.000Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:06:04.001Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:06:08.699Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d2027993b4ea61d53481/67d9d2027993b4ea61d53481-image-4-1742328364001-19c4eede.jpg
+[2025-03-18T20:06:08.703Z] [image-service] [info]: Image 5/10 generated successfully for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:06:08.705Z] [image-service] [info]: Processing image 6/10 for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:06:08.706Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:06:08.708Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:06:14.493Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d2027993b4ea61d53481/67d9d2027993b4ea61d53481-image-5-1742328368708-9f4c1106.jpg
+[2025-03-18T20:06:14.495Z] [image-service] [info]: Image 6/10 generated successfully for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:06:14.496Z] [image-service] [info]: Processing image 7/10 for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:06:14.498Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:06:14.501Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:06:20.498Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d2027993b4ea61d53481/67d9d2027993b4ea61d53481-image-6-1742328374501-c7219bf3.jpg
+[2025-03-18T20:06:20.500Z] [image-service] [info]: Image 7/10 generated successfully for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:06:20.502Z] [image-service] [info]: Processing image 8/10 for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:06:20.504Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:06:20.508Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:06:34.495Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d2027993b4ea61d53481/67d9d2027993b4ea61d53481-image-7-1742328380508-00a12995.jpg
+[2025-03-18T20:06:34.498Z] [image-service] [info]: Image 8/10 generated successfully for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:06:34.499Z] [image-service] [info]: Processing image 9/10 for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:06:34.501Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:06:34.506Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:06:47.709Z] [image-service] [info]: Generating images for job: 67d9d2447993b4ea61d53496
+[2025-03-18T20:06:47.712Z] [image-service] [info]: Processing image 1/10 for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:06:47.713Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:06:47.714Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:06:48.526Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d2027993b4ea61d53481/67d9d2027993b4ea61d53481-image-8-1742328394506-ee48291a.jpg
+[2025-03-18T20:06:48.529Z] [image-service] [info]: Image 9/10 generated successfully for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:06:48.530Z] [image-service] [info]: Processing image 10/10 for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:06:48.531Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:06:48.533Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:06:52.707Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d2447993b4ea61d53496/67d9d2447993b4ea61d53496-image-0-1742328407714-ffc59dfb.jpg
+[2025-03-18T20:06:52.710Z] [image-service] [info]: Image 1/10 generated successfully for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:06:52.711Z] [image-service] [info]: Processing image 2/10 for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:06:52.712Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:06:52.714Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:07:01.894Z] [image-service] [info]: Generating images for job: 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:07:01.896Z] [image-service] [info]: Processing image 1/10 for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:07:01.896Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:07:01.897Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:07:21.046Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d2027993b4ea61d53481/67d9d2027993b4ea61d53481-image-9-1742328408532-d46f4caf.jpg
+[2025-03-18T20:07:21.049Z] [image-service] [info]: Image 10/10 generated successfully for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:07:21.051Z] [image-service] [info]: Images generated: 10
+[2025-03-18T20:07:37.306Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d2447993b4ea61d53496/67d9d2447993b4ea61d53496-image-1-1742328412714-6d7907d1.jpg
+[2025-03-18T20:07:37.308Z] [image-service] [info]: Image 2/10 generated successfully for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:07:37.309Z] [image-service] [info]: Processing image 3/10 for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:07:37.310Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:07:37.312Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:07:41.425Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-image-0-1742328421897-2e95dd5a.jpg
+[2025-03-18T20:07:41.428Z] [image-service] [info]: Image 1/10 generated successfully for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:07:41.430Z] [image-service] [info]: Processing image 2/10 for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:07:41.431Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:07:41.433Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:07:46.890Z] [image-service] [info]: Generating single image for job: 67d9d2027993b4ea61d53481 at index: 7
+[2025-03-18T20:07:46.891Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:07:46.891Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:07:47.258Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d2447993b4ea61d53496/67d9d2447993b4ea61d53496-image-2-1742328457312-e0e7e964.jpg
+[2025-03-18T20:07:47.261Z] [image-service] [info]: Image 3/10 generated successfully for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:07:47.263Z] [image-service] [info]: Processing image 4/10 for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:07:47.266Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:07:47.268Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:07:47.502Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d2027993b4ea61d53481/67d9d2027993b4ea61d53481-image-7-1742328466891-2a469c49.jpg
+[2025-03-18T20:07:53.266Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-image-1-1742328461433-3d416065.jpg
+[2025-03-18T20:07:53.269Z] [image-service] [info]: Image 2/10 generated successfully for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:07:53.272Z] [image-service] [info]: Processing image 3/10 for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:07:53.275Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:07:53.277Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:08:04.357Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d2447993b4ea61d53496/67d9d2447993b4ea61d53496-image-3-1742328467268-5a7ffc63.jpg
+[2025-03-18T20:08:04.360Z] [image-service] [info]: Image 4/10 generated successfully for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:08:04.362Z] [image-service] [info]: Processing image 5/10 for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:08:04.364Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:08:04.366Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:08:12.848Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-image-2-1742328473277-2264172f.jpg
+[2025-03-18T20:08:12.851Z] [image-service] [info]: Image 3/10 generated successfully for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:08:12.852Z] [image-service] [info]: Processing image 4/10 for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:08:12.854Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:08:12.855Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:08:37.002Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d2447993b4ea61d53496/67d9d2447993b4ea61d53496-image-4-1742328484366-271db415.jpg
+[2025-03-18T20:08:37.005Z] [image-service] [info]: Image 5/10 generated successfully for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:08:37.006Z] [image-service] [info]: Processing image 6/10 for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:08:37.007Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:08:37.009Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:08:42.460Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-image-3-1742328492855-f335d408.jpg
+[2025-03-18T20:08:42.463Z] [image-service] [info]: Image 4/10 generated successfully for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:08:42.464Z] [image-service] [info]: Processing image 5/10 for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:08:42.466Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:08:42.467Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:08:46.861Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d2447993b4ea61d53496/67d9d2447993b4ea61d53496-image-5-1742328517009-abafdaf1.jpg
+[2025-03-18T20:08:46.864Z] [image-service] [info]: Image 6/10 generated successfully for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:08:46.865Z] [image-service] [info]: Processing image 7/10 for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:08:46.867Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:08:46.869Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:08:54.259Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-image-4-1742328522467-057a089d.jpg
+[2025-03-18T20:08:54.260Z] [image-service] [info]: Image 5/10 generated successfully for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:08:54.261Z] [image-service] [info]: Processing image 6/10 for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:08:54.261Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:08:54.262Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:09:06.936Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d2447993b4ea61d53496/67d9d2447993b4ea61d53496-image-6-1742328526869-9610d7d5.jpg
+[2025-03-18T20:09:06.939Z] [image-service] [info]: Image 7/10 generated successfully for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:09:06.941Z] [image-service] [info]: Processing image 8/10 for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:09:06.942Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:09:06.944Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:09:07.469Z] [image-service] [warn]: Image generation attempt 1 failed: Request failed with status code 502
+[2025-03-18T20:09:07.472Z] [image-service] [info]: Waiting 3 seconds before retry...
+[2025-03-18T20:09:07.889Z] [image-service] [warn]: Image generation attempt 1 failed: Request failed with status code 502
+[2025-03-18T20:09:07.891Z] [image-service] [info]: Waiting 3 seconds before retry...
+[2025-03-18T20:09:10.477Z] [image-service] [info]: Attempt 2/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:09:10.478Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:09:10.895Z] [image-service] [info]: Attempt 2/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:09:10.899Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:09:11.442Z] [image-service] [warn]: Image generation attempt 2 failed: Request failed with status code 502
+[2025-03-18T20:09:11.444Z] [image-service] [info]: Waiting 6 seconds before retry...
+[2025-03-18T20:09:11.911Z] [image-service] [warn]: Image generation attempt 2 failed: Request failed with status code 502
+[2025-03-18T20:09:11.913Z] [image-service] [info]: Waiting 6 seconds before retry...
+[2025-03-18T20:09:23.447Z] [image-service] [info]: Attempt 3/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:09:23.450Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:09:23.917Z] [image-service] [info]: Attempt 3/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:09:23.921Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:09:26.244Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-image-5-1742328563450-603aa515.jpg
+[2025-03-18T20:09:26.247Z] [image-service] [info]: Image 6/10 generated successfully for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:09:26.248Z] [image-service] [info]: Processing image 7/10 for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:09:26.249Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:09:26.250Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:09:38.219Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d2447993b4ea61d53496/67d9d2447993b4ea61d53496-image-7-1742328563921-1b7ea3e1.jpg
+[2025-03-18T20:09:38.220Z] [image-service] [info]: Image 8/10 generated successfully for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:09:38.221Z] [image-service] [info]: Processing image 9/10 for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:09:38.222Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:09:38.223Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:09:48.205Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-image-6-1742328566250-96d62b7b.jpg
+[2025-03-18T20:09:48.210Z] [image-service] [info]: Image 7/10 generated successfully for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:09:48.212Z] [image-service] [info]: Processing image 8/10 for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:09:48.213Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:09:48.215Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:10:15.446Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d2447993b4ea61d53496/67d9d2447993b4ea61d53496-image-8-1742328578223-1232efac.jpg
+[2025-03-18T20:10:15.450Z] [image-service] [info]: Image 9/10 generated successfully for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:10:15.452Z] [image-service] [info]: Processing image 10/10 for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:10:15.453Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:10:15.456Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:10:18.773Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-image-7-1742328588215-5ac2ed98.jpg
+[2025-03-18T20:10:18.776Z] [image-service] [info]: Image 8/10 generated successfully for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:10:18.777Z] [image-service] [info]: Processing image 9/10 for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:10:18.778Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:10:18.780Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:10:30.300Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d2447993b4ea61d53496/67d9d2447993b4ea61d53496-image-9-1742328615456-7c899b85.jpg
+[2025-03-18T20:10:30.302Z] [image-service] [info]: Image 10/10 generated successfully for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:10:30.303Z] [image-service] [info]: Images generated: 10
+[2025-03-18T20:10:38.278Z] [image-service] [info]: Generating single image for job: 67d9d2027993b4ea61d53481 at index: 0
+[2025-03-18T20:10:38.279Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:10:38.280Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:10:38.465Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-image-8-1742328618780-99003c18.jpg
+[2025-03-18T20:10:38.467Z] [image-service] [info]: Image 9/10 generated successfully for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:10:38.469Z] [image-service] [info]: Processing image 10/10 for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:10:38.470Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:10:38.472Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:10:39.772Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d2027993b4ea61d53481/67d9d2027993b4ea61d53481-image-0-1742328638280-dfd1bbb5.jpg
+[2025-03-18T20:10:43.707Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-image-9-1742328638472-ee3eefa2.jpg
+[2025-03-18T20:10:43.709Z] [image-service] [info]: Image 10/10 generated successfully for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:10:43.711Z] [image-service] [info]: Images generated: 10
+[2025-03-18T20:12:11.044Z] [image-service] [info]: Generating single image for job: 67d9d24c7993b4ea61d5349f at index: 0
+[2025-03-18T20:12:11.045Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:12:11.047Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:12:11.694Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-image-0-1742328731047-70ef54cf.jpg
+[2025-03-18T20:13:57.212Z] [image-service] [info]: Generating single image for job: 67d9d24c7993b4ea61d5349f at index: 0
+[2025-03-18T20:13:57.213Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:13:57.214Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:13:57.816Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-image-0-1742328837214-83918aaf.jpg
+[2025-03-18T20:14:34.701Z] [image-service] [info]: Generating single image for job: 67d9d24c7993b4ea61d5349f at index: 0
+[2025-03-18T20:14:34.702Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:14:34.703Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:14:39.782Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-image-0-1742328874703-9abce58c.jpg
+[2025-03-18T20:14:58.419Z] [image-service] [info]: Generating images for job: 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:14:58.419Z] [image-service] [info]: Processing image 1/10 for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:14:58.420Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:14:58.420Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:15:04.046Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-image-0-1742328898420-7c7b3eae.jpg
+[2025-03-18T20:15:04.049Z] [image-service] [info]: Image 1/10 generated successfully for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:15:04.050Z] [image-service] [info]: Processing image 2/10 for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:15:04.051Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:15:04.052Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:15:12.853Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-image-1-1742328904052-0402a51f.jpg
+[2025-03-18T20:15:12.856Z] [image-service] [info]: Image 2/10 generated successfully for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:15:12.857Z] [image-service] [info]: Processing image 3/10 for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:15:12.858Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:15:12.861Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:15:18.390Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-image-2-1742328912861-95e3c417.jpg
+[2025-03-18T20:15:18.391Z] [image-service] [info]: Image 3/10 generated successfully for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:15:18.391Z] [image-service] [info]: Processing image 4/10 for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:15:18.392Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:15:18.393Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:15:26.810Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-image-3-1742328918393-8e0236bc.jpg
+[2025-03-18T20:15:26.811Z] [image-service] [info]: Image 4/10 generated successfully for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:15:26.812Z] [image-service] [info]: Processing image 5/10 for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:15:26.813Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:15:26.813Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:15:32.855Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-image-4-1742328926813-78720253.jpg
+[2025-03-18T20:15:32.859Z] [image-service] [info]: Image 5/10 generated successfully for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:15:32.860Z] [image-service] [info]: Processing image 6/10 for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:15:32.861Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:15:32.863Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:15:39.991Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-image-5-1742328932863-e078c402.jpg
+[2025-03-18T20:15:39.995Z] [image-service] [info]: Image 6/10 generated successfully for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:15:39.996Z] [image-service] [info]: Processing image 7/10 for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:15:39.997Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:15:39.998Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:15:45.058Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-image-6-1742328939998-917c6ea1.jpg
+[2025-03-18T20:15:45.059Z] [image-service] [info]: Image 7/10 generated successfully for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:15:45.059Z] [image-service] [info]: Processing image 8/10 for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:15:45.060Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:15:45.060Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:15:50.552Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-image-7-1742328945060-21ade209.jpg
+[2025-03-18T20:15:50.554Z] [image-service] [info]: Image 8/10 generated successfully for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:15:50.555Z] [image-service] [info]: Processing image 9/10 for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:15:50.555Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:15:50.556Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:15:56.848Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-image-8-1742328950556-4d1be04e.jpg
+[2025-03-18T20:15:56.849Z] [image-service] [info]: Image 9/10 generated successfully for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:15:56.850Z] [image-service] [info]: Processing image 10/10 for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:15:56.850Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:15:56.851Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:16:15.311Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-image-9-1742328956851-0cf7a1d2.jpg
+[2025-03-18T20:16:15.314Z] [image-service] [info]: Image 10/10 generated successfully for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:16:15.316Z] [image-service] [info]: Images generated: 10
+[2025-03-18T20:21:18.902Z] [image-service] [info]: Generating single image for job: 67d9d24c7993b4ea61d5349f at index: 0
+[2025-03-18T20:21:18.903Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-18T20:21:18.905Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-18T20:21:27.255Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-image-0-1742329278904-316866fd.jpg
+[2025-03-18T20:22:08.562Z] [image-service] [info]: Generating single image for job: 67d9d17934cfbbf9f9fd04cc at index: 0
+[2025-03-18T20:22:08.563Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: High quality realistic photography, not illustrati...
+[2025-03-18T20:22:08.564Z] [image-service] [info]: Calling image API for prompt: "High quality realistic photogr..."
+[2025-03-18T20:22:11.821Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d17934cfbbf9f9fd04cc/67d9d17934cfbbf9f9fd04cc-image-0-1742329328564-cc397d73.jpg
+[2025-03-18T20:22:13.332Z] [image-service] [info]: Generating single image for job: 67d9d17934cfbbf9f9fd04cc at index: 1
+[2025-03-18T20:22:13.333Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: High quality realistic photography, not illustrati...
+[2025-03-18T20:22:13.333Z] [image-service] [info]: Calling image API for prompt: "High quality realistic photogr..."
+[2025-03-18T20:22:16.936Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d17934cfbbf9f9fd04cc/67d9d17934cfbbf9f9fd04cc-image-1-1742329333333-8292bd10.jpg
+[2025-03-18T20:22:23.348Z] [image-service] [info]: Generating single image for job: 67d9d17934cfbbf9f9fd04cc at index: 3
+[2025-03-18T20:22:23.349Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: High quality realistic photography, not illustrati...
+[2025-03-18T20:22:23.350Z] [image-service] [info]: Calling image API for prompt: "High quality realistic photogr..."
+[2025-03-18T20:22:27.934Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d17934cfbbf9f9fd04cc/67d9d17934cfbbf9f9fd04cc-image-3-1742329343350-e781d922.jpg
+[2025-03-18T20:22:29.732Z] [image-service] [info]: Generating single image for job: 67d9d17934cfbbf9f9fd04cc at index: 4
+[2025-03-18T20:22:29.733Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: High quality realistic photography, not illustrati...
+[2025-03-18T20:22:29.733Z] [image-service] [info]: Calling image API for prompt: "High quality realistic photogr..."
+[2025-03-18T20:22:32.839Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d17934cfbbf9f9fd04cc/67d9d17934cfbbf9f9fd04cc-image-4-1742329349733-0a31d90c.jpg
+[2025-03-18T20:22:36.436Z] [image-service] [info]: Generating single image for job: 67d9d17934cfbbf9f9fd04cc at index: 2
+[2025-03-18T20:22:36.436Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: High quality realistic photography, not illustrati...
+[2025-03-18T20:22:36.437Z] [image-service] [info]: Calling image API for prompt: "High quality realistic photogr..."
+[2025-03-18T20:22:39.866Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d17934cfbbf9f9fd04cc/67d9d17934cfbbf9f9fd04cc-image-2-1742329356437-5c2789ae.jpg
+[2025-03-19T12:10:30.110Z] [image-service] [info]: Generating single image for job: 67d9d17934cfbbf9f9fd04cc at index: 0
+[2025-03-19T12:10:30.112Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: High quality realistic photography, not illustrati...
+[2025-03-19T12:10:30.113Z] [image-service] [info]: Calling image API for prompt: "High quality realistic photogr..."
+[2025-03-19T12:10:33.387Z] [image-service] [info]: Image saved to: /app/storage/images/67d9d17934cfbbf9f9fd04cc/67d9d17934cfbbf9f9fd04cc-image-0-1742386230113-bdc041e2.jpg
+[2025-03-19T12:12:18.828Z] [image-service] [info]: Generating images for job: 67dab49363e40732224c973d
+[2025-03-19T12:12:18.829Z] [image-service] [info]: Processing image 1/10 for job 67dab49363e40732224c973d
+[2025-03-19T12:12:18.829Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T12:12:18.830Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T12:12:26.025Z] [image-service] [info]: Image saved to: /app/storage/images/67dab49363e40732224c973d/67dab49363e40732224c973d-image-0-1742386338830-7c06d4fc.jpg
+[2025-03-19T12:12:26.028Z] [image-service] [info]: Image 1/10 generated successfully for job 67dab49363e40732224c973d
+[2025-03-19T12:12:26.029Z] [image-service] [info]: Processing image 2/10 for job 67dab49363e40732224c973d
+[2025-03-19T12:12:26.030Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T12:12:26.031Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T12:12:31.644Z] [image-service] [info]: Image saved to: /app/storage/images/67dab49363e40732224c973d/67dab49363e40732224c973d-image-1-1742386346031-6a42254d.jpg
+[2025-03-19T12:12:31.647Z] [image-service] [info]: Image 2/10 generated successfully for job 67dab49363e40732224c973d
+[2025-03-19T12:12:31.648Z] [image-service] [info]: Processing image 3/10 for job 67dab49363e40732224c973d
+[2025-03-19T12:12:31.650Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T12:12:31.652Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T12:12:40.530Z] [image-service] [info]: Image saved to: /app/storage/images/67dab49363e40732224c973d/67dab49363e40732224c973d-image-2-1742386351652-523c7146.jpg
+[2025-03-19T12:12:40.533Z] [image-service] [info]: Image 3/10 generated successfully for job 67dab49363e40732224c973d
+[2025-03-19T12:12:40.536Z] [image-service] [info]: Processing image 4/10 for job 67dab49363e40732224c973d
+[2025-03-19T12:12:40.537Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T12:12:40.540Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T12:12:47.346Z] [image-service] [info]: Image saved to: /app/storage/images/67dab49363e40732224c973d/67dab49363e40732224c973d-image-3-1742386360540-51dcc78c.jpg
+[2025-03-19T12:12:47.349Z] [image-service] [info]: Image 4/10 generated successfully for job 67dab49363e40732224c973d
+[2025-03-19T12:12:47.350Z] [image-service] [info]: Processing image 5/10 for job 67dab49363e40732224c973d
+[2025-03-19T12:12:47.351Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T12:12:47.353Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T12:12:52.971Z] [image-service] [info]: Image saved to: /app/storage/images/67dab49363e40732224c973d/67dab49363e40732224c973d-image-4-1742386367353-7ae064f1.jpg
+[2025-03-19T12:12:52.973Z] [image-service] [info]: Image 5/10 generated successfully for job 67dab49363e40732224c973d
+[2025-03-19T12:12:52.974Z] [image-service] [info]: Processing image 6/10 for job 67dab49363e40732224c973d
+[2025-03-19T12:12:52.975Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T12:12:52.976Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T12:12:59.211Z] [image-service] [info]: Image saved to: /app/storage/images/67dab49363e40732224c973d/67dab49363e40732224c973d-image-5-1742386372976-af0ee4cc.jpg
+[2025-03-19T12:12:59.214Z] [image-service] [info]: Image 6/10 generated successfully for job 67dab49363e40732224c973d
+[2025-03-19T12:12:59.215Z] [image-service] [info]: Processing image 7/10 for job 67dab49363e40732224c973d
+[2025-03-19T12:12:59.216Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T12:12:59.219Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T12:13:07.572Z] [image-service] [info]: Image saved to: /app/storage/images/67dab49363e40732224c973d/67dab49363e40732224c973d-image-6-1742386379218-6222a82a.jpg
+[2025-03-19T12:13:07.575Z] [image-service] [info]: Image 7/10 generated successfully for job 67dab49363e40732224c973d
+[2025-03-19T12:13:07.576Z] [image-service] [info]: Processing image 8/10 for job 67dab49363e40732224c973d
+[2025-03-19T12:13:07.577Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T12:13:07.579Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T12:13:14.758Z] [image-service] [info]: Image saved to: /app/storage/images/67dab49363e40732224c973d/67dab49363e40732224c973d-image-7-1742386387579-26887fd7.jpg
+[2025-03-19T12:13:14.761Z] [image-service] [info]: Image 8/10 generated successfully for job 67dab49363e40732224c973d
+[2025-03-19T12:13:14.762Z] [image-service] [info]: Processing image 9/10 for job 67dab49363e40732224c973d
+[2025-03-19T12:13:14.764Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T12:13:14.765Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T12:13:20.306Z] [image-service] [info]: Image saved to: /app/storage/images/67dab49363e40732224c973d/67dab49363e40732224c973d-image-8-1742386394765-1388be7c.jpg
+[2025-03-19T12:13:20.310Z] [image-service] [info]: Image 9/10 generated successfully for job 67dab49363e40732224c973d
+[2025-03-19T12:13:20.312Z] [image-service] [info]: Processing image 10/10 for job 67dab49363e40732224c973d
+[2025-03-19T12:13:20.313Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T12:13:20.315Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T12:13:28.034Z] [image-service] [info]: Image saved to: /app/storage/images/67dab49363e40732224c973d/67dab49363e40732224c973d-image-9-1742386400315-77a19b1a.jpg
+[2025-03-19T12:13:28.042Z] [image-service] [info]: Image 10/10 generated successfully for job 67dab49363e40732224c973d
+[2025-03-19T12:13:28.043Z] [image-service] [info]: Images generated: 10
+[2025-03-19T12:24:32.691Z] [image-service] [info]: Generating images for job: 67dab772bffdda2d31fab352
+[2025-03-19T12:24:32.693Z] [image-service] [info]: Processing image 1/10 for job 67dab772bffdda2d31fab352
+[2025-03-19T12:24:32.693Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T12:24:32.694Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T12:24:37.879Z] [image-service] [info]: Image saved to: /app/storage/images/67dab772bffdda2d31fab352/67dab772bffdda2d31fab352-image-0-1742387072694-47141643.jpg
+[2025-03-19T12:24:37.882Z] [image-service] [info]: Image 1/10 generated successfully for job 67dab772bffdda2d31fab352
+[2025-03-19T12:24:37.883Z] [image-service] [info]: Processing image 2/10 for job 67dab772bffdda2d31fab352
+[2025-03-19T12:24:37.884Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T12:24:37.886Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T12:24:44.403Z] [image-service] [info]: Image saved to: /app/storage/images/67dab772bffdda2d31fab352/67dab772bffdda2d31fab352-image-1-1742387077886-c318f70c.jpg
+[2025-03-19T12:24:44.406Z] [image-service] [info]: Image 2/10 generated successfully for job 67dab772bffdda2d31fab352
+[2025-03-19T12:24:44.408Z] [image-service] [info]: Processing image 3/10 for job 67dab772bffdda2d31fab352
+[2025-03-19T12:24:44.409Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T12:24:44.411Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T12:24:50.686Z] [image-service] [info]: Image saved to: /app/storage/images/67dab772bffdda2d31fab352/67dab772bffdda2d31fab352-image-2-1742387084411-8d420ca9.jpg
+[2025-03-19T12:24:50.688Z] [image-service] [info]: Image 3/10 generated successfully for job 67dab772bffdda2d31fab352
+[2025-03-19T12:24:50.689Z] [image-service] [info]: Processing image 4/10 for job 67dab772bffdda2d31fab352
+[2025-03-19T12:24:50.691Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T12:24:50.692Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T12:24:55.979Z] [image-service] [info]: Image saved to: /app/storage/images/67dab772bffdda2d31fab352/67dab772bffdda2d31fab352-image-3-1742387090692-08e1ca29.jpg
+[2025-03-19T12:24:55.982Z] [image-service] [info]: Image 4/10 generated successfully for job 67dab772bffdda2d31fab352
+[2025-03-19T12:24:55.983Z] [image-service] [info]: Processing image 5/10 for job 67dab772bffdda2d31fab352
+[2025-03-19T12:24:55.985Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T12:24:55.986Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T12:25:01.573Z] [image-service] [info]: Image saved to: /app/storage/images/67dab772bffdda2d31fab352/67dab772bffdda2d31fab352-image-4-1742387095986-ce9efc94.jpg
+[2025-03-19T12:25:01.576Z] [image-service] [info]: Image 5/10 generated successfully for job 67dab772bffdda2d31fab352
+[2025-03-19T12:25:01.577Z] [image-service] [info]: Processing image 6/10 for job 67dab772bffdda2d31fab352
+[2025-03-19T12:25:01.578Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T12:25:01.579Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T12:25:07.483Z] [image-service] [info]: Image saved to: /app/storage/images/67dab772bffdda2d31fab352/67dab772bffdda2d31fab352-image-5-1742387101579-c38604f0.jpg
+[2025-03-19T12:25:07.486Z] [image-service] [info]: Image 6/10 generated successfully for job 67dab772bffdda2d31fab352
+[2025-03-19T12:25:07.488Z] [image-service] [info]: Processing image 7/10 for job 67dab772bffdda2d31fab352
+[2025-03-19T12:25:07.489Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T12:25:07.491Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T12:25:13.385Z] [image-service] [info]: Image saved to: /app/storage/images/67dab772bffdda2d31fab352/67dab772bffdda2d31fab352-image-6-1742387107491-d580a1bd.jpg
+[2025-03-19T12:25:13.390Z] [image-service] [info]: Image 7/10 generated successfully for job 67dab772bffdda2d31fab352
+[2025-03-19T12:25:13.391Z] [image-service] [info]: Processing image 8/10 for job 67dab772bffdda2d31fab352
+[2025-03-19T12:25:13.392Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T12:25:13.395Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T12:25:19.677Z] [image-service] [info]: Image saved to: /app/storage/images/67dab772bffdda2d31fab352/67dab772bffdda2d31fab352-image-7-1742387113395-9d7c4f6b.jpg
+[2025-03-19T12:25:19.681Z] [image-service] [info]: Image 8/10 generated successfully for job 67dab772bffdda2d31fab352
+[2025-03-19T12:25:19.682Z] [image-service] [info]: Processing image 9/10 for job 67dab772bffdda2d31fab352
+[2025-03-19T12:25:19.683Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T12:25:19.685Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T12:25:26.925Z] [image-service] [info]: Image saved to: /app/storage/images/67dab772bffdda2d31fab352/67dab772bffdda2d31fab352-image-8-1742387119684-62191857.jpg
+[2025-03-19T12:25:26.928Z] [image-service] [info]: Image 9/10 generated successfully for job 67dab772bffdda2d31fab352
+[2025-03-19T12:25:26.929Z] [image-service] [info]: Processing image 10/10 for job 67dab772bffdda2d31fab352
+[2025-03-19T12:25:26.931Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T12:25:26.935Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T12:25:32.422Z] [image-service] [info]: Image saved to: /app/storage/images/67dab772bffdda2d31fab352/67dab772bffdda2d31fab352-image-9-1742387126935-ba42fc31.jpg
+[2025-03-19T12:25:32.426Z] [image-service] [info]: Image 10/10 generated successfully for job 67dab772bffdda2d31fab352
+[2025-03-19T12:25:32.428Z] [image-service] [info]: Images generated: 10
+[2025-03-19T12:53:36.340Z] [image-service] [info]: Generating images for job: 67dabe42bffdda2d31fab36c
+[2025-03-19T12:53:36.341Z] [image-service] [info]: Processing image 1/10 for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:53:36.342Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T12:53:36.342Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T12:53:44.511Z] [image-service] [info]: Image saved to: /app/storage/images/67dabe42bffdda2d31fab36c/67dabe42bffdda2d31fab36c-image-0-1742388816342-20f4c58e.jpg
+[2025-03-19T12:53:44.514Z] [image-service] [info]: Image 1/10 generated successfully for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:53:44.516Z] [image-service] [info]: Processing image 2/10 for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:53:44.517Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T12:53:44.519Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T12:53:50.187Z] [image-service] [info]: Image saved to: /app/storage/images/67dabe42bffdda2d31fab36c/67dabe42bffdda2d31fab36c-image-1-1742388824519-568a59fa.jpg
+[2025-03-19T12:53:50.190Z] [image-service] [info]: Image 2/10 generated successfully for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:53:50.191Z] [image-service] [info]: Processing image 3/10 for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:53:50.192Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T12:53:50.194Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T12:53:58.725Z] [image-service] [info]: Image saved to: /app/storage/images/67dabe42bffdda2d31fab36c/67dabe42bffdda2d31fab36c-image-2-1742388830194-bdf834c7.jpg
+[2025-03-19T12:53:58.727Z] [image-service] [info]: Image 3/10 generated successfully for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:53:58.727Z] [image-service] [info]: Processing image 4/10 for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:53:58.728Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T12:53:58.729Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T12:54:08.455Z] [image-service] [info]: Image saved to: /app/storage/images/67dabe42bffdda2d31fab36c/67dabe42bffdda2d31fab36c-image-3-1742388838729-f0eec091.jpg
+[2025-03-19T12:54:08.458Z] [image-service] [info]: Image 4/10 generated successfully for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:54:08.459Z] [image-service] [info]: Processing image 5/10 for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:54:08.461Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T12:54:08.462Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T12:54:15.616Z] [image-service] [info]: Image saved to: /app/storage/images/67dabe42bffdda2d31fab36c/67dabe42bffdda2d31fab36c-image-4-1742388848462-b783253c.jpg
+[2025-03-19T12:54:15.619Z] [image-service] [info]: Image 5/10 generated successfully for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:54:15.620Z] [image-service] [info]: Processing image 6/10 for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:54:15.620Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T12:54:15.621Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T12:54:24.747Z] [image-service] [info]: Image saved to: /app/storage/images/67dabe42bffdda2d31fab36c/67dabe42bffdda2d31fab36c-image-5-1742388855621-6e7852a3.jpg
+[2025-03-19T12:54:24.750Z] [image-service] [info]: Image 6/10 generated successfully for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:54:24.751Z] [image-service] [info]: Processing image 7/10 for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:54:24.753Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T12:54:24.754Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T12:54:30.601Z] [image-service] [info]: Image saved to: /app/storage/images/67dabe42bffdda2d31fab36c/67dabe42bffdda2d31fab36c-image-6-1742388864754-20ca541a.jpg
+[2025-03-19T12:54:30.605Z] [image-service] [info]: Image 7/10 generated successfully for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:54:30.606Z] [image-service] [info]: Processing image 8/10 for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:54:30.608Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T12:54:30.610Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T12:54:36.289Z] [image-service] [info]: Image saved to: /app/storage/images/67dabe42bffdda2d31fab36c/67dabe42bffdda2d31fab36c-image-7-1742388870610-32882403.jpg
+[2025-03-19T12:54:36.291Z] [image-service] [info]: Image 8/10 generated successfully for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:54:36.292Z] [image-service] [info]: Processing image 9/10 for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:54:36.294Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T12:54:36.296Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T12:54:43.401Z] [image-service] [info]: Image saved to: /app/storage/images/67dabe42bffdda2d31fab36c/67dabe42bffdda2d31fab36c-image-8-1742388876295-e2ec2cc1.jpg
+[2025-03-19T12:54:43.404Z] [image-service] [info]: Image 9/10 generated successfully for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:54:43.406Z] [image-service] [info]: Processing image 10/10 for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:54:43.407Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T12:54:43.410Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T12:54:49.872Z] [image-service] [info]: Image saved to: /app/storage/images/67dabe42bffdda2d31fab36c/67dabe42bffdda2d31fab36c-image-9-1742388883410-e4fe7a21.jpg
+[2025-03-19T12:54:49.875Z] [image-service] [info]: Image 10/10 generated successfully for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:54:49.877Z] [image-service] [info]: Images generated: 10
+[2025-03-19T13:48:07.748Z] [image-service] [info]: Generating images for job: 67dacb097ca9a97b132031a4
+[2025-03-19T13:48:07.750Z] [image-service] [info]: Processing image 1/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:48:07.751Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T13:48:07.751Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T13:48:13.124Z] [image-service] [info]: Image saved to: /app/storage/images/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-image-0-1742392087751-0fc421b7.jpg
+[2025-03-19T13:48:13.126Z] [image-service] [info]: Image 1/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:48:13.127Z] [image-service] [info]: Processing image 2/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:48:13.128Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T13:48:13.129Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T13:48:19.082Z] [image-service] [info]: Image saved to: /app/storage/images/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-image-1-1742392093129-b97333bc.jpg
+[2025-03-19T13:48:19.083Z] [image-service] [info]: Image 2/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:48:19.084Z] [image-service] [info]: Processing image 3/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:48:19.085Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T13:48:19.086Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T13:48:28.436Z] [image-service] [info]: Image saved to: /app/storage/images/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-image-2-1742392099086-0a362c43.jpg
+[2025-03-19T13:48:28.439Z] [image-service] [info]: Image 3/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:48:28.440Z] [image-service] [info]: Processing image 4/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:48:28.442Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T13:48:28.444Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T13:48:37.998Z] [image-service] [info]: Image saved to: /app/storage/images/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-image-3-1742392108444-09c174f7.jpg
+[2025-03-19T13:48:38.002Z] [image-service] [info]: Image 4/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:48:38.003Z] [image-service] [info]: Processing image 5/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:48:38.004Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T13:48:38.006Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T13:48:45.508Z] [image-service] [info]: Image saved to: /app/storage/images/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-image-4-1742392118006-8df1e56a.jpg
+[2025-03-19T13:48:45.511Z] [image-service] [info]: Image 5/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:48:45.512Z] [image-service] [info]: Processing image 6/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:48:45.514Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T13:48:45.515Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T13:48:53.087Z] [image-service] [info]: Image saved to: /app/storage/images/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-image-5-1742392125515-e0aec871.jpg
+[2025-03-19T13:48:53.090Z] [image-service] [info]: Image 6/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:48:53.091Z] [image-service] [info]: Processing image 7/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:48:53.093Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T13:48:53.095Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T13:49:01.457Z] [image-service] [info]: Image saved to: /app/storage/images/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-image-6-1742392133095-f673b88b.jpg
+[2025-03-19T13:49:01.460Z] [image-service] [info]: Image 7/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:49:01.461Z] [image-service] [info]: Processing image 8/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:49:01.462Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T13:49:01.464Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T13:49:07.002Z] [image-service] [info]: Image saved to: /app/storage/images/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-image-7-1742392141464-dc38f3b8.jpg
+[2025-03-19T13:49:07.004Z] [image-service] [info]: Image 8/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:49:07.005Z] [image-service] [info]: Processing image 9/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:49:07.006Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T13:49:07.008Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T13:49:15.907Z] [image-service] [info]: Image saved to: /app/storage/images/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-image-8-1742392147008-e2bba0a4.jpg
+[2025-03-19T13:49:15.910Z] [image-service] [info]: Image 9/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:49:15.911Z] [image-service] [info]: Processing image 10/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:49:15.912Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T13:49:15.913Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T13:49:24.232Z] [image-service] [info]: Image saved to: /app/storage/images/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-image-9-1742392155913-ffba001a.jpg
+[2025-03-19T13:49:24.234Z] [image-service] [info]: Image 10/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:49:24.236Z] [image-service] [info]: Images generated: 10
+[2025-03-19T13:53:20.181Z] [image-service] [info]: Generating images for job: 67dacb097ca9a97b132031a4
+[2025-03-19T13:53:20.182Z] [image-service] [info]: Processing image 1/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:53:20.183Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T13:53:20.184Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T13:53:26.282Z] [image-service] [info]: Image saved to: /app/storage/images/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-image-0-1742392400183-007d37e7.jpg
+[2025-03-19T13:53:26.284Z] [image-service] [info]: Image 1/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:53:26.285Z] [image-service] [info]: Processing image 2/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:53:26.286Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T13:53:26.286Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T13:53:33.526Z] [image-service] [info]: Image saved to: /app/storage/images/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-image-1-1742392406286-723f218a.jpg
+[2025-03-19T13:53:33.529Z] [image-service] [info]: Image 2/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:53:33.530Z] [image-service] [info]: Processing image 3/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:53:33.531Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T13:53:33.532Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T13:53:41.029Z] [image-service] [info]: Image saved to: /app/storage/images/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-image-2-1742392413532-28fc6dd1.jpg
+[2025-03-19T13:53:41.032Z] [image-service] [info]: Image 3/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:53:41.033Z] [image-service] [info]: Processing image 4/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:53:41.035Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T13:53:41.036Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T13:53:48.577Z] [image-service] [info]: Image saved to: /app/storage/images/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-image-3-1742392421036-385846fb.jpg
+[2025-03-19T13:53:48.580Z] [image-service] [info]: Image 4/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:53:48.581Z] [image-service] [info]: Processing image 5/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:53:48.582Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T13:53:48.585Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T13:53:57.155Z] [image-service] [info]: Image saved to: /app/storage/images/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-image-4-1742392428585-b1749e19.jpg
+[2025-03-19T13:53:57.157Z] [image-service] [info]: Image 5/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:53:57.158Z] [image-service] [info]: Processing image 6/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:53:57.160Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T13:53:57.161Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T13:54:03.095Z] [image-service] [info]: Image saved to: /app/storage/images/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-image-5-1742392437161-120c4d22.jpg
+[2025-03-19T13:54:03.096Z] [image-service] [info]: Image 6/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:54:03.097Z] [image-service] [info]: Processing image 7/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:54:03.098Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T13:54:03.099Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T13:54:11.579Z] [image-service] [info]: Image saved to: /app/storage/images/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-image-6-1742392443099-1b6e6a46.jpg
+[2025-03-19T13:54:11.582Z] [image-service] [info]: Image 7/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:54:11.583Z] [image-service] [info]: Processing image 8/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:54:11.584Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T13:54:11.586Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T13:54:20.270Z] [image-service] [info]: Image saved to: /app/storage/images/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-image-7-1742392451586-463a16cf.jpg
+[2025-03-19T13:54:20.272Z] [image-service] [info]: Image 8/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:54:20.273Z] [image-service] [info]: Processing image 9/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:54:20.274Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T13:54:20.275Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T13:54:25.831Z] [image-service] [info]: Image saved to: /app/storage/images/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-image-8-1742392460275-f9dda75e.jpg
+[2025-03-19T13:54:25.833Z] [image-service] [info]: Image 9/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:54:25.834Z] [image-service] [info]: Processing image 10/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:54:25.835Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T13:54:25.836Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T13:54:34.862Z] [image-service] [info]: Image saved to: /app/storage/images/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-image-9-1742392465836-1cf4ddce.jpg
+[2025-03-19T13:54:34.866Z] [image-service] [info]: Image 10/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:54:34.868Z] [image-service] [info]: Images generated: 10
+[2025-03-19T13:59:49.128Z] [image-service] [info]: Generating images for job: 67dacb097ca9a97b132031a4
+[2025-03-19T13:59:49.129Z] [image-service] [info]: Processing image 1/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:59:49.129Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T13:59:49.130Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:00:00.429Z] [image-service] [info]: Image saved to: /app/storage/images/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-image-0-1742392789130-4d17bfc5.jpg
+[2025-03-19T14:00:00.433Z] [image-service] [info]: Image 1/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T14:00:00.434Z] [image-service] [info]: Processing image 2/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T14:00:00.435Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:00:00.436Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:00:06.348Z] [image-service] [info]: Image saved to: /app/storage/images/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-image-1-1742392800436-8558646c.jpg
+[2025-03-19T14:00:06.350Z] [image-service] [info]: Image 2/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T14:00:06.351Z] [image-service] [info]: Processing image 3/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T14:00:06.352Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:00:06.354Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:00:12.482Z] [image-service] [info]: Image saved to: /app/storage/images/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-image-2-1742392806354-df14bf8b.jpg
+[2025-03-19T14:00:12.484Z] [image-service] [info]: Image 3/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T14:00:12.485Z] [image-service] [info]: Processing image 4/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T14:00:12.486Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:00:12.488Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:00:19.840Z] [image-service] [info]: Image saved to: /app/storage/images/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-image-3-1742392812488-99125d57.jpg
+[2025-03-19T14:00:19.843Z] [image-service] [info]: Image 4/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T14:00:19.844Z] [image-service] [info]: Processing image 5/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T14:00:19.844Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:00:19.845Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:00:22.462Z] [image-service] [warn]: Image generation attempt 1 failed: Request failed with status code 502
+[2025-03-19T14:00:22.463Z] [image-service] [info]: Waiting 3 seconds before retry...
+[2025-03-19T14:00:25.466Z] [image-service] [info]: Attempt 2/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:00:25.470Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:00:26.031Z] [image-service] [warn]: Image generation attempt 2 failed: Request failed with status code 502
+[2025-03-19T14:00:26.032Z] [image-service] [info]: Waiting 6 seconds before retry...
+[2025-03-19T14:00:38.035Z] [image-service] [info]: Attempt 3/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:00:38.037Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:00:41.502Z] [image-service] [info]: Image saved to: /app/storage/images/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-image-4-1742392838037-97e00247.jpg
+[2025-03-19T14:00:41.505Z] [image-service] [info]: Image 5/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T14:00:41.506Z] [image-service] [info]: Processing image 6/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T14:00:41.507Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:00:41.509Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:00:44.918Z] [image-service] [info]: Image saved to: /app/storage/images/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-image-5-1742392841509-d8d22120.jpg
+[2025-03-19T14:00:44.921Z] [image-service] [info]: Image 6/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T14:00:44.923Z] [image-service] [info]: Processing image 7/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T14:00:44.924Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:00:44.927Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:00:48.317Z] [image-service] [info]: Image saved to: /app/storage/images/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-image-6-1742392844927-b56b3ebe.jpg
+[2025-03-19T14:00:48.319Z] [image-service] [info]: Image 7/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T14:00:48.320Z] [image-service] [info]: Processing image 8/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T14:00:48.321Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:00:48.322Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:00:53.793Z] [image-service] [info]: Image saved to: /app/storage/images/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-image-7-1742392848322-dbc5e8e5.jpg
+[2025-03-19T14:00:53.796Z] [image-service] [info]: Image 8/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T14:00:53.797Z] [image-service] [info]: Processing image 9/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T14:00:53.798Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:00:53.800Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:00:57.297Z] [image-service] [info]: Image saved to: /app/storage/images/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-image-8-1742392853800-58db918f.jpg
+[2025-03-19T14:00:57.300Z] [image-service] [info]: Image 9/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T14:00:57.301Z] [image-service] [info]: Processing image 10/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T14:00:57.302Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:00:57.303Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:01:02.931Z] [image-service] [info]: Image saved to: /app/storage/images/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-image-9-1742392857303-b50daeb6.jpg
+[2025-03-19T14:01:02.934Z] [image-service] [info]: Image 10/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T14:01:02.935Z] [image-service] [info]: Images generated: 10
+[2025-03-19T14:01:22.878Z] [image-service] [info]: Generating images for job: 67dacb097ca9a97b132031a4
+[2025-03-19T14:01:22.880Z] [image-service] [info]: Processing image 1/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T14:01:22.880Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:01:22.882Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:01:31.475Z] [image-service] [info]: Image saved to: /app/storage/images/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-image-0-1742392882882-256c054f.jpg
+[2025-03-19T14:01:31.482Z] [image-service] [info]: Image 1/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T14:01:31.483Z] [image-service] [info]: Processing image 2/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T14:01:31.484Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:01:31.486Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:02:47.909Z] [image-service] [info]: Generating images for job: 67dacb097ca9a97b132031a4
+[2025-03-19T14:02:47.910Z] [image-service] [info]: Processing image 1/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T14:02:47.911Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:02:47.912Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:02:55.649Z] [image-service] [info]: Image saved to: /app/storage/images/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-image-0-1742392967911-9e9002e9.jpg
+[2025-03-19T14:02:55.651Z] [image-service] [info]: Image 1/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T14:02:55.651Z] [image-service] [info]: Processing image 2/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T14:02:55.652Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:02:55.653Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:03:04.097Z] [image-service] [info]: Image saved to: /app/storage/images/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-image-1-1742392975653-512c6537.jpg
+[2025-03-19T14:03:04.098Z] [image-service] [info]: Image 2/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T14:03:04.098Z] [image-service] [info]: Processing image 3/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T14:03:04.099Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:03:04.099Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:03:12.654Z] [image-service] [info]: Image saved to: /app/storage/images/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-image-2-1742392984099-646e66c0.jpg
+[2025-03-19T14:03:12.656Z] [image-service] [info]: Image 3/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T14:03:12.657Z] [image-service] [info]: Processing image 4/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T14:03:12.658Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:03:12.660Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:03:20.913Z] [image-service] [info]: Image saved to: /app/storage/images/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-image-3-1742392992660-c7623fd8.jpg
+[2025-03-19T14:03:20.915Z] [image-service] [info]: Image 4/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T14:03:20.916Z] [image-service] [info]: Processing image 5/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T14:03:20.917Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:03:20.919Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:09:56.186Z] [image-service] [info]: Generating images for job: 67dad024be384bbec08813b1
+[2025-03-19T14:09:56.187Z] [image-service] [info]: Processing image 1/10 for job 67dad024be384bbec08813b1
+[2025-03-19T14:09:56.188Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:09:56.189Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:10:04.624Z] [image-service] [info]: Image saved to: /app/storage/images/67dad024be384bbec08813b1/67dad024be384bbec08813b1-image-0-1742393396189-6612a979.jpg
+[2025-03-19T14:10:04.625Z] [image-service] [info]: Image 1/10 generated successfully for job 67dad024be384bbec08813b1
+[2025-03-19T14:10:04.625Z] [image-service] [info]: Processing image 2/10 for job 67dad024be384bbec08813b1
+[2025-03-19T14:10:04.626Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:10:04.626Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:10:12.161Z] [image-service] [info]: Image saved to: /app/storage/images/67dad024be384bbec08813b1/67dad024be384bbec08813b1-image-1-1742393404626-01c723e4.jpg
+[2025-03-19T14:10:12.164Z] [image-service] [info]: Image 2/10 generated successfully for job 67dad024be384bbec08813b1
+[2025-03-19T14:10:12.166Z] [image-service] [info]: Processing image 3/10 for job 67dad024be384bbec08813b1
+[2025-03-19T14:10:12.167Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:10:12.169Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:10:23.275Z] [image-service] [warn]: Image generation attempt 1 failed: Request failed with status code 500
+[2025-03-19T14:10:23.276Z] [image-service] [info]: Waiting 3 seconds before retry...
+[2025-03-19T14:10:26.282Z] [image-service] [info]: Attempt 2/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:10:26.285Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:10:32.552Z] [image-service] [warn]: Image generation attempt 2 failed: Request failed with status code 502
+[2025-03-19T14:10:32.552Z] [image-service] [info]: Waiting 6 seconds before retry...
+[2025-03-19T14:10:44.561Z] [image-service] [info]: Attempt 3/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:10:44.564Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:10:51.583Z] [image-service] [warn]: Image generation attempt 3 failed: Request failed with status code 500
+[2025-03-19T14:10:51.584Z] [image-service] [error]: Failed to generate image for index 2 after all 3 retries
+[2025-03-19T14:10:51.600Z] [image-service] [info]: Generating images for job: 67dad024be384bbec08813b1
+[2025-03-19T14:10:51.601Z] [image-service] [info]: Processing image 1/10 for job 67dad024be384bbec08813b1
+[2025-03-19T14:10:51.601Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:10:51.601Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:11:00.639Z] [image-service] [warn]: Image generation attempt 1 failed: Request failed with status code 500
+[2025-03-19T14:11:00.640Z] [image-service] [info]: Waiting 3 seconds before retry...
+[2025-03-19T14:11:03.647Z] [image-service] [info]: Attempt 2/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:11:03.651Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:11:08.282Z] [image-service] [info]: Image saved to: /app/storage/images/67dad024be384bbec08813b1/67dad024be384bbec08813b1-image-0-1742393463651-ae516601.jpg
+[2025-03-19T14:11:08.286Z] [image-service] [info]: Image 1/10 generated successfully for job 67dad024be384bbec08813b1
+[2025-03-19T14:11:08.287Z] [image-service] [info]: Processing image 2/10 for job 67dad024be384bbec08813b1
+[2025-03-19T14:11:08.289Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:11:08.291Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:11:19.500Z] [image-service] [info]: Image saved to: /app/storage/images/67dad024be384bbec08813b1/67dad024be384bbec08813b1-image-1-1742393468291-41097ec8.jpg
+[2025-03-19T14:11:19.504Z] [image-service] [info]: Image 2/10 generated successfully for job 67dad024be384bbec08813b1
+[2025-03-19T14:11:19.505Z] [image-service] [info]: Processing image 3/10 for job 67dad024be384bbec08813b1
+[2025-03-19T14:11:19.506Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:11:19.508Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:11:30.646Z] [image-service] [warn]: Image generation attempt 1 failed: Request failed with status code 500
+[2025-03-19T14:11:30.647Z] [image-service] [info]: Waiting 3 seconds before retry...
+[2025-03-19T14:11:33.652Z] [image-service] [info]: Attempt 2/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:11:33.656Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:11:45.976Z] [image-service] [info]: Image saved to: /app/storage/images/67dad024be384bbec08813b1/67dad024be384bbec08813b1-image-2-1742393493656-a85092bb.jpg
+[2025-03-19T14:11:45.981Z] [image-service] [info]: Image 3/10 generated successfully for job 67dad024be384bbec08813b1
+[2025-03-19T14:11:45.982Z] [image-service] [info]: Processing image 4/10 for job 67dad024be384bbec08813b1
+[2025-03-19T14:11:45.984Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:11:45.986Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:11:57.209Z] [image-service] [warn]: Image generation attempt 1 failed: Request failed with status code 500
+[2025-03-19T14:11:57.211Z] [image-service] [info]: Waiting 3 seconds before retry...
+[2025-03-19T14:12:00.215Z] [image-service] [info]: Attempt 2/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:12:00.217Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:12:09.892Z] [image-service] [info]: Image saved to: /app/storage/images/67dad024be384bbec08813b1/67dad024be384bbec08813b1-image-3-1742393520217-d72c9cab.jpg
+[2025-03-19T14:12:09.895Z] [image-service] [info]: Image 4/10 generated successfully for job 67dad024be384bbec08813b1
+[2025-03-19T14:12:09.896Z] [image-service] [info]: Processing image 5/10 for job 67dad024be384bbec08813b1
+[2025-03-19T14:12:09.898Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:12:09.900Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:12:27.218Z] [image-service] [warn]: Image generation attempt 1 failed: Request failed with status code 500
+[2025-03-19T14:12:27.219Z] [image-service] [info]: Waiting 3 seconds before retry...
+[2025-03-19T14:12:30.224Z] [image-service] [info]: Attempt 2/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:12:30.227Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:12:40.078Z] [image-service] [info]: Image saved to: /app/storage/images/67dad024be384bbec08813b1/67dad024be384bbec08813b1-image-4-1742393550227-ff4d0c85.jpg
+[2025-03-19T14:12:40.080Z] [image-service] [info]: Image 5/10 generated successfully for job 67dad024be384bbec08813b1
+[2025-03-19T14:12:40.081Z] [image-service] [info]: Processing image 6/10 for job 67dad024be384bbec08813b1
+[2025-03-19T14:12:40.083Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:12:40.084Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:12:48.598Z] [image-service] [info]: Image saved to: /app/storage/images/67dad024be384bbec08813b1/67dad024be384bbec08813b1-image-5-1742393560084-3f7a44bb.jpg
+[2025-03-19T14:12:48.601Z] [image-service] [info]: Image 6/10 generated successfully for job 67dad024be384bbec08813b1
+[2025-03-19T14:12:48.602Z] [image-service] [info]: Processing image 7/10 for job 67dad024be384bbec08813b1
+[2025-03-19T14:12:48.603Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:12:48.605Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:12:58.336Z] [image-service] [info]: Image saved to: /app/storage/images/67dad024be384bbec08813b1/67dad024be384bbec08813b1-image-6-1742393568605-d6884a51.jpg
+[2025-03-19T14:12:58.339Z] [image-service] [info]: Image 7/10 generated successfully for job 67dad024be384bbec08813b1
+[2025-03-19T14:12:58.340Z] [image-service] [info]: Processing image 8/10 for job 67dad024be384bbec08813b1
+[2025-03-19T14:12:58.341Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:12:58.343Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:13:09.923Z] [image-service] [warn]: Image generation attempt 1 failed: Request failed with status code 500
+[2025-03-19T14:13:09.924Z] [image-service] [info]: Waiting 3 seconds before retry...
+[2025-03-19T14:13:12.931Z] [image-service] [info]: Attempt 2/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:13:12.936Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:13:25.208Z] [image-service] [warn]: Image generation attempt 2 failed: Request failed with status code 500
+[2025-03-19T14:13:25.209Z] [image-service] [info]: Waiting 6 seconds before retry...
+[2025-03-19T14:13:37.212Z] [image-service] [info]: Attempt 3/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:13:37.216Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:13:46.716Z] [image-service] [info]: Image saved to: /app/storage/images/67dad024be384bbec08813b1/67dad024be384bbec08813b1-image-7-1742393617216-9dc33e0b.jpg
+[2025-03-19T14:13:46.719Z] [image-service] [info]: Image 8/10 generated successfully for job 67dad024be384bbec08813b1
+[2025-03-19T14:13:46.721Z] [image-service] [info]: Processing image 9/10 for job 67dad024be384bbec08813b1
+[2025-03-19T14:13:46.722Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:13:46.725Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:13:57.847Z] [image-service] [warn]: Image generation attempt 1 failed: Request failed with status code 500
+[2025-03-19T14:13:57.848Z] [image-service] [info]: Waiting 3 seconds before retry...
+[2025-03-19T14:14:00.850Z] [image-service] [info]: Attempt 2/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:14:00.853Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:14:11.196Z] [image-service] [info]: Image saved to: /app/storage/images/67dad024be384bbec08813b1/67dad024be384bbec08813b1-image-8-1742393640853-8f0f0114.jpg
+[2025-03-19T14:14:11.199Z] [image-service] [info]: Image 9/10 generated successfully for job 67dad024be384bbec08813b1
+[2025-03-19T14:14:11.200Z] [image-service] [info]: Processing image 10/10 for job 67dad024be384bbec08813b1
+[2025-03-19T14:14:11.200Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:14:11.201Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:14:19.673Z] [image-service] [info]: Image saved to: /app/storage/images/67dad024be384bbec08813b1/67dad024be384bbec08813b1-image-9-1742393651201-a6d5ae95.jpg
+[2025-03-19T14:14:19.676Z] [image-service] [info]: Image 10/10 generated successfully for job 67dad024be384bbec08813b1
+[2025-03-19T14:14:19.676Z] [image-service] [info]: Images generated: 10
+[2025-03-19T14:15:44.840Z] [image-service] [info]: Generating images for job: 67dad024be384bbec08813b1
+[2025-03-19T14:15:44.841Z] [image-service] [info]: Processing image 1/10 for job 67dad024be384bbec08813b1
+[2025-03-19T14:15:44.842Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:15:44.843Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:15:53.201Z] [image-service] [info]: Image saved to: /app/storage/images/67dad024be384bbec08813b1/67dad024be384bbec08813b1-image-0-1742393744843-b86ca90c.jpg
+[2025-03-19T14:15:53.204Z] [image-service] [info]: Image 1/10 generated successfully for job 67dad024be384bbec08813b1
+[2025-03-19T14:15:53.205Z] [image-service] [info]: Processing image 2/10 for job 67dad024be384bbec08813b1
+[2025-03-19T14:15:53.206Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:15:53.207Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:16:03.203Z] [image-service] [info]: Image saved to: /app/storage/images/67dad024be384bbec08813b1/67dad024be384bbec08813b1-image-1-1742393753207-4d5f03ce.jpg
+[2025-03-19T14:16:03.206Z] [image-service] [info]: Image 2/10 generated successfully for job 67dad024be384bbec08813b1
+[2025-03-19T14:16:03.210Z] [image-service] [info]: Processing image 3/10 for job 67dad024be384bbec08813b1
+[2025-03-19T14:16:03.212Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:16:03.214Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:16:15.463Z] [image-service] [info]: Image saved to: /app/storage/images/67dad024be384bbec08813b1/67dad024be384bbec08813b1-image-2-1742393763214-d56354bb.jpg
+[2025-03-19T14:16:15.466Z] [image-service] [info]: Image 3/10 generated successfully for job 67dad024be384bbec08813b1
+[2025-03-19T14:16:15.467Z] [image-service] [info]: Processing image 4/10 for job 67dad024be384bbec08813b1
+[2025-03-19T14:16:15.469Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:16:15.471Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:16:25.351Z] [image-service] [info]: Image saved to: /app/storage/images/67dad024be384bbec08813b1/67dad024be384bbec08813b1-image-3-1742393775471-52a6f8a7.jpg
+[2025-03-19T14:16:25.355Z] [image-service] [info]: Image 4/10 generated successfully for job 67dad024be384bbec08813b1
+[2025-03-19T14:16:25.356Z] [image-service] [info]: Processing image 5/10 for job 67dad024be384bbec08813b1
+[2025-03-19T14:16:25.358Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:16:25.360Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:16:37.501Z] [image-service] [warn]: Image generation attempt 1 failed: Request failed with status code 500
+[2025-03-19T14:16:37.502Z] [image-service] [info]: Waiting 3 seconds before retry...
+[2025-03-19T14:16:40.505Z] [image-service] [info]: Attempt 2/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:16:40.508Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:16:46.989Z] [image-service] [info]: Image saved to: /app/storage/images/67dad024be384bbec08813b1/67dad024be384bbec08813b1-image-4-1742393800508-5506edb5.jpg
+[2025-03-19T14:16:46.990Z] [image-service] [info]: Image 5/10 generated successfully for job 67dad024be384bbec08813b1
+[2025-03-19T14:16:46.991Z] [image-service] [info]: Processing image 6/10 for job 67dad024be384bbec08813b1
+[2025-03-19T14:16:46.991Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:16:46.991Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:16:55.078Z] [image-service] [info]: Image saved to: /app/storage/images/67dad024be384bbec08813b1/67dad024be384bbec08813b1-image-5-1742393806991-0170eafb.jpg
+[2025-03-19T14:16:55.081Z] [image-service] [info]: Image 6/10 generated successfully for job 67dad024be384bbec08813b1
+[2025-03-19T14:16:55.083Z] [image-service] [info]: Processing image 7/10 for job 67dad024be384bbec08813b1
+[2025-03-19T14:16:55.084Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:16:55.086Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:17:00.685Z] [image-service] [info]: Image saved to: /app/storage/images/67dad024be384bbec08813b1/67dad024be384bbec08813b1-image-6-1742393815086-51a56c0f.jpg
+[2025-03-19T14:17:00.687Z] [image-service] [info]: Image 7/10 generated successfully for job 67dad024be384bbec08813b1
+[2025-03-19T14:17:00.689Z] [image-service] [info]: Processing image 8/10 for job 67dad024be384bbec08813b1
+[2025-03-19T14:17:00.690Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:17:00.695Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:17:10.242Z] [image-service] [info]: Image saved to: /app/storage/images/67dad024be384bbec08813b1/67dad024be384bbec08813b1-image-7-1742393820695-6ab8d2b5.jpg
+[2025-03-19T14:17:10.251Z] [image-service] [info]: Image 8/10 generated successfully for job 67dad024be384bbec08813b1
+[2025-03-19T14:17:10.253Z] [image-service] [info]: Processing image 9/10 for job 67dad024be384bbec08813b1
+[2025-03-19T14:17:10.253Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:17:10.255Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:17:16.902Z] [image-service] [info]: Image saved to: /app/storage/images/67dad024be384bbec08813b1/67dad024be384bbec08813b1-image-8-1742393830255-2f6151a0.jpg
+[2025-03-19T14:17:16.904Z] [image-service] [info]: Image 9/10 generated successfully for job 67dad024be384bbec08813b1
+[2025-03-19T14:17:16.906Z] [image-service] [info]: Processing image 10/10 for job 67dad024be384bbec08813b1
+[2025-03-19T14:17:16.907Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:17:16.908Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:17:24.733Z] [image-service] [info]: Image saved to: /app/storage/images/67dad024be384bbec08813b1/67dad024be384bbec08813b1-image-9-1742393836908-19475492.jpg
+[2025-03-19T14:17:24.734Z] [image-service] [info]: Image 10/10 generated successfully for job 67dad024be384bbec08813b1
+[2025-03-19T14:17:24.735Z] [image-service] [info]: Images generated: 10
+[2025-03-19T14:18:32.118Z] [image-service] [info]: Generating single image for job: 67dad024be384bbec08813b1 at index: 1
+[2025-03-19T14:18:32.119Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:18:32.120Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:18:39.281Z] [image-service] [info]: Image saved to: /app/storage/images/67dad024be384bbec08813b1/67dad024be384bbec08813b1-image-1-1742393912120-367c5bc8.jpg
+[2025-03-19T14:19:00.109Z] [image-service] [info]: Generating single image for job: 67dad024be384bbec08813b1 at index: 3
+[2025-03-19T14:19:00.110Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:19:00.111Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:19:07.643Z] [image-service] [info]: Image saved to: /app/storage/images/67dad024be384bbec08813b1/67dad024be384bbec08813b1-image-3-1742393940111-981d4026.jpg
+[2025-03-19T14:22:29.645Z] [image-service] [info]: Generating single image for job: 67dad024be384bbec08813b1 at index: 0
+[2025-03-19T14:22:29.648Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:22:29.653Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:22:40.942Z] [image-service] [warn]: Image generation attempt 1 failed: Request failed with status code 500
+[2025-03-19T14:22:40.943Z] [image-service] [info]: Waiting 3 seconds before retry...
+[2025-03-19T14:22:43.945Z] [image-service] [info]: Attempt 2/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:22:43.950Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:22:52.603Z] [image-service] [info]: Image saved to: /app/storage/images/67dad024be384bbec08813b1/67dad024be384bbec08813b1-image-0-1742394163950-6dc44338.jpg
+[2025-03-19T14:23:37.123Z] [image-service] [info]: Generating single image for job: 67dad024be384bbec08813b1 at index: 0
+[2025-03-19T14:23:37.124Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:23:37.125Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:23:45.513Z] [image-service] [info]: Image saved to: /app/storage/images/67dad024be384bbec08813b1/67dad024be384bbec08813b1-image-0-1742394217125-e3b64de2.jpg
+[2025-03-19T14:25:29.311Z] [image-service] [info]: Generating single image for job: 67dad024be384bbec08813b1 at index: 1
+[2025-03-19T14:25:29.312Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:25:29.313Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:25:35.372Z] [image-service] [info]: Image saved to: /app/storage/images/67dad024be384bbec08813b1/67dad024be384bbec08813b1-image-1-1742394329312-5f7b4f0c.jpg
+[2025-03-19T14:25:45.723Z] [image-service] [info]: Generating single image for job: 67dad024be384bbec08813b1 at index: 2
+[2025-03-19T14:25:45.724Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:25:45.724Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:25:53.333Z] [image-service] [info]: Image saved to: /app/storage/images/67dad024be384bbec08813b1/67dad024be384bbec08813b1-image-2-1742394345724-ca822fb1.jpg
+[2025-03-19T14:26:14.897Z] [image-service] [info]: Generating single image for job: 67dad024be384bbec08813b1 at index: 4
+[2025-03-19T14:26:14.898Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:26:14.898Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:26:22.966Z] [image-service] [info]: Image saved to: /app/storage/images/67dad024be384bbec08813b1/67dad024be384bbec08813b1-image-4-1742394374898-dcd8abd1.jpg
+[2025-03-19T14:26:31.490Z] [image-service] [info]: Generating single image for job: 67dad024be384bbec08813b1 at index: 7
+[2025-03-19T14:26:31.491Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:26:31.491Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:26:38.360Z] [image-service] [info]: Image saved to: /app/storage/images/67dad024be384bbec08813b1/67dad024be384bbec08813b1-image-7-1742394391491-1873e682.jpg
+[2025-03-19T14:26:39.136Z] [image-service] [info]: Generating single image for job: 67dad024be384bbec08813b1 at index: 8
+[2025-03-19T14:26:39.137Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:26:39.137Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:26:45.520Z] [image-service] [info]: Image saved to: /app/storage/images/67dad024be384bbec08813b1/67dad024be384bbec08813b1-image-8-1742394399137-2cd0049e.jpg
+[2025-03-19T14:26:51.900Z] [image-service] [info]: Generating single image for job: 67dad024be384bbec08813b1 at index: 9
+[2025-03-19T14:26:51.901Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:26:51.902Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:26:58.945Z] [image-service] [info]: Image saved to: /app/storage/images/67dad024be384bbec08813b1/67dad024be384bbec08813b1-image-9-1742394411902-0e80c2f9.jpg
+[2025-03-19T14:27:53.133Z] [image-service] [info]: Generating single image for job: 67dad024be384bbec08813b1 at index: 8
+[2025-03-19T14:27:53.134Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:27:53.135Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:28:00.689Z] [image-service] [info]: Image saved to: /app/storage/images/67dad024be384bbec08813b1/67dad024be384bbec08813b1-image-8-1742394473135-f3c41ea4.jpg
+[2025-03-19T14:28:23.012Z] [image-service] [info]: Generating single image for job: 67dad024be384bbec08813b1 at index: 4
+[2025-03-19T14:28:23.012Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:28:23.016Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:28:28.676Z] [image-service] [info]: Image saved to: /app/storage/images/67dad024be384bbec08813b1/67dad024be384bbec08813b1-image-4-1742394503016-cf4933ff.jpg
+[2025-03-19T14:28:31.285Z] [image-service] [info]: Generating single image for job: 67dad024be384bbec08813b1 at index: 7
+[2025-03-19T14:28:31.286Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:28:31.287Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:28:38.557Z] [image-service] [info]: Image saved to: /app/storage/images/67dad024be384bbec08813b1/67dad024be384bbec08813b1-image-7-1742394511287-b713fe0a.jpg
+[2025-03-19T14:29:16.226Z] [image-service] [info]: Generating single image for job: 67dad024be384bbec08813b1 at index: 7
+[2025-03-19T14:29:16.227Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:29:16.227Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:29:28.982Z] [image-service] [warn]: Image generation attempt 1 failed: Request failed with status code 500
+[2025-03-19T14:29:28.982Z] [image-service] [info]: Waiting 3 seconds before retry...
+[2025-03-19T14:29:31.989Z] [image-service] [info]: Attempt 2/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:29:31.992Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:29:40.536Z] [image-service] [info]: Image saved to: /app/storage/images/67dad024be384bbec08813b1/67dad024be384bbec08813b1-image-7-1742394571992-34f0b2bb.jpg
+[2025-03-19T14:29:57.965Z] [image-service] [info]: Generating single image for job: 67dad024be384bbec08813b1 at index: 7
+[2025-03-19T14:29:57.966Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:29:57.967Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:30:09.541Z] [image-service] [info]: Image saved to: /app/storage/images/67dad024be384bbec08813b1/67dad024be384bbec08813b1-image-7-1742394597967-ac2cf7e2.jpg
+[2025-03-19T14:33:40.558Z] [image-service] [info]: Generating single image for job: 67dad024be384bbec08813b1 at index: 7
+[2025-03-19T14:33:40.559Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:33:40.561Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:33:51.730Z] [image-service] [warn]: Image generation attempt 1 failed: Request failed with status code 500
+[2025-03-19T14:33:51.730Z] [image-service] [info]: Waiting 3 seconds before retry...
+[2025-03-19T14:33:54.737Z] [image-service] [info]: Attempt 2/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:33:54.741Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:34:04.181Z] [image-service] [info]: Image saved to: /app/storage/images/67dad024be384bbec08813b1/67dad024be384bbec08813b1-image-7-1742394834741-ce62c67b.jpg
+[2025-03-19T14:43:16.588Z] [image-service] [info]: Generating images for job: 67dad7f4bafc03c132e58280
+[2025-03-19T14:43:16.590Z] [image-service] [info]: Processing image 1/10 for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:43:16.590Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:43:16.591Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:43:25.220Z] [image-service] [info]: Image saved to: /app/storage/images/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-image-0-1742395396591-39418ddf.jpg
+[2025-03-19T14:43:25.222Z] [image-service] [info]: Image 1/10 generated successfully for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:43:25.224Z] [image-service] [info]: Processing image 2/10 for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:43:25.226Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:43:25.227Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:43:33.801Z] [image-service] [info]: Image saved to: /app/storage/images/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-image-1-1742395405227-18fade04.jpg
+[2025-03-19T14:43:33.804Z] [image-service] [info]: Image 2/10 generated successfully for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:43:33.805Z] [image-service] [info]: Processing image 3/10 for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:43:33.806Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:43:33.807Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:43:42.732Z] [image-service] [info]: Image saved to: /app/storage/images/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-image-2-1742395413807-ca918c9f.jpg
+[2025-03-19T14:43:42.735Z] [image-service] [info]: Image 3/10 generated successfully for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:43:42.736Z] [image-service] [info]: Processing image 4/10 for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:43:42.737Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:43:42.738Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:43:51.221Z] [image-service] [info]: Image saved to: /app/storage/images/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-image-3-1742395422738-cc8b1bfc.jpg
+[2025-03-19T14:43:51.223Z] [image-service] [info]: Image 4/10 generated successfully for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:43:51.224Z] [image-service] [info]: Processing image 5/10 for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:43:51.225Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:43:51.226Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:43:59.119Z] [image-service] [info]: Image saved to: /app/storage/images/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-image-4-1742395431226-54925033.jpg
+[2025-03-19T14:43:59.122Z] [image-service] [info]: Image 5/10 generated successfully for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:43:59.123Z] [image-service] [info]: Processing image 6/10 for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:43:59.125Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:43:59.126Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:44:07.839Z] [image-service] [info]: Image saved to: /app/storage/images/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-image-5-1742395439126-843aed30.jpg
+[2025-03-19T14:44:07.842Z] [image-service] [info]: Image 6/10 generated successfully for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:44:07.843Z] [image-service] [info]: Processing image 7/10 for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:44:07.844Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:44:07.845Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:44:14.042Z] [image-service] [info]: Image saved to: /app/storage/images/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-image-6-1742395447845-899e1b21.jpg
+[2025-03-19T14:44:14.044Z] [image-service] [info]: Image 7/10 generated successfully for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:44:14.045Z] [image-service] [info]: Processing image 8/10 for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:44:14.046Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:44:14.047Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:44:22.533Z] [image-service] [info]: Image saved to: /app/storage/images/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-image-7-1742395454047-9ced145d.jpg
+[2025-03-19T14:44:22.535Z] [image-service] [info]: Image 8/10 generated successfully for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:44:22.536Z] [image-service] [info]: Processing image 9/10 for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:44:22.537Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:44:22.538Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:44:29.840Z] [image-service] [info]: Image saved to: /app/storage/images/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-image-8-1742395462538-54c674c8.jpg
+[2025-03-19T14:44:29.842Z] [image-service] [info]: Image 9/10 generated successfully for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:44:29.842Z] [image-service] [info]: Processing image 10/10 for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:44:29.843Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T14:44:29.843Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T14:44:37.167Z] [image-service] [info]: Image saved to: /app/storage/images/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-image-9-1742395469843-c8fcbb50.jpg
+[2025-03-19T14:44:37.168Z] [image-service] [info]: Image 10/10 generated successfully for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:44:37.168Z] [image-service] [info]: Images generated: 10
+[2025-03-19T16:27:44.317Z] [image-service] [info]: Generating single image for job: 67dad7f4bafc03c132e58280 at index: 0
+[2025-03-19T16:27:44.318Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T16:27:44.321Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T16:27:52.810Z] [image-service] [info]: Image saved to: /app/storage/images/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-image-0-1742401664320-67b582cb.jpg
+[2025-03-19T16:28:09.014Z] [image-service] [info]: Generating single image for job: 67dad7f4bafc03c132e58280 at index: 0
+[2025-03-19T16:28:09.015Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T16:28:09.016Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T16:28:15.300Z] [image-service] [info]: Image saved to: /app/storage/images/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-image-0-1742401689016-bd811ae1.jpg
+[2025-03-19T16:28:16.254Z] [image-service] [info]: Generating single image for job: 67dad7f4bafc03c132e58280 at index: 2
+[2025-03-19T16:28:16.255Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T16:28:16.256Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T16:28:24.163Z] [image-service] [info]: Image saved to: /app/storage/images/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-image-2-1742401696256-b8991ac4.jpg
+[2025-03-19T16:28:24.964Z] [image-service] [info]: Generating single image for job: 67dad7f4bafc03c132e58280 at index: 5
+[2025-03-19T16:28:24.965Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T16:28:24.966Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T16:28:33.334Z] [image-service] [info]: Image saved to: /app/storage/images/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-image-5-1742401704966-c352aef4.jpg
+[2025-03-19T16:28:34.029Z] [image-service] [info]: Generating single image for job: 67dad7f4bafc03c132e58280 at index: 7
+[2025-03-19T16:28:34.030Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T16:28:34.031Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T16:28:44.318Z] [image-service] [info]: Image saved to: /app/storage/images/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-image-7-1742401714031-0caa88c6.jpg
+[2025-03-19T16:29:02.171Z] [image-service] [info]: Generating single image for job: 67dad7f4bafc03c132e58280 at index: 2
+[2025-03-19T16:29:02.172Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T16:29:02.174Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T16:29:08.475Z] [image-service] [info]: Image saved to: /app/storage/images/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-image-2-1742401742174-9620f299.jpg
+[2025-03-19T16:29:22.625Z] [image-service] [info]: Generating single image for job: 67dad7f4bafc03c132e58280 at index: 2
+[2025-03-19T16:29:22.625Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T16:29:22.625Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T16:29:28.602Z] [image-service] [info]: Image saved to: /app/storage/images/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-image-2-1742401762625-a202995a.jpg
+[2025-03-19T16:29:46.036Z] [image-service] [info]: Generating single image for job: 67dad7f4bafc03c132e58280 at index: 3
+[2025-03-19T16:29:46.037Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T16:29:46.038Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T16:29:52.714Z] [image-service] [info]: Image saved to: /app/storage/images/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-image-3-1742401786038-71d72a5d.jpg
+[2025-03-19T16:30:36.461Z] [image-service] [info]: Generating single image for job: 67dad7f4bafc03c132e58280 at index: 3
+[2025-03-19T16:30:36.462Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T16:30:36.463Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T16:30:50.030Z] [image-service] [info]: Image saved to: /app/storage/images/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-image-3-1742401836463-f6c2117b.jpg
+[2025-03-19T16:31:53.292Z] [image-service] [info]: Generating single image for job: 67dad7f4bafc03c132e58280 at index: 4
+[2025-03-19T16:31:53.292Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T16:31:53.293Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T16:31:59.519Z] [image-service] [info]: Image saved to: /app/storage/images/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-image-4-1742401913293-21d19901.jpg
+[2025-03-19T16:32:07.215Z] [image-service] [info]: Generating single image for job: 67dad7f4bafc03c132e58280 at index: 5
+[2025-03-19T16:32:07.216Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T16:32:07.217Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T16:32:15.639Z] [image-service] [info]: Image saved to: /app/storage/images/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-image-5-1742401927217-2ce8fb78.jpg
+[2025-03-19T16:32:22.235Z] [image-service] [info]: Generating single image for job: 67dad7f4bafc03c132e58280 at index: 5
+[2025-03-19T16:32:22.235Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T16:32:22.236Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T16:32:29.294Z] [image-service] [info]: Image saved to: /app/storage/images/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-image-5-1742401942236-09783106.jpg
+[2025-03-19T16:32:39.024Z] [image-service] [info]: Generating single image for job: 67dad7f4bafc03c132e58280 at index: 5
+[2025-03-19T16:32:39.025Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T16:32:39.027Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T16:32:46.096Z] [image-service] [info]: Image saved to: /app/storage/images/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-image-5-1742401959027-dc5504ee.jpg
+[2025-03-19T16:32:53.208Z] [image-service] [info]: Generating single image for job: 67dad7f4bafc03c132e58280 at index: 5
+[2025-03-19T16:32:53.209Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T16:32:53.210Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T16:32:54.232Z] [image-service] [warn]: Image generation attempt 1 failed: Request failed with status code 502
+[2025-03-19T16:32:54.233Z] [image-service] [info]: Waiting 3 seconds before retry...
+[2025-03-19T16:32:57.239Z] [image-service] [info]: Attempt 2/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T16:32:57.243Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T16:32:58.252Z] [image-service] [warn]: Image generation attempt 2 failed: Request failed with status code 502
+[2025-03-19T16:32:58.253Z] [image-service] [info]: Waiting 6 seconds before retry...
+[2025-03-19T16:33:10.254Z] [image-service] [info]: Attempt 3/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T16:33:10.261Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T16:33:13.588Z] [image-service] [info]: Image saved to: /app/storage/images/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-image-5-1742401990260-967138ec.jpg
+[2025-03-19T16:36:53.451Z] [image-service] [info]: Generating single image for job: 67dad7f4bafc03c132e58280 at index: 5
+[2025-03-19T16:36:53.452Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T16:36:53.453Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T16:37:21.103Z] [image-service] [info]: Image saved to: /app/storage/images/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-image-5-1742402213453-1d5da9d2.jpg
+[2025-03-19T16:50:23.681Z] [image-service] [info]: Generating images for job: 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:50:23.682Z] [image-service] [info]: Processing image 1/10 for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:50:23.683Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T16:50:23.684Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T16:50:30.220Z] [image-service] [info]: Image saved to: /app/storage/images/67daf5c011c09a0ff3103ea9/67daf5c011c09a0ff3103ea9-image-0-1742403023684-b5815e89.jpg
+[2025-03-19T16:50:30.222Z] [image-service] [info]: Image 1/10 generated successfully for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:50:30.223Z] [image-service] [info]: Processing image 2/10 for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:50:30.224Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T16:50:30.225Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T16:50:38.919Z] [image-service] [info]: Image saved to: /app/storage/images/67daf5c011c09a0ff3103ea9/67daf5c011c09a0ff3103ea9-image-1-1742403030225-72ec2b42.jpg
+[2025-03-19T16:50:38.923Z] [image-service] [info]: Image 2/10 generated successfully for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:50:38.924Z] [image-service] [info]: Processing image 3/10 for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:50:38.925Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T16:50:38.927Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T16:50:49.231Z] [image-service] [info]: Image saved to: /app/storage/images/67daf5c011c09a0ff3103ea9/67daf5c011c09a0ff3103ea9-image-2-1742403038927-5bff23e9.jpg
+[2025-03-19T16:50:49.234Z] [image-service] [info]: Image 3/10 generated successfully for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:50:49.236Z] [image-service] [info]: Processing image 4/10 for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:50:49.237Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T16:50:49.240Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T16:50:56.134Z] [image-service] [info]: Image saved to: /app/storage/images/67daf5c011c09a0ff3103ea9/67daf5c011c09a0ff3103ea9-image-3-1742403049240-828ebb5b.jpg
+[2025-03-19T16:50:56.137Z] [image-service] [info]: Image 4/10 generated successfully for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:50:56.138Z] [image-service] [info]: Processing image 5/10 for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:50:56.139Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T16:50:56.141Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T16:51:04.701Z] [image-service] [info]: Image saved to: /app/storage/images/67daf5c011c09a0ff3103ea9/67daf5c011c09a0ff3103ea9-image-4-1742403056141-5e57a1c6.jpg
+[2025-03-19T16:51:04.704Z] [image-service] [info]: Image 5/10 generated successfully for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:51:04.706Z] [image-service] [info]: Processing image 6/10 for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:51:04.707Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T16:51:04.710Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T16:51:12.266Z] [image-service] [info]: Image saved to: /app/storage/images/67daf5c011c09a0ff3103ea9/67daf5c011c09a0ff3103ea9-image-5-1742403064710-78c9ff43.jpg
+[2025-03-19T16:51:12.269Z] [image-service] [info]: Image 6/10 generated successfully for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:51:12.271Z] [image-service] [info]: Processing image 7/10 for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:51:12.272Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T16:51:12.274Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T16:51:18.798Z] [image-service] [info]: Image saved to: /app/storage/images/67daf5c011c09a0ff3103ea9/67daf5c011c09a0ff3103ea9-image-6-1742403072274-b3a893a9.jpg
+[2025-03-19T16:51:18.799Z] [image-service] [info]: Image 7/10 generated successfully for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:51:18.800Z] [image-service] [info]: Processing image 8/10 for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:51:18.800Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T16:51:18.801Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T16:51:28.172Z] [image-service] [info]: Image saved to: /app/storage/images/67daf5c011c09a0ff3103ea9/67daf5c011c09a0ff3103ea9-image-7-1742403078801-72f6e3c7.jpg
+[2025-03-19T16:51:28.174Z] [image-service] [info]: Image 8/10 generated successfully for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:51:28.175Z] [image-service] [info]: Processing image 9/10 for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:51:28.177Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T16:51:28.179Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T16:51:36.797Z] [image-service] [info]: Image saved to: /app/storage/images/67daf5c011c09a0ff3103ea9/67daf5c011c09a0ff3103ea9-image-8-1742403088178-d9bbd332.jpg
+[2025-03-19T16:51:36.799Z] [image-service] [info]: Image 9/10 generated successfully for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:51:36.800Z] [image-service] [info]: Processing image 10/10 for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:51:36.801Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T16:51:36.802Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T16:51:41.506Z] [image-service] [info]: Image saved to: /app/storage/images/67daf5c011c09a0ff3103ea9/67daf5c011c09a0ff3103ea9-image-9-1742403096802-e2b1d8da.jpg
+[2025-03-19T16:51:41.509Z] [image-service] [info]: Image 10/10 generated successfully for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:51:41.510Z] [image-service] [info]: Images generated: 10
+[2025-03-19T17:21:57.500Z] [image-service] [info]: Generating images for job: 67dafd275a4368873ac78681
+[2025-03-19T17:21:57.502Z] [image-service] [info]: Processing image 1/10 for job 67dafd275a4368873ac78681
+[2025-03-19T17:21:57.502Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T17:21:57.503Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T17:22:06.509Z] [image-service] [info]: Image saved to: /app/storage/images/67dafd275a4368873ac78681/67dafd275a4368873ac78681-image-0-1742404917503-b90b80d3.jpg
+[2025-03-19T17:22:06.512Z] [image-service] [info]: Image 1/10 generated successfully for job 67dafd275a4368873ac78681
+[2025-03-19T17:22:06.514Z] [image-service] [info]: Processing image 2/10 for job 67dafd275a4368873ac78681
+[2025-03-19T17:22:06.516Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T17:22:06.519Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T17:22:12.882Z] [image-service] [info]: Image saved to: /app/storage/images/67dafd275a4368873ac78681/67dafd275a4368873ac78681-image-1-1742404926518-8ddc0d5a.jpg
+[2025-03-19T17:22:12.885Z] [image-service] [info]: Image 2/10 generated successfully for job 67dafd275a4368873ac78681
+[2025-03-19T17:22:12.886Z] [image-service] [info]: Processing image 3/10 for job 67dafd275a4368873ac78681
+[2025-03-19T17:22:12.887Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T17:22:12.889Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T17:22:21.734Z] [image-service] [info]: Image saved to: /app/storage/images/67dafd275a4368873ac78681/67dafd275a4368873ac78681-image-2-1742404932889-b42eca8b.jpg
+[2025-03-19T17:22:21.736Z] [image-service] [info]: Image 3/10 generated successfully for job 67dafd275a4368873ac78681
+[2025-03-19T17:22:21.737Z] [image-service] [info]: Processing image 4/10 for job 67dafd275a4368873ac78681
+[2025-03-19T17:22:21.738Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T17:22:21.739Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T17:22:30.505Z] [image-service] [info]: Image saved to: /app/storage/images/67dafd275a4368873ac78681/67dafd275a4368873ac78681-image-3-1742404941739-6c9c038a.jpg
+[2025-03-19T17:22:30.508Z] [image-service] [info]: Image 4/10 generated successfully for job 67dafd275a4368873ac78681
+[2025-03-19T17:22:30.509Z] [image-service] [info]: Processing image 5/10 for job 67dafd275a4368873ac78681
+[2025-03-19T17:22:30.510Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T17:22:30.511Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T17:22:37.627Z] [image-service] [info]: Image saved to: /app/storage/images/67dafd275a4368873ac78681/67dafd275a4368873ac78681-image-4-1742404950510-1f8a4c98.jpg
+[2025-03-19T17:22:37.629Z] [image-service] [info]: Image 5/10 generated successfully for job 67dafd275a4368873ac78681
+[2025-03-19T17:22:37.629Z] [image-service] [info]: Processing image 6/10 for job 67dafd275a4368873ac78681
+[2025-03-19T17:22:37.630Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T17:22:37.634Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T17:22:46.249Z] [image-service] [info]: Image saved to: /app/storage/images/67dafd275a4368873ac78681/67dafd275a4368873ac78681-image-5-1742404957634-7d8b139e.jpg
+[2025-03-19T17:22:46.255Z] [image-service] [info]: Image 6/10 generated successfully for job 67dafd275a4368873ac78681
+[2025-03-19T17:22:46.257Z] [image-service] [info]: Processing image 7/10 for job 67dafd275a4368873ac78681
+[2025-03-19T17:22:46.258Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T17:22:46.262Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T17:23:02.614Z] [image-service] [info]: Image saved to: /app/storage/images/67dafd275a4368873ac78681/67dafd275a4368873ac78681-image-6-1742404966262-1afa3c95.jpg
+[2025-03-19T17:23:02.616Z] [image-service] [info]: Image 7/10 generated successfully for job 67dafd275a4368873ac78681
+[2025-03-19T17:23:02.617Z] [image-service] [info]: Processing image 8/10 for job 67dafd275a4368873ac78681
+[2025-03-19T17:23:02.617Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T17:23:02.618Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T17:23:08.550Z] [image-service] [info]: Image saved to: /app/storage/images/67dafd275a4368873ac78681/67dafd275a4368873ac78681-image-7-1742404982618-14f39541.jpg
+[2025-03-19T17:23:08.553Z] [image-service] [info]: Image 8/10 generated successfully for job 67dafd275a4368873ac78681
+[2025-03-19T17:23:08.554Z] [image-service] [info]: Processing image 9/10 for job 67dafd275a4368873ac78681
+[2025-03-19T17:23:08.555Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T17:23:08.558Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T17:23:17.930Z] [image-service] [info]: Image saved to: /app/storage/images/67dafd275a4368873ac78681/67dafd275a4368873ac78681-image-8-1742404988558-85bf4c54.jpg
+[2025-03-19T17:23:17.933Z] [image-service] [info]: Image 9/10 generated successfully for job 67dafd275a4368873ac78681
+[2025-03-19T17:23:17.934Z] [image-service] [info]: Processing image 10/10 for job 67dafd275a4368873ac78681
+[2025-03-19T17:23:17.935Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-19T17:23:17.937Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-19T17:23:25.540Z] [image-service] [info]: Image saved to: /app/storage/images/67dafd275a4368873ac78681/67dafd275a4368873ac78681-image-9-1742404997937-6e3ffbc6.jpg
+[2025-03-19T17:23:25.543Z] [image-service] [info]: Image 10/10 generated successfully for job 67dafd275a4368873ac78681
+[2025-03-19T17:23:25.544Z] [image-service] [info]: Images generated: 10
+[2025-03-24T11:05:13.380Z] [image-service] [info]: Generating images for job: 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:05:13.381Z] [image-service] [info]: Processing image 1/10 for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:05:13.382Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-24T11:05:13.383Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-24T11:05:18.907Z] [image-service] [info]: Image saved to: /app/storage/images/67e13c5a070848d8a2e49dcd/67e13c5a070848d8a2e49dcd-image-0-1742814313383-19b8bf09.jpg
+[2025-03-24T11:05:18.910Z] [image-service] [info]: Image 1/10 generated successfully for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:05:18.912Z] [image-service] [info]: Processing image 2/10 for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:05:18.913Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-24T11:05:18.915Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-24T11:05:25.366Z] [image-service] [info]: Image saved to: /app/storage/images/67e13c5a070848d8a2e49dcd/67e13c5a070848d8a2e49dcd-image-1-1742814318915-ec793ab4.jpg
+[2025-03-24T11:05:25.369Z] [image-service] [info]: Image 2/10 generated successfully for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:05:25.370Z] [image-service] [info]: Processing image 3/10 for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:05:25.371Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-24T11:05:25.373Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-24T11:05:29.016Z] [image-service] [info]: Image saved to: /app/storage/images/67e13c5a070848d8a2e49dcd/67e13c5a070848d8a2e49dcd-image-2-1742814325373-9bea7ed8.jpg
+[2025-03-24T11:05:29.019Z] [image-service] [info]: Image 3/10 generated successfully for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:05:29.020Z] [image-service] [info]: Processing image 4/10 for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:05:29.021Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-24T11:05:29.022Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-24T11:05:32.855Z] [image-service] [info]: Image saved to: /app/storage/images/67e13c5a070848d8a2e49dcd/67e13c5a070848d8a2e49dcd-image-3-1742814329022-dea073f0.jpg
+[2025-03-24T11:05:32.858Z] [image-service] [info]: Image 4/10 generated successfully for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:05:32.859Z] [image-service] [info]: Processing image 5/10 for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:05:32.861Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-24T11:05:32.862Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-24T11:05:36.438Z] [image-service] [info]: Image saved to: /app/storage/images/67e13c5a070848d8a2e49dcd/67e13c5a070848d8a2e49dcd-image-4-1742814332862-2282fcc0.jpg
+[2025-03-24T11:05:36.441Z] [image-service] [info]: Image 5/10 generated successfully for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:05:36.442Z] [image-service] [info]: Processing image 6/10 for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:05:36.444Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-24T11:05:36.445Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-24T11:05:40.061Z] [image-service] [info]: Image saved to: /app/storage/images/67e13c5a070848d8a2e49dcd/67e13c5a070848d8a2e49dcd-image-5-1742814336445-beca3042.jpg
+[2025-03-24T11:05:40.064Z] [image-service] [info]: Image 6/10 generated successfully for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:05:40.066Z] [image-service] [info]: Processing image 7/10 for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:05:40.067Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-24T11:05:40.069Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-24T11:05:43.763Z] [image-service] [info]: Image saved to: /app/storage/images/67e13c5a070848d8a2e49dcd/67e13c5a070848d8a2e49dcd-image-6-1742814340069-464edb42.jpg
+[2025-03-24T11:05:43.765Z] [image-service] [info]: Image 7/10 generated successfully for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:05:43.766Z] [image-service] [info]: Processing image 8/10 for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:05:43.767Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-24T11:05:43.768Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-24T11:05:47.256Z] [image-service] [info]: Image saved to: /app/storage/images/67e13c5a070848d8a2e49dcd/67e13c5a070848d8a2e49dcd-image-7-1742814343768-62a5fc31.jpg
+[2025-03-24T11:05:47.258Z] [image-service] [info]: Image 8/10 generated successfully for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:05:47.260Z] [image-service] [info]: Processing image 9/10 for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:05:47.261Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-24T11:05:47.263Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-24T11:05:53.409Z] [image-service] [info]: Image saved to: /app/storage/images/67e13c5a070848d8a2e49dcd/67e13c5a070848d8a2e49dcd-image-8-1742814347263-708649e7.jpg
+[2025-03-24T11:05:53.411Z] [image-service] [info]: Image 9/10 generated successfully for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:05:53.412Z] [image-service] [info]: Processing image 10/10 for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:05:53.412Z] [image-service] [info]: Attempt 1/3 to generate image for prompt: Fotografia realista de alta qualidade, não ilustra...
+[2025-03-24T11:05:53.414Z] [image-service] [info]: Calling image API for prompt: "Fotografia realista de alta qu..."
+[2025-03-24T11:05:57.043Z] [image-service] [info]: Image saved to: /app/storage/images/67e13c5a070848d8a2e49dcd/67e13c5a070848d8a2e49dcd-image-9-1742814353414-4f73104c.jpg
+[2025-03-24T11:05:57.045Z] [image-service] [info]: Image 10/10 generated successfully for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:05:57.046Z] [image-service] [info]: Images generated: 10

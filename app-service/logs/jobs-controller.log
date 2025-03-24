@@ -1,0 +1,37 @@
+[2025-03-18T18:54:47.482Z] [jobs-controller] [error]: Error creating job: Command insert requires authentication
+[2025-03-18T19:02:24.915Z] [jobs-controller] [error]: Error creating job: Command insert requires authentication
+[2025-03-18T19:34:29.157Z] [jobs-controller] [error]: Error creating job: Command insert requires authentication
+[2025-03-18T19:34:31.684Z] [jobs-controller] [error]: Error listing jobs: Command find requires authentication
+[2025-03-18T19:34:32.435Z] [jobs-controller] [error]: Error listing jobs: Command find requires authentication
+[2025-03-18T19:34:58.000Z] [jobs-controller] [error]: Error listing jobs: Command find requires authentication
+[2025-03-18T19:34:58.888Z] [jobs-controller] [error]: Error listing jobs: Command find requires authentication
+[2025-03-18T19:39:31.365Z] [jobs-controller] [error]: Error listing jobs: Command find requires authentication
+[2025-03-18T19:40:43.180Z] [jobs-controller] [error]: Error listing jobs: Command find requires authentication
+[2025-03-18T19:42:12.471Z] [jobs-controller] [error]: Error listing jobs: Command find requires authentication
+[2025-03-18T19:42:15.265Z] [jobs-controller] [error]: Error listing jobs: Command find requires authentication
+[2025-03-18T19:43:53.550Z] [jobs-controller] [error]: Error listing jobs: Command find requires authentication
+[2025-03-18T20:44:08.506Z] [jobs-controller] [error]: Error listing jobs: Command find requires authentication
+[2025-03-18T20:44:15.713Z] [jobs-controller] [error]: Error listing jobs: Command find requires authentication
+[2025-03-19T12:10:33.212Z] [jobs-controller] [error]: Error regenerating audio for job 67d9d17934cfbbf9f9fd04cc: Job must be in one of these statuses to regenerate audios: READY, COMPLETED, ERROR. Current status: GENERATING_ASSETS
+[2025-03-19T12:13:57.870Z] [jobs-controller] [error]: Error regenerating image for job 67dab49363e40732224c973d: Job must be in one of these statuses to regenerate images: READY, COMPLETED, ERROR. Current status: GENERATING_ASSETS
+[2025-03-19T12:26:04.279Z] [jobs-controller] [error]: Error regenerating image for job 67dab772bffdda2d31fab352: Job must be in one of these statuses to regenerate images: READY, COMPLETED, ERROR. Current status: GENERATING_ASSETS
+[2025-03-19T13:09:18.421Z] [jobs-controller] [error]: Error getting job undefined: Job not found with ID: undefined
+[2025-03-19T13:09:21.538Z] [jobs-controller] [error]: Error getting job undefined: Job not found with ID: undefined
+[2025-03-19T13:09:38.112Z] [jobs-controller] [error]: Error getting job undefined: Job not found with ID: undefined
+[2025-03-19T14:00:05.702Z] [jobs-controller] [error]: Error regenerating image for job 67dacb097ca9a97b132031a4: Job must be in one of these statuses to regenerate images: READY, COMPLETED, ERROR. Current status: GENERATING_ASSETS
+[2025-03-19T14:00:13.302Z] [jobs-controller] [error]: Error regenerating image for job 67dacb097ca9a97b132031a4: Job must be in one of these statuses to regenerate images: READY, COMPLETED, ERROR. Current status: GENERATING_ASSETS
+[2025-03-19T14:00:36.258Z] [jobs-controller] [error]: Error regenerating image for job 67dacb097ca9a97b132031a4: Job must be in one of these statuses to regenerate images: READY, COMPLETED, ERROR. Current status: GENERATING_ASSETS
+[2025-03-19T14:02:38.920Z] [jobs-controller] [error]: Error regenerating image for job 67dacb097ca9a97b132031a4: Job must be in one of these statuses to regenerate images: READY, COMPLETED, ERROR. Current status: GENERATING_ASSETS
+[2025-03-19T14:05:21.236Z] [jobs-controller] [error]: Error regenerating image for job 67dacb097ca9a97b132031a4: Job must be in one of these statuses to regenerate images: READY, COMPLETED, ERROR. Current status: GENERATING_ASSETS
+[2025-03-19T14:05:22.303Z] [jobs-controller] [error]: Error regenerating image for job 67dacb097ca9a97b132031a4: Job must be in one of these statuses to regenerate images: READY, COMPLETED, ERROR. Current status: GENERATING_ASSETS
+[2025-03-19T14:05:49.954Z] [jobs-controller] [error]: Error regenerating image for job 67dacb097ca9a97b132031a4: Job must be in one of these statuses to regenerate images: READY, COMPLETED, ERROR. Current status: GENERATING_ASSETS
+[2025-03-19T14:05:58.346Z] [jobs-controller] [error]: Error regenerating image for job 67dacb097ca9a97b132031a4: Job must be in one of these statuses to regenerate images: READY, COMPLETED, ERROR. Current status: GENERATING_ASSETS
+[2025-03-19T14:08:48.276Z] [jobs-controller] [error]: Error regenerating image for job 67dacb097ca9a97b132031a4: Job must be in one of these statuses to regenerate images: READY, COMPLETED, ERROR. Current status: GENERATING_ASSETS
+[2025-03-19T14:11:53.824Z] [jobs-controller] [error]: Error regenerating image for job 67dacb097ca9a97b132031a4: Job must be in one of these statuses to regenerate images: READY, COMPLETED, ERROR. Current status: GENERATING_ASSETS
+[2025-03-19T14:27:58.505Z] [jobs-controller] [error]: Error regenerating image for job 67dad024be384bbec08813b1: Job must be in one of these statuses to regenerate images: READY, COMPLETED, ERROR. Current status: GENERATING_ASSETS
+[2025-03-19T16:28:18.567Z] [jobs-controller] [error]: Error regenerating image for job 67dad7f4bafc03c132e58280: Job must be in one of these statuses to regenerate images: READY, COMPLETED, ERROR. Current status: GENERATING_ASSETS
+[2025-03-19T16:28:22.451Z] [jobs-controller] [error]: Error regenerating image for job 67dad7f4bafc03c132e58280: Job must be in one of these statuses to regenerate images: READY, COMPLETED, ERROR. Current status: GENERATING_ASSETS
+[2025-03-19T16:28:36.944Z] [jobs-controller] [error]: Error regenerating image for job 67dad7f4bafc03c132e58280: Job must be in one of these statuses to regenerate images: READY, COMPLETED, ERROR. Current status: GENERATING_ASSETS
+[2025-03-19T16:29:04.193Z] [jobs-controller] [error]: Error regenerating image for job 67dad7f4bafc03c132e58280: Job must be in one of these statuses to regenerate images: READY, COMPLETED, ERROR. Current status: GENERATING_ASSETS
+[2025-03-19T16:29:07.608Z] [jobs-controller] [error]: Error regenerating image for job 67dad7f4bafc03c132e58280: Job must be in one of these statuses to regenerate images: READY, COMPLETED, ERROR. Current status: GENERATING_ASSETS
+[2025-03-19T16:50:21.177Z] [jobs-controller] [error]: Error regenerating image for job 67dacb097ca9a97b132031a4: Job must be in one of these statuses to regenerate images: READY, COMPLETED, ERROR. Current status: GENERATING_ASSETS

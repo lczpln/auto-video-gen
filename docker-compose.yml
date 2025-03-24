@@ -1,0 +1,92 @@
+services:
+  mongodb:
+    image: mongo:latest
+    container_name: mongodb
+    restart: always
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongodb_data:/data/db
+    networks:
+      - app-network
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=${MONGO_USERNAME:-admin}
+      - MONGO_INITDB_ROOT_PASSWORD=${MONGO_PASSWORD:-password}
+      - MONGO_INITDB_DATABASE=auto-video-gen
+
+  # Redis for BullMQ
+  redis:
+    image: redis:alpine
+    container_name: redis
+    restart: always
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    networks:
+      - app-network
+
+  app-service:
+    build:
+      context: .
+      dockerfile: ./app-service/Dockerfile
+    container_name: app-service
+    restart: always
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./app-service:/app
+      - /app/node_modules
+      - ${STORAGE_PATH:-./storage}:/app/storage
+    networks:
+      - app-network
+    depends_on:
+      - mongodb
+      - redis
+    environment:
+      - NODE_ENV=${NODE_ENV:-development}
+      - MONGODB_URI=mongodb://${MONGO_USERNAME:-admin}:${MONGO_PASSWORD:-password}@mongodb:27017/auto-video-gen?authSource=admin
+      - REDIS_HOST=redis
+      - REDIS_PORT=6379
+      - STORAGE_PATH=/app/storage
+      - LOG_LEVEL=${LOG_LEVEL:-info}
+      - LOG_PATH=/app/logs
+      - APP_PORT=3000
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - TTS_API_URL=${TTS_API_URL}
+      - IMAGE_API_URL=${IMAGE_API_URL}
+      - VIDEO_WIDTH=${VIDEO_WIDTH:-1280}
+      - VIDEO_HEIGHT=${VIDEO_HEIGHT:-720}
+      - USE_AI_CONTENT=${USE_AI_CONTENT:-true}
+      - USE_TTS=${USE_TTS:-false}
+      - USE_AI_IMAGES=${USE_AI_IMAGES:-false}
+      - USE_FFMPEG=${USE_FFMPEG:-true}
+      # Configuração para FFCreator integrado
+      - DISPLAY=:99
+      - USE_FFCREATOR=true
+      - LD_LIBRARY_PATH=/opt/rh/devtoolset-7/root/usr/lib64:/opt/rh/devtoolset-7/root/usr/lib
+
+  ui:
+    build:
+      context: ./ui
+      dockerfile: Dockerfile
+    container_name: ui
+    restart: always
+    ports:
+      - "80:80"
+    networks:
+      - app-network
+    depends_on:
+      - app-service
+    volumes:
+      - ./ui:/app
+      - ${STORAGE_PATH:-./storage}:/app/storage
+
+networks:
+  app-network:
+    driver: bridge
+
+volumes:
+  mongodb_data:
+  redis_data:
+  storage_data:

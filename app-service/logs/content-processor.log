@@ -1,0 +1,34 @@
+[2025-03-18T19:45:11.546Z] [content-processor] [info]: Processing content job: 67d9cd47ea2b34e635bae0c0
+[2025-03-18T19:45:12.594Z] [content-processor] [info]: Content processing completed for job: 67d9cd47ea2b34e635bae0c0
+[2025-03-18T19:55:23.818Z] [content-processor] [info]: Processing content job: 67d9cfabf812280297eb1bc4
+[2025-03-18T19:55:24.411Z] [content-processor] [info]: Content processing completed for job: 67d9cfabf812280297eb1bc4
+[2025-03-18T20:02:04.221Z] [content-processor] [info]: Processing content job: 67d9d13c80f626dcd75c9f65
+[2025-03-18T20:02:04.625Z] [content-processor] [info]: Content processing completed for job: 67d9d13c80f626dcd75c9f65
+[2025-03-18T20:03:05.241Z] [content-processor] [info]: Processing content job: 67d9d17934cfbbf9f9fd04cc
+[2025-03-18T20:03:06.230Z] [content-processor] [info]: Content processing completed for job: 67d9d17934cfbbf9f9fd04cc
+[2025-03-18T20:05:22.053Z] [content-processor] [info]: Processing content job: 67d9d2027993b4ea61d53481
+[2025-03-18T20:05:35.948Z] [content-processor] [info]: Content processing completed for job: 67d9d2027993b4ea61d53481
+[2025-03-18T20:06:28.872Z] [content-processor] [info]: Processing content job: 67d9d2447993b4ea61d53496
+[2025-03-18T20:06:36.203Z] [content-processor] [info]: Processing content job: 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:06:47.706Z] [content-processor] [info]: Content processing completed for job: 67d9d2447993b4ea61d53496
+[2025-03-18T20:06:50.455Z] [content-processor] [error]: Error processing content: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent: [503 Service Unavailable] The model is overloaded. Please try again later.
+[2025-03-18T20:06:50.472Z] [content-processor] [info]: Processing content job: 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:07:01.889Z] [content-processor] [info]: Content processing completed for job: 67d9d24c7993b4ea61d5349f
+[2025-03-19T12:12:03.466Z] [content-processor] [info]: Processing content job: 67dab49363e40732224c973d
+[2025-03-19T12:12:18.822Z] [content-processor] [info]: Content processing completed for job: 67dab49363e40732224c973d
+[2025-03-19T12:24:18.972Z] [content-processor] [info]: Processing content job: 67dab772bffdda2d31fab352
+[2025-03-19T12:24:32.678Z] [content-processor] [info]: Content processing completed for job: 67dab772bffdda2d31fab352
+[2025-03-19T12:53:22.643Z] [content-processor] [info]: Processing content job: 67dabe42bffdda2d31fab36c
+[2025-03-19T12:53:36.334Z] [content-processor] [info]: Content processing completed for job: 67dabe42bffdda2d31fab36c
+[2025-03-19T13:47:53.700Z] [content-processor] [info]: Processing content job: 67dacb097ca9a97b132031a4
+[2025-03-19T13:48:07.736Z] [content-processor] [info]: Content processing completed for job: 67dacb097ca9a97b132031a4
+[2025-03-19T14:09:40.254Z] [content-processor] [info]: Processing content job: 67dad024be384bbec08813b1
+[2025-03-19T14:09:56.175Z] [content-processor] [info]: Content processing completed for job: 67dad024be384bbec08813b1
+[2025-03-19T14:43:00.662Z] [content-processor] [info]: Processing content job: 67dad7f4bafc03c132e58280
+[2025-03-19T14:43:16.574Z] [content-processor] [info]: Content processing completed for job: 67dad7f4bafc03c132e58280
+[2025-03-19T16:50:09.002Z] [content-processor] [info]: Processing content job: 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:50:23.672Z] [content-processor] [info]: Content processing completed for job: 67daf5c011c09a0ff3103ea9
+[2025-03-19T17:21:43.469Z] [content-processor] [info]: Processing content job: 67dafd275a4368873ac78681
+[2025-03-19T17:21:57.488Z] [content-processor] [info]: Content processing completed for job: 67dafd275a4368873ac78681
+[2025-03-24T11:04:58.106Z] [content-processor] [info]: Processing content job: 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:05:13.369Z] [content-processor] [info]: Content processing completed for job: 67e13c5a070848d8a2e49dcd

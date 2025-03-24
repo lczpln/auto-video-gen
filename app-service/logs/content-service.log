@@ -1,0 +1,70 @@
+[2025-03-18T19:45:11.578Z] [content-service] [info]: Generating content for prompt: História pra boi dormir
+[2025-03-18T19:45:11.580Z] [content-service] [info]: Generating content with Gemini for: História pra boi dormir...
+[2025-03-18T19:45:12.535Z] [content-service] [error]: Gemini generation error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini:generateContent: [404 Not Found] models/gemini is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-03-18T19:45:12.536Z] [content-service] [info]: Falling back to mock content generation
+[2025-03-18T19:45:12.574Z] [content-service] [info]: Content generated successfully
+[2025-03-18T19:55:23.825Z] [content-service] [info]: Generating content for prompt: História pra boi dormir
+[2025-03-18T19:55:23.826Z] [content-service] [info]: Generating content with Gemini for: História pra boi dormir...
+[2025-03-18T19:55:24.389Z] [content-service] [error]: Gemini generation error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini:generateContent: [404 Not Found] models/gemini is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-03-18T19:55:24.391Z] [content-service] [info]: Falling back to mock content generation
+[2025-03-18T19:55:24.394Z] [content-service] [info]: Content generated successfully
+[2025-03-18T20:02:04.227Z] [content-service] [info]: Generating content for prompt: História pra boi dormir
+[2025-03-18T20:02:04.228Z] [content-service] [info]: Generating content with Gemini for: História pra boi dormir...
+[2025-03-18T20:02:04.608Z] [content-service] [error]: Gemini generation error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini:generateContent: [404 Not Found] models/gemini is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-03-18T20:02:04.609Z] [content-service] [info]: Falling back to mock content generation
+[2025-03-18T20:02:04.612Z] [content-service] [info]: Content generated successfully
+[2025-03-18T20:03:05.252Z] [content-service] [info]: Generating content for prompt: História pra boi dormir
+[2025-03-18T20:03:05.252Z] [content-service] [info]: Generating content with Gemini for: História pra boi dormir...
+[2025-03-18T20:03:06.209Z] [content-service] [error]: Gemini generation error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini:generateContent: [404 Not Found] models/gemini is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-03-18T20:03:06.211Z] [content-service] [info]: Falling back to mock content generation
+[2025-03-18T20:03:06.214Z] [content-service] [info]: Content generated successfully
+[2025-03-18T20:05:22.060Z] [content-service] [info]: Generating content for prompt: História pra boi dormir
+[2025-03-18T20:05:22.061Z] [content-service] [info]: Generating content with Gemini for: História pra boi dormir...
+[2025-03-18T20:05:35.933Z] [content-service] [info]: Content saved to file: /app/storage/content/content-1742328322060.json
+[2025-03-18T20:05:35.934Z] [content-service] [info]: Content generated successfully
+[2025-03-18T20:06:28.877Z] [content-service] [info]: Generating content for prompt: O gorila maguila
+[2025-03-18T20:06:28.878Z] [content-service] [info]: Generating content with Gemini for: O gorila maguila...
+[2025-03-18T20:06:36.207Z] [content-service] [info]: Generating content for prompt: O pato carijó
+[2025-03-18T20:06:36.208Z] [content-service] [info]: Generating content with Gemini for: O pato carijó...
+[2025-03-18T20:06:47.694Z] [content-service] [info]: Content saved to file: /app/storage/content/content-1742328388878.json
+[2025-03-18T20:06:47.695Z] [content-service] [info]: Content generated successfully
+[2025-03-18T20:06:50.476Z] [content-service] [info]: Generating content for prompt: O pato carijó
+[2025-03-18T20:06:50.476Z] [content-service] [info]: Generating content with Gemini for: O pato carijó...
+[2025-03-18T20:07:01.873Z] [content-service] [info]: Content saved to file: /app/storage/content/content-1742328410476.json
+[2025-03-18T20:07:01.875Z] [content-service] [info]: Content generated successfully
+[2025-03-19T12:12:03.478Z] [content-service] [info]: Generating content for prompt: A vaquinha mijoleta
+[2025-03-19T12:12:03.479Z] [content-service] [info]: Generating content with Gemini for: A vaquinha mijoleta...
+[2025-03-19T12:12:18.804Z] [content-service] [info]: Content saved to file: /app/storage/content/content-1742386323479.json
+[2025-03-19T12:12:18.805Z] [content-service] [info]: Content generated successfully
+[2025-03-19T12:24:18.988Z] [content-service] [info]: Generating content for prompt: A gatinha miau miau, pretinha e fofinha
+[2025-03-19T12:24:18.988Z] [content-service] [info]: Generating content with Gemini for: A gatinha miau miau, pretinha ...
+[2025-03-19T12:24:32.666Z] [content-service] [info]: Content saved to file: /app/storage/content/content-1742387058988.json
+[2025-03-19T12:24:32.667Z] [content-service] [info]: Content generated successfully
+[2025-03-19T12:53:22.647Z] [content-service] [info]: Generating content for prompt: A gatinha miau miau, pretinha e fofinha
+[2025-03-19T12:53:22.648Z] [content-service] [info]: Generating content with Gemini for: A gatinha miau miau, pretinha ...
+[2025-03-19T12:53:36.310Z] [content-service] [info]: Content saved to file: /app/storage/content/content-1742388802648.json
+[2025-03-19T12:53:36.311Z] [content-service] [info]: Content generated successfully
+[2025-03-19T13:47:53.711Z] [content-service] [info]: Generating content for prompt: História do dia que eu fui testar uma cadeira
+[2025-03-19T13:47:53.712Z] [content-service] [info]: Generating content with Gemini for: História do dia que eu fui tes...
+[2025-03-19T13:48:07.719Z] [content-service] [info]: Content saved to file: /app/storage/content/content-1742392073712.json
+[2025-03-19T13:48:07.720Z] [content-service] [info]: Content generated successfully
+[2025-03-19T14:09:40.270Z] [content-service] [info]: Generating content for prompt: História do dia que eu fui testar uma cadeira
+[2025-03-19T14:09:40.270Z] [content-service] [info]: Generating content with Gemini for: História do dia que eu fui tes...
+[2025-03-19T14:09:56.162Z] [content-service] [info]: Content saved to file: /app/storage/content/content-1742393380270.json
+[2025-03-19T14:09:56.163Z] [content-service] [info]: Content generated successfully
+[2025-03-19T14:43:00.678Z] [content-service] [info]: Generating content for prompt: Vitinho, um garotinho sapeca que roubava laranjas
+[2025-03-19T14:43:00.679Z] [content-service] [info]: Generating content with Gemini for: Vitinho, um garotinho sapeca q...
+[2025-03-19T14:43:16.554Z] [content-service] [info]: Content saved to file: /app/storage/content/content-1742395380679.json
+[2025-03-19T14:43:16.556Z] [content-service] [info]: Content generated successfully
+[2025-03-19T16:50:09.027Z] [content-service] [info]: Generating content for prompt: História de uma tampinha de garrafa que tentou atravessar a rua
+[2025-03-19T16:50:09.028Z] [content-service] [info]: Generating content with Gemini for: História de uma tampinha de ga...
+[2025-03-19T16:50:23.661Z] [content-service] [info]: Content saved to file: /app/storage/content/content-1742403009028.json
+[2025-03-19T16:50:23.661Z] [content-service] [info]: Content generated successfully
+[2025-03-19T17:21:43.480Z] [content-service] [info]: Generating content for prompt: Estudo biblico: Jeremias 29:11
+[2025-03-19T17:21:43.481Z] [content-service] [info]: Generating content with Gemini for: Estudo biblico: Jeremias 29:11...
+[2025-03-19T17:21:57.472Z] [content-service] [info]: Content saved to file: /app/storage/content/content-1742404903481.json
+[2025-03-19T17:21:57.473Z] [content-service] [info]: Content generated successfully
+[2025-03-24T11:04:58.112Z] [content-service] [info]: Generating content for prompt: O cara que só tomava cerveja preta
+[2025-03-24T11:04:58.113Z] [content-service] [info]: Generating content with Gemini for: O cara que só tomava cerveja p...
+[2025-03-24T11:05:13.355Z] [content-service] [info]: Content saved to file: /app/storage/content/content-1742814298113.json
+[2025-03-24T11:05:13.356Z] [content-service] [info]: Content generated successfully

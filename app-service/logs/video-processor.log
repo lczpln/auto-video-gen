@@ -1,0 +1,42 @@
+[2025-03-18T19:46:28.938Z] [video-processor] [info]: Processing video for job: 67d9cd47ea2b34e635bae0c0
+[2025-03-18T19:46:33.503Z] [video-processor] [info]: Video processing completed for job: 67d9cd47ea2b34e635bae0c0
+[2025-03-18T20:23:36.045Z] [video-processor] [info]: Processing video for job: 67d9d2027993b4ea61d53481
+[2025-03-18T20:23:40.593Z] [video-processor] [info]: Video processing completed for job: 67d9d2027993b4ea61d53481
+[2025-03-18T20:50:14.228Z] [video-processor] [info]: Processing video for job: 67d9d2447993b4ea61d53496
+[2025-03-18T20:50:14.273Z] [video-processor] [error]: Error processing video: Failed to generate video with FFmpeg: Failed to generate video: scene.setBgColor is not a function
+[2025-03-18T20:50:14.279Z] [video-processor] [info]: Processing video for job: 67d9d2447993b4ea61d53496
+[2025-03-18T20:50:14.301Z] [video-processor] [error]: Error processing video: Failed to generate video with FFmpeg: Failed to generate video: scene.setBgColor is not a function
+[2025-03-18T20:50:14.305Z] [video-processor] [info]: Processing video for job: 67d9d2447993b4ea61d53496
+[2025-03-18T20:50:14.326Z] [video-processor] [error]: Error processing video: Failed to generate video with FFmpeg: Failed to generate video: scene.setBgColor is not a function
+[2025-03-18T20:51:52.508Z] [video-processor] [info]: Processing video for job: 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:51:52.547Z] [video-processor] [error]: Error processing video: Failed to generate video with FFmpeg: Failed to generate video: scene.setBgColor is not a function
+[2025-03-18T20:51:52.556Z] [video-processor] [info]: Processing video for job: 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:51:52.579Z] [video-processor] [error]: Error processing video: Failed to generate video with FFmpeg: Failed to generate video: scene.setBgColor is not a function
+[2025-03-18T20:51:52.583Z] [video-processor] [info]: Processing video for job: 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:51:52.607Z] [video-processor] [error]: Error processing video: Failed to generate video with FFmpeg: Failed to generate video: scene.setBgColor is not a function
+[2025-03-19T12:11:34.617Z] [video-processor] [info]: Processing video for job: 67d9d17934cfbbf9f9fd04cc
+[2025-03-19T12:18:03.900Z] [video-processor] [info]: Processing video for job: 67d9d17934cfbbf9f9fd04cc
+[2025-03-19T13:02:26.152Z] [video-processor] [info]: Processing video for job: 67dabe42bffdda2d31fab36c
+[2025-03-19T13:02:41.794Z] [video-processor] [info]: Video processing completed for job: 67dabe42bffdda2d31fab36c
+[2025-03-19T16:40:30.033Z] [video-processor] [info]: Processing video for job: 67dad7f4bafc03c132e58280
+[2025-03-19T16:40:49.345Z] [video-processor] [info]: Video processing completed for job: 67dad7f4bafc03c132e58280
+[2025-03-19T16:52:00.993Z] [video-processor] [info]: Processing video for job: 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:52:21.237Z] [video-processor] [info]: Video processing completed for job: 67daf5c011c09a0ff3103ea9
+[2025-03-19T17:24:42.086Z] [video-processor] [info]: Processing video for job: 67dafd275a4368873ac78681
+[2025-03-19T17:26:06.469Z] [video-processor] [info]: Processing video for job: 67dafd275a4368873ac78681
+[2025-03-19T17:26:28.294Z] [video-processor] [error]: Error processing video: require() of ES Module /app/node_modules/echogarden/dist/api/API.js from /app/dist/workers/services/video.service.js not supported.
+Instead change the require of API.js in /app/dist/workers/services/video.service.js to a dynamic import() which is available in all CommonJS modules.
+[2025-03-19T17:27:01.271Z] [video-processor] [info]: Processing video for job: 67dafd275a4368873ac78681
+[2025-03-19T17:29:09.487Z] [video-processor] [error]: Error processing video: require() of ES Module /app/node_modules/echogarden/dist/api/API.js from /app/dist/workers/services/video.service.js not supported.
+Instead change the require of API.js in /app/dist/workers/services/video.service.js to a dynamic import() which is available in all CommonJS modules.
+[2025-03-19T17:29:50.337Z] [video-processor] [error]: Error processing video: require() of ES Module /app/node_modules/echogarden/dist/api/API.js from /app/dist/workers/services/video.service.js not supported.
+Instead change the require of API.js in /app/dist/workers/services/video.service.js to a dynamic import() which is available in all CommonJS modules.
+[2025-03-24T11:07:27.690Z] [video-processor] [info]: Processing video for job: 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:09:01.847Z] [video-processor] [error]: Error processing video: require() of ES Module /app/node_modules/echogarden/dist/api/API.js from /app/dist/workers/services/video.service.js not supported.
+Instead change the require of API.js in /app/dist/workers/services/video.service.js to a dynamic import() which is available in all CommonJS modules.
+[2025-03-24T11:09:01.852Z] [video-processor] [info]: Processing video for job: 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:10:35.180Z] [video-processor] [error]: Error processing video: require() of ES Module /app/node_modules/echogarden/dist/api/API.js from /app/dist/workers/services/video.service.js not supported.
+Instead change the require of API.js in /app/dist/workers/services/video.service.js to a dynamic import() which is available in all CommonJS modules.
+[2025-03-24T11:10:35.183Z] [video-processor] [info]: Processing video for job: 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:12:08.240Z] [video-processor] [error]: Error processing video: require() of ES Module /app/node_modules/echogarden/dist/api/API.js from /app/dist/workers/services/video.service.js not supported.
+Instead change the require of API.js in /app/dist/workers/services/video.service.js to a dynamic import() which is available in all CommonJS modules.

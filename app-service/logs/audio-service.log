@@ -1,0 +1,1008 @@
+[2025-03-18T19:45:12.593Z] [audio-service] [info]: Generating audio for job: 67d9cd47ea2b34e635bae0c0
+[2025-03-18T19:45:12.597Z] [audio-service] [info]: Generated audio for scene 1: /storage/audio/67d9cd47ea2b34e635bae0c0/67d9cd47ea2b34e635bae0c0-scene-1.mp3
+[2025-03-18T19:45:12.599Z] [audio-service] [info]: Generated audio for scene 2: /storage/audio/67d9cd47ea2b34e635bae0c0/67d9cd47ea2b34e635bae0c0-scene-2.mp3
+[2025-03-18T19:45:12.600Z] [audio-service] [info]: Generated audio for scene 3: /storage/audio/67d9cd47ea2b34e635bae0c0/67d9cd47ea2b34e635bae0c0-scene-3.mp3
+[2025-03-18T19:45:12.601Z] [audio-service] [info]: Generated audio for scene 4: /storage/audio/67d9cd47ea2b34e635bae0c0/67d9cd47ea2b34e635bae0c0-scene-4.mp3
+[2025-03-18T19:45:12.602Z] [audio-service] [info]: Generated audio for scene 5: /storage/audio/67d9cd47ea2b34e635bae0c0/67d9cd47ea2b34e635bae0c0-scene-5.mp3
+[2025-03-18T19:45:12.602Z] [audio-service] [info]: Audio files generated: 5
+[2025-03-18T19:55:24.410Z] [audio-service] [info]: Generating audio for job: 67d9cfabf812280297eb1bc4
+[2025-03-18T19:55:24.415Z] [audio-service] [info]: Generated audio for scene 1: /storage/audio/67d9cfabf812280297eb1bc4/67d9cfabf812280297eb1bc4-scene-1.mp3
+[2025-03-18T19:55:24.417Z] [audio-service] [info]: Generated audio for scene 2: /storage/audio/67d9cfabf812280297eb1bc4/67d9cfabf812280297eb1bc4-scene-2.mp3
+[2025-03-18T19:55:24.419Z] [audio-service] [info]: Generated audio for scene 3: /storage/audio/67d9cfabf812280297eb1bc4/67d9cfabf812280297eb1bc4-scene-3.mp3
+[2025-03-18T19:55:24.420Z] [audio-service] [info]: Generated audio for scene 4: /storage/audio/67d9cfabf812280297eb1bc4/67d9cfabf812280297eb1bc4-scene-4.mp3
+[2025-03-18T19:55:24.421Z] [audio-service] [info]: Generated audio for scene 5: /storage/audio/67d9cfabf812280297eb1bc4/67d9cfabf812280297eb1bc4-scene-5.mp3
+[2025-03-18T19:55:24.421Z] [audio-service] [info]: Audio files generated: 5
+[2025-03-18T20:02:04.625Z] [audio-service] [info]: Generating audio for job: 67d9d13c80f626dcd75c9f65
+[2025-03-18T20:02:04.630Z] [audio-service] [info]: Generated audio for scene 1: /storage/audio/67d9d13c80f626dcd75c9f65/67d9d13c80f626dcd75c9f65-scene-1.mp3
+[2025-03-18T20:02:04.632Z] [audio-service] [info]: Generated audio for scene 2: /storage/audio/67d9d13c80f626dcd75c9f65/67d9d13c80f626dcd75c9f65-scene-2.mp3
+[2025-03-18T20:02:04.633Z] [audio-service] [info]: Generated audio for scene 3: /storage/audio/67d9d13c80f626dcd75c9f65/67d9d13c80f626dcd75c9f65-scene-3.mp3
+[2025-03-18T20:02:04.634Z] [audio-service] [info]: Generated audio for scene 4: /storage/audio/67d9d13c80f626dcd75c9f65/67d9d13c80f626dcd75c9f65-scene-4.mp3
+[2025-03-18T20:02:04.635Z] [audio-service] [info]: Generated audio for scene 5: /storage/audio/67d9d13c80f626dcd75c9f65/67d9d13c80f626dcd75c9f65-scene-5.mp3
+[2025-03-18T20:02:04.635Z] [audio-service] [info]: Audio files generated: 5
+[2025-03-18T20:03:06.229Z] [audio-service] [info]: Generating audio for job: 67d9d17934cfbbf9f9fd04cc
+[2025-03-18T20:03:06.236Z] [audio-service] [info]: Generated audio for scene 1: /storage/audio/67d9d17934cfbbf9f9fd04cc/67d9d17934cfbbf9f9fd04cc-scene-1.mp3
+[2025-03-18T20:03:06.238Z] [audio-service] [info]: Generated audio for scene 2: /storage/audio/67d9d17934cfbbf9f9fd04cc/67d9d17934cfbbf9f9fd04cc-scene-2.mp3
+[2025-03-18T20:03:06.239Z] [audio-service] [info]: Generated audio for scene 3: /storage/audio/67d9d17934cfbbf9f9fd04cc/67d9d17934cfbbf9f9fd04cc-scene-3.mp3
+[2025-03-18T20:03:06.241Z] [audio-service] [info]: Generated audio for scene 4: /storage/audio/67d9d17934cfbbf9f9fd04cc/67d9d17934cfbbf9f9fd04cc-scene-4.mp3
+[2025-03-18T20:03:06.243Z] [audio-service] [info]: Generated audio for scene 5: /storage/audio/67d9d17934cfbbf9f9fd04cc/67d9d17934cfbbf9f9fd04cc-scene-5.mp3
+[2025-03-18T20:03:06.243Z] [audio-service] [info]: Audio files generated: 5
+[2025-03-18T20:05:35.947Z] [audio-service] [info]: Generating audio for job: 67d9d2027993b4ea61d53481
+[2025-03-18T20:05:35.949Z] [audio-service] [info]: Processing audio for scene 1/10 for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:05:35.950Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 1
+[2025-03-18T20:05:35.950Z] [audio-service] [info]: Calling TTS API for text: "Em uma noite estrelada, a pequ..."
+[2025-03-18T20:05:40.225Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67d9d2027993b4ea61d53481/67d9d2027993b4ea61d53481-scene-1-1742328335950.mp3
+[2025-03-18T20:05:40.228Z] [audio-service] [info]: Generated audio for scene 1: /storage/audio/67d9d2027993b4ea61d53481/67d9d2027993b4ea61d53481-scene-1-1742328335950.mp3
+[2025-03-18T20:05:40.229Z] [audio-service] [info]: Audio 1/10 generated successfully for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:05:40.230Z] [audio-service] [info]: Processing audio for scene 2/10 for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:05:40.232Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 2
+[2025-03-18T20:05:40.233Z] [audio-service] [info]: Calling TTS API for text: "João sorri e começa a narrar s..."
+[2025-03-18T20:05:45.682Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67d9d2027993b4ea61d53481/67d9d2027993b4ea61d53481-scene-2-1742328340233.mp3
+[2025-03-18T20:05:45.685Z] [audio-service] [info]: Generated audio for scene 2: /storage/audio/67d9d2027993b4ea61d53481/67d9d2027993b4ea61d53481-scene-2-1742328340233.mp3
+[2025-03-18T20:05:45.686Z] [audio-service] [info]: Audio 2/10 generated successfully for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:05:45.687Z] [audio-service] [info]: Processing audio for scene 3/10 for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:05:45.688Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 3
+[2025-03-18T20:05:45.689Z] [audio-service] [info]: Calling TTS API for text: "Nesse reino, vivia a princesa ..."
+[2025-03-18T20:05:51.769Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67d9d2027993b4ea61d53481/67d9d2027993b4ea61d53481-scene-3-1742328345689.mp3
+[2025-03-18T20:05:51.771Z] [audio-service] [info]: Generated audio for scene 3: /storage/audio/67d9d2027993b4ea61d53481/67d9d2027993b4ea61d53481-scene-3-1742328345689.mp3
+[2025-03-18T20:05:51.773Z] [audio-service] [info]: Audio 3/10 generated successfully for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:05:51.774Z] [audio-service] [info]: Processing audio for scene 4/10 for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:05:51.775Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 4
+[2025-03-18T20:05:51.776Z] [audio-service] [info]: Calling TTS API for text: "Um dragão travesso, chamado Fa..."
+[2025-03-18T20:05:58.020Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67d9d2027993b4ea61d53481/67d9d2027993b4ea61d53481-scene-4-1742328351776.mp3
+[2025-03-18T20:05:58.023Z] [audio-service] [info]: Generated audio for scene 4: /storage/audio/67d9d2027993b4ea61d53481/67d9d2027993b4ea61d53481-scene-4-1742328351776.mp3
+[2025-03-18T20:05:58.024Z] [audio-service] [info]: Audio 4/10 generated successfully for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:05:58.026Z] [audio-service] [info]: Processing audio for scene 5/10 for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:05:58.027Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 5
+[2025-03-18T20:05:58.029Z] [audio-service] [info]: Calling TTS API for text: "Aurora, com coragem, decide pa..."
+[2025-03-18T20:06:03.718Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67d9d2027993b4ea61d53481/67d9d2027993b4ea61d53481-scene-5-1742328358029.mp3
+[2025-03-18T20:06:03.721Z] [audio-service] [info]: Generated audio for scene 5: /storage/audio/67d9d2027993b4ea61d53481/67d9d2027993b4ea61d53481-scene-5-1742328358029.mp3
+[2025-03-18T20:06:03.722Z] [audio-service] [info]: Audio 5/10 generated successfully for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:06:03.724Z] [audio-service] [info]: Processing audio for scene 6/10 for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:06:03.725Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 6
+[2025-03-18T20:06:03.727Z] [audio-service] [info]: Calling TTS API for text: "No caminho, ela encontra um gn..."
+[2025-03-18T20:06:09.911Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67d9d2027993b4ea61d53481/67d9d2027993b4ea61d53481-scene-6-1742328363727.mp3
+[2025-03-18T20:06:09.914Z] [audio-service] [info]: Generated audio for scene 6: /storage/audio/67d9d2027993b4ea61d53481/67d9d2027993b4ea61d53481-scene-6-1742328363727.mp3
+[2025-03-18T20:06:09.916Z] [audio-service] [info]: Audio 6/10 generated successfully for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:06:09.917Z] [audio-service] [info]: Processing audio for scene 7/10 for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:06:09.918Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 7
+[2025-03-18T20:06:09.919Z] [audio-service] [info]: Calling TTS API for text: "A caverna do dragão era escura..."
+[2025-03-18T20:06:15.788Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67d9d2027993b4ea61d53481/67d9d2027993b4ea61d53481-scene-7-1742328369919.mp3
+[2025-03-18T20:06:15.792Z] [audio-service] [info]: Generated audio for scene 7: /storage/audio/67d9d2027993b4ea61d53481/67d9d2027993b4ea61d53481-scene-7-1742328369919.mp3
+[2025-03-18T20:06:15.794Z] [audio-service] [info]: Audio 7/10 generated successfully for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:06:15.795Z] [audio-service] [info]: Processing audio for scene 8/10 for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:06:15.800Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 8
+[2025-03-18T20:06:15.801Z] [audio-service] [info]: Calling TTS API for text: "Aurora enfrenta Faísca, não co..."
+[2025-03-18T20:06:21.868Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67d9d2027993b4ea61d53481/67d9d2027993b4ea61d53481-scene-8-1742328375801.mp3
+[2025-03-18T20:06:21.871Z] [audio-service] [info]: Generated audio for scene 8: /storage/audio/67d9d2027993b4ea61d53481/67d9d2027993b4ea61d53481-scene-8-1742328375801.mp3
+[2025-03-18T20:06:21.872Z] [audio-service] [info]: Audio 8/10 generated successfully for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:06:21.873Z] [audio-service] [info]: Processing audio for scene 9/10 for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:06:21.874Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 9
+[2025-03-18T20:06:21.875Z] [audio-service] [info]: Calling TTS API for text: "Faísca, tocado pela bondade de..."
+[2025-03-18T20:06:27.900Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67d9d2027993b4ea61d53481/67d9d2027993b4ea61d53481-scene-9-1742328381875.mp3
+[2025-03-18T20:06:27.903Z] [audio-service] [info]: Generated audio for scene 9: /storage/audio/67d9d2027993b4ea61d53481/67d9d2027993b4ea61d53481-scene-9-1742328381875.mp3
+[2025-03-18T20:06:27.904Z] [audio-service] [info]: Audio 9/10 generated successfully for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:06:27.905Z] [audio-service] [info]: Processing audio for scene 10/10 for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:06:27.906Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 10
+[2025-03-18T20:06:27.908Z] [audio-service] [info]: Calling TTS API for text: "Sofia, encantada, adormece son..."
+[2025-03-18T20:06:34.531Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67d9d2027993b4ea61d53481/67d9d2027993b4ea61d53481-scene-10-1742328387908.mp3
+[2025-03-18T20:06:34.532Z] [audio-service] [info]: Generated audio for scene 10: /storage/audio/67d9d2027993b4ea61d53481/67d9d2027993b4ea61d53481-scene-10-1742328387908.mp3
+[2025-03-18T20:06:34.533Z] [audio-service] [info]: Audio 10/10 generated successfully for job 67d9d2027993b4ea61d53481
+[2025-03-18T20:06:34.533Z] [audio-service] [info]: Audio files generated: 10
+[2025-03-18T20:06:47.706Z] [audio-service] [info]: Generating audio for job: 67d9d2447993b4ea61d53496
+[2025-03-18T20:06:47.709Z] [audio-service] [info]: Processing audio for scene 1/10 for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:06:47.710Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 1
+[2025-03-18T20:06:47.710Z] [audio-service] [info]: Calling TTS API for text: "Em meio à selva exuberante, Ma..."
+[2025-03-18T20:06:51.834Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67d9d2447993b4ea61d53496/67d9d2447993b4ea61d53496-scene-1-1742328407710.mp3
+[2025-03-18T20:06:51.837Z] [audio-service] [info]: Generated audio for scene 1: /storage/audio/67d9d2447993b4ea61d53496/67d9d2447993b4ea61d53496-scene-1-1742328407710.mp3
+[2025-03-18T20:06:51.838Z] [audio-service] [info]: Audio 1/10 generated successfully for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:06:51.839Z] [audio-service] [info]: Processing audio for scene 2/10 for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:06:51.840Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 2
+[2025-03-18T20:06:51.841Z] [audio-service] [info]: Calling TTS API for text: "Um mapa antigo, encontrado por..."
+[2025-03-18T20:07:01.888Z] [audio-service] [info]: Generating audio for job: 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:07:01.890Z] [audio-service] [info]: Processing audio for scene 1/10 for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:07:01.891Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 1
+[2025-03-18T20:07:01.891Z] [audio-service] [info]: Calling TTS API for text: "Num lago sereno, um patinho ca..."
+[2025-03-18T20:07:02.763Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67d9d2447993b4ea61d53496/67d9d2447993b4ea61d53496-scene-2-1742328411841.mp3
+[2025-03-18T20:07:02.766Z] [audio-service] [info]: Generated audio for scene 2: /storage/audio/67d9d2447993b4ea61d53496/67d9d2447993b4ea61d53496-scene-2-1742328411841.mp3
+[2025-03-18T20:07:02.767Z] [audio-service] [info]: Audio 2/10 generated successfully for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:07:02.769Z] [audio-service] [info]: Processing audio for scene 3/10 for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:07:02.770Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 3
+[2025-03-18T20:07:02.771Z] [audio-service] [info]: Calling TTS API for text: "Com determinação, Maguila part..."
+[2025-03-18T20:07:05.840Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-scene-1-1742328421891.mp3
+[2025-03-18T20:07:05.842Z] [audio-service] [info]: Generated audio for scene 1: /storage/audio/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-scene-1-1742328421891.mp3
+[2025-03-18T20:07:05.844Z] [audio-service] [info]: Audio 1/10 generated successfully for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:07:05.845Z] [audio-service] [info]: Processing audio for scene 2/10 for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:07:05.847Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 2
+[2025-03-18T20:07:05.848Z] [audio-service] [info]: Calling TTS API for text: "Mamãe pata, orgulhosa, observa..."
+[2025-03-18T20:07:11.789Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67d9d2447993b4ea61d53496/67d9d2447993b4ea61d53496-scene-3-1742328422771.mp3
+[2025-03-18T20:07:11.792Z] [audio-service] [info]: Generated audio for scene 3: /storage/audio/67d9d2447993b4ea61d53496/67d9d2447993b4ea61d53496-scene-3-1742328422771.mp3
+[2025-03-18T20:07:11.794Z] [audio-service] [info]: Audio 3/10 generated successfully for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:07:11.795Z] [audio-service] [info]: Processing audio for scene 4/10 for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:07:11.798Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 4
+[2025-03-18T20:07:11.803Z] [audio-service] [info]: Calling TTS API for text: "Em uma cidade movimentada, con..."
+[2025-03-18T20:07:17.940Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-scene-2-1742328425848.mp3
+[2025-03-18T20:07:17.942Z] [audio-service] [info]: Generated audio for scene 2: /storage/audio/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-scene-2-1742328425848.mp3
+[2025-03-18T20:07:17.944Z] [audio-service] [info]: Audio 2/10 generated successfully for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:07:17.946Z] [audio-service] [info]: Processing audio for scene 3/10 for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:07:17.946Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 3
+[2025-03-18T20:07:17.947Z] [audio-service] [info]: Calling TTS API for text: "Com um empurrãozinho, o patinh..."
+[2025-03-18T20:07:23.715Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67d9d2447993b4ea61d53496/67d9d2447993b4ea61d53496-scene-4-1742328431803.mp3
+[2025-03-18T20:07:23.718Z] [audio-service] [info]: Generated audio for scene 4: /storage/audio/67d9d2447993b4ea61d53496/67d9d2447993b4ea61d53496-scene-4-1742328431803.mp3
+[2025-03-18T20:07:23.720Z] [audio-service] [info]: Audio 4/10 generated successfully for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:07:23.721Z] [audio-service] [info]: Processing audio for scene 5/10 for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:07:23.723Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 5
+[2025-03-18T20:07:23.725Z] [audio-service] [info]: Calling TTS API for text: "Sofia se juntou à aventura, tr..."
+[2025-03-18T20:07:29.982Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-scene-3-1742328437947.mp3
+[2025-03-18T20:07:29.984Z] [audio-service] [info]: Generated audio for scene 3: /storage/audio/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-scene-3-1742328437947.mp3
+[2025-03-18T20:07:29.986Z] [audio-service] [info]: Audio 3/10 generated successfully for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:07:29.987Z] [audio-service] [info]: Processing audio for scene 4/10 for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:07:29.988Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 4
+[2025-03-18T20:07:29.989Z] [audio-service] [info]: Calling TTS API for text: "Explorando o lago, o patinho f..."
+[2025-03-18T20:07:35.205Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67d9d2447993b4ea61d53496/67d9d2447993b4ea61d53496-scene-5-1742328443725.mp3
+[2025-03-18T20:07:35.207Z] [audio-service] [info]: Generated audio for scene 5: /storage/audio/67d9d2447993b4ea61d53496/67d9d2447993b4ea61d53496-scene-5-1742328443725.mp3
+[2025-03-18T20:07:35.208Z] [audio-service] [info]: Audio 5/10 generated successfully for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:07:35.209Z] [audio-service] [info]: Processing audio for scene 6/10 for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:07:35.210Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 6
+[2025-03-18T20:07:35.210Z] [audio-service] [info]: Calling TTS API for text: "Juntos, eles enfrentaram desaf..."
+[2025-03-18T20:07:41.534Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-scene-4-1742328449989.mp3
+[2025-03-18T20:07:41.537Z] [audio-service] [info]: Generated audio for scene 4: /storage/audio/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-scene-4-1742328449989.mp3
+[2025-03-18T20:07:41.538Z] [audio-service] [info]: Audio 4/10 generated successfully for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:07:41.540Z] [audio-service] [info]: Processing audio for scene 5/10 for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:07:41.541Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 5
+[2025-03-18T20:07:41.542Z] [audio-service] [info]: Calling TTS API for text: "A tartaruga ensina o patinho a..."
+[2025-03-18T20:07:47.835Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67d9d2447993b4ea61d53496/67d9d2447993b4ea61d53496-scene-6-1742328455210.mp3
+[2025-03-18T20:07:47.837Z] [audio-service] [info]: Generated audio for scene 6: /storage/audio/67d9d2447993b4ea61d53496/67d9d2447993b4ea61d53496-scene-6-1742328455210.mp3
+[2025-03-18T20:07:47.838Z] [audio-service] [info]: Audio 6/10 generated successfully for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:07:47.839Z] [audio-service] [info]: Processing audio for scene 7/10 for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:07:47.840Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 7
+[2025-03-18T20:07:47.841Z] [audio-service] [info]: Calling TTS API for text: "Em uma floresta encantada, enc..."
+[2025-03-18T20:07:53.878Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-scene-5-1742328461542.mp3
+[2025-03-18T20:07:53.881Z] [audio-service] [info]: Generated audio for scene 5: /storage/audio/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-scene-5-1742328461542.mp3
+[2025-03-18T20:07:53.882Z] [audio-service] [info]: Audio 5/10 generated successfully for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:07:53.884Z] [audio-service] [info]: Processing audio for scene 6/10 for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:07:53.885Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 6
+[2025-03-18T20:07:53.889Z] [audio-service] [info]: Calling TTS API for text: "Um dia, uma tempestade assusta..."
+[2025-03-18T20:07:59.733Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67d9d2447993b4ea61d53496/67d9d2447993b4ea61d53496-scene-7-1742328467841.mp3
+[2025-03-18T20:07:59.736Z] [audio-service] [info]: Generated audio for scene 7: /storage/audio/67d9d2447993b4ea61d53496/67d9d2447993b4ea61d53496-scene-7-1742328467841.mp3
+[2025-03-18T20:07:59.737Z] [audio-service] [info]: Audio 7/10 generated successfully for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:07:59.738Z] [audio-service] [info]: Processing audio for scene 8/10 for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:07:59.740Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 8
+[2025-03-18T20:07:59.741Z] [audio-service] [info]: Calling TTS API for text: "O tesouro, no fim das contas, ..."
+[2025-03-18T20:08:05.554Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-scene-6-1742328473889.mp3
+[2025-03-18T20:08:05.558Z] [audio-service] [info]: Generated audio for scene 6: /storage/audio/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-scene-6-1742328473889.mp3
+[2025-03-18T20:08:05.559Z] [audio-service] [info]: Audio 6/10 generated successfully for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:08:05.560Z] [audio-service] [info]: Processing audio for scene 7/10 for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:08:05.561Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 7
+[2025-03-18T20:08:05.563Z] [audio-service] [info]: Calling TTS API for text: "Desesperado, o patinho chama p..."
+[2025-03-18T20:08:11.546Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67d9d2447993b4ea61d53496/67d9d2447993b4ea61d53496-scene-8-1742328479741.mp3
+[2025-03-18T20:08:11.548Z] [audio-service] [info]: Generated audio for scene 8: /storage/audio/67d9d2447993b4ea61d53496/67d9d2447993b4ea61d53496-scene-8-1742328479741.mp3
+[2025-03-18T20:08:11.548Z] [audio-service] [info]: Audio 8/10 generated successfully for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:08:11.549Z] [audio-service] [info]: Processing audio for scene 9/10 for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:08:11.549Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 9
+[2025-03-18T20:08:11.549Z] [audio-service] [info]: Calling TTS API for text: "De volta à selva, Maguila comp..."
+[2025-03-18T20:08:21.350Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-scene-7-1742328485563.mp3
+[2025-03-18T20:08:21.352Z] [audio-service] [info]: Generated audio for scene 7: /storage/audio/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-scene-7-1742328485563.mp3
+[2025-03-18T20:08:21.353Z] [audio-service] [info]: Audio 7/10 generated successfully for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:08:21.355Z] [audio-service] [info]: Processing audio for scene 8/10 for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:08:21.356Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 8
+[2025-03-18T20:08:21.357Z] [audio-service] [info]: Calling TTS API for text: "Guiado pela tartaruga, ele enc..."
+[2025-03-18T20:08:24.455Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67d9d2447993b4ea61d53496/67d9d2447993b4ea61d53496-scene-9-1742328491549.mp3
+[2025-03-18T20:08:24.457Z] [audio-service] [info]: Generated audio for scene 9: /storage/audio/67d9d2447993b4ea61d53496/67d9d2447993b4ea61d53496-scene-9-1742328491549.mp3
+[2025-03-18T20:08:24.459Z] [audio-service] [info]: Audio 9/10 generated successfully for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:08:24.460Z] [audio-service] [info]: Processing audio for scene 10/10 for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:08:24.461Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 10
+[2025-03-18T20:08:24.462Z] [audio-service] [info]: Calling TTS API for text: "Maguila provou que a verdadeir..."
+[2025-03-18T20:08:29.269Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-scene-8-1742328501357.mp3
+[2025-03-18T20:08:29.272Z] [audio-service] [info]: Generated audio for scene 8: /storage/audio/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-scene-8-1742328501357.mp3
+[2025-03-18T20:08:29.273Z] [audio-service] [info]: Audio 8/10 generated successfully for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:08:29.275Z] [audio-service] [info]: Processing audio for scene 9/10 for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:08:29.276Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 9
+[2025-03-18T20:08:29.278Z] [audio-service] [info]: Calling TTS API for text: "A tempestade passa, e o patinh..."
+[2025-03-18T20:08:35.810Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67d9d2447993b4ea61d53496/67d9d2447993b4ea61d53496-scene-10-1742328504462.mp3
+[2025-03-18T20:08:35.813Z] [audio-service] [info]: Generated audio for scene 10: /storage/audio/67d9d2447993b4ea61d53496/67d9d2447993b4ea61d53496-scene-10-1742328504462.mp3
+[2025-03-18T20:08:35.815Z] [audio-service] [info]: Audio 10/10 generated successfully for job 67d9d2447993b4ea61d53496
+[2025-03-18T20:08:35.816Z] [audio-service] [info]: Audio files generated: 10
+[2025-03-18T20:08:41.979Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-scene-9-1742328509278.mp3
+[2025-03-18T20:08:41.982Z] [audio-service] [info]: Generated audio for scene 9: /storage/audio/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-scene-9-1742328509278.mp3
+[2025-03-18T20:08:41.983Z] [audio-service] [info]: Audio 9/10 generated successfully for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:08:41.984Z] [audio-service] [info]: Processing audio for scene 10/10 for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:08:41.985Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 10
+[2025-03-18T20:08:41.987Z] [audio-service] [info]: Calling TTS API for text: "Juntos, eles agradecem à tarta..."
+[2025-03-18T20:08:44.736Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-scene-10-1742328521987.mp3
+[2025-03-18T20:08:44.739Z] [audio-service] [info]: Generated audio for scene 10: /storage/audio/67d9d24c7993b4ea61d5349f/67d9d24c7993b4ea61d5349f-scene-10-1742328521987.mp3
+[2025-03-18T20:08:44.740Z] [audio-service] [info]: Audio 10/10 generated successfully for job 67d9d24c7993b4ea61d5349f
+[2025-03-18T20:08:44.742Z] [audio-service] [info]: Audio files generated: 10
+[2025-03-19T12:10:47.585Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 1
+[2025-03-19T12:10:47.586Z] [audio-service] [info]: Calling TTS API for text: "This is scene 1 about História..."
+[2025-03-19T12:10:52.704Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67d9d17934cfbbf9f9fd04cc/67d9d17934cfbbf9f9fd04cc-scene-1-1742386247586.mp3
+[2025-03-19T12:10:52.708Z] [audio-service] [info]: Generated audio for scene 1: /storage/audio/67d9d17934cfbbf9f9fd04cc/67d9d17934cfbbf9f9fd04cc-scene-1-1742386247586.mp3
+[2025-03-19T12:12:18.821Z] [audio-service] [info]: Generating audio for job: 67dab49363e40732224c973d
+[2025-03-19T12:12:18.823Z] [audio-service] [info]: Processing audio for scene 1/10 for job 67dab49363e40732224c973d
+[2025-03-19T12:12:18.823Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 1
+[2025-03-19T12:12:18.824Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:12:21.970Z] [audio-service] [warn]: Audio generation attempt 1 failed: Invalid audio data received from TTS API
+[2025-03-19T12:12:21.972Z] [audio-service] [info]: Waiting 5 seconds before retry...
+[2025-03-19T12:12:26.977Z] [audio-service] [info]: Attempt 2/12 to generate audio for scene 1
+[2025-03-19T12:12:26.979Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:12:27.697Z] [audio-service] [warn]: Audio generation attempt 2 failed: Invalid audio data received from TTS API
+[2025-03-19T12:12:27.697Z] [audio-service] [info]: Waiting 10 seconds before retry...
+[2025-03-19T12:12:37.702Z] [audio-service] [info]: Attempt 3/12 to generate audio for scene 1
+[2025-03-19T12:12:37.705Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:12:38.390Z] [audio-service] [warn]: Audio generation attempt 3 failed: Invalid audio data received from TTS API
+[2025-03-19T12:12:38.392Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:12:53.398Z] [audio-service] [info]: Attempt 4/12 to generate audio for scene 1
+[2025-03-19T12:12:53.401Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:12:54.121Z] [audio-service] [warn]: Audio generation attempt 4 failed: Invalid audio data received from TTS API
+[2025-03-19T12:12:54.123Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:13:09.126Z] [audio-service] [info]: Attempt 5/12 to generate audio for scene 1
+[2025-03-19T12:13:09.129Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:13:09.844Z] [audio-service] [warn]: Audio generation attempt 5 failed: Invalid audio data received from TTS API
+[2025-03-19T12:13:09.847Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:13:24.852Z] [audio-service] [info]: Attempt 6/12 to generate audio for scene 1
+[2025-03-19T12:13:24.855Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:13:25.557Z] [audio-service] [warn]: Audio generation attempt 6 failed: Invalid audio data received from TTS API
+[2025-03-19T12:13:25.560Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:13:40.565Z] [audio-service] [info]: Attempt 7/12 to generate audio for scene 1
+[2025-03-19T12:13:40.571Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:13:41.328Z] [audio-service] [warn]: Audio generation attempt 7 failed: Invalid audio data received from TTS API
+[2025-03-19T12:13:41.331Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:13:56.338Z] [audio-service] [info]: Attempt 8/12 to generate audio for scene 1
+[2025-03-19T12:13:56.341Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:13:57.098Z] [audio-service] [warn]: Audio generation attempt 8 failed: Invalid audio data received from TTS API
+[2025-03-19T12:13:57.100Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:14:12.108Z] [audio-service] [info]: Attempt 9/12 to generate audio for scene 1
+[2025-03-19T12:14:12.117Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:14:12.869Z] [audio-service] [warn]: Audio generation attempt 9 failed: Invalid audio data received from TTS API
+[2025-03-19T12:14:12.872Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:14:27.879Z] [audio-service] [info]: Attempt 10/12 to generate audio for scene 1
+[2025-03-19T12:14:27.884Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:14:28.635Z] [audio-service] [warn]: Audio generation attempt 10 failed: Invalid audio data received from TTS API
+[2025-03-19T12:14:28.637Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:14:43.645Z] [audio-service] [info]: Attempt 11/12 to generate audio for scene 1
+[2025-03-19T12:14:43.649Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:14:44.404Z] [audio-service] [warn]: Audio generation attempt 11 failed: Invalid audio data received from TTS API
+[2025-03-19T12:14:44.406Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:14:59.413Z] [audio-service] [info]: Attempt 12/12 to generate audio for scene 1
+[2025-03-19T12:14:59.417Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:15:00.100Z] [audio-service] [warn]: Audio generation attempt 12 failed: Invalid audio data received from TTS API
+[2025-03-19T12:15:00.102Z] [audio-service] [error]: Failed to generate audio for scene 1 after all retries
+[2025-03-19T12:15:00.123Z] [audio-service] [info]: Generating audio for job: 67dab49363e40732224c973d
+[2025-03-19T12:15:00.124Z] [audio-service] [info]: Processing audio for scene 1/10 for job 67dab49363e40732224c973d
+[2025-03-19T12:15:00.125Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 1
+[2025-03-19T12:15:00.125Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:15:00.900Z] [audio-service] [warn]: Audio generation attempt 1 failed: Invalid audio data received from TTS API
+[2025-03-19T12:15:00.902Z] [audio-service] [info]: Waiting 5 seconds before retry...
+[2025-03-19T12:15:05.908Z] [audio-service] [info]: Attempt 2/12 to generate audio for scene 1
+[2025-03-19T12:15:05.913Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:15:06.626Z] [audio-service] [warn]: Audio generation attempt 2 failed: Invalid audio data received from TTS API
+[2025-03-19T12:15:06.628Z] [audio-service] [info]: Waiting 10 seconds before retry...
+[2025-03-19T12:15:16.633Z] [audio-service] [info]: Attempt 3/12 to generate audio for scene 1
+[2025-03-19T12:15:16.637Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:15:17.371Z] [audio-service] [warn]: Audio generation attempt 3 failed: Invalid audio data received from TTS API
+[2025-03-19T12:15:17.372Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:15:32.378Z] [audio-service] [info]: Attempt 4/12 to generate audio for scene 1
+[2025-03-19T12:15:32.383Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:15:33.106Z] [audio-service] [warn]: Audio generation attempt 4 failed: Invalid audio data received from TTS API
+[2025-03-19T12:15:33.109Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:15:48.115Z] [audio-service] [info]: Attempt 5/12 to generate audio for scene 1
+[2025-03-19T12:15:48.119Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:15:48.825Z] [audio-service] [warn]: Audio generation attempt 5 failed: Invalid audio data received from TTS API
+[2025-03-19T12:15:48.827Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:16:03.833Z] [audio-service] [info]: Attempt 6/12 to generate audio for scene 1
+[2025-03-19T12:16:03.836Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:16:04.586Z] [audio-service] [warn]: Audio generation attempt 6 failed: Invalid audio data received from TTS API
+[2025-03-19T12:16:04.588Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:16:19.591Z] [audio-service] [info]: Attempt 7/12 to generate audio for scene 1
+[2025-03-19T12:16:19.596Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:16:20.362Z] [audio-service] [warn]: Audio generation attempt 7 failed: Invalid audio data received from TTS API
+[2025-03-19T12:16:20.364Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:16:35.370Z] [audio-service] [info]: Attempt 8/12 to generate audio for scene 1
+[2025-03-19T12:16:35.373Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:16:36.126Z] [audio-service] [warn]: Audio generation attempt 8 failed: Invalid audio data received from TTS API
+[2025-03-19T12:16:36.128Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:16:51.131Z] [audio-service] [info]: Attempt 9/12 to generate audio for scene 1
+[2025-03-19T12:16:51.136Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:16:51.845Z] [audio-service] [warn]: Audio generation attempt 9 failed: Invalid audio data received from TTS API
+[2025-03-19T12:16:51.848Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:17:06.853Z] [audio-service] [info]: Attempt 10/12 to generate audio for scene 1
+[2025-03-19T12:17:06.857Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:17:07.664Z] [audio-service] [warn]: Audio generation attempt 10 failed: Invalid audio data received from TTS API
+[2025-03-19T12:17:07.666Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:18:03.896Z] [audio-service] [info]: Generating audio for job: 67dab49363e40732224c973d
+[2025-03-19T12:18:03.911Z] [audio-service] [info]: Processing audio for scene 1/10 for job 67dab49363e40732224c973d
+[2025-03-19T12:18:03.912Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 1
+[2025-03-19T12:18:03.913Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:18:04.677Z] [audio-service] [warn]: Audio generation attempt 1 failed: Invalid audio data received from TTS API
+[2025-03-19T12:18:04.679Z] [audio-service] [info]: Waiting 5 seconds before retry...
+[2025-03-19T12:18:09.686Z] [audio-service] [info]: Attempt 2/12 to generate audio for scene 1
+[2025-03-19T12:18:09.687Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:18:10.390Z] [audio-service] [warn]: Audio generation attempt 2 failed: Invalid audio data received from TTS API
+[2025-03-19T12:18:10.391Z] [audio-service] [info]: Waiting 10 seconds before retry...
+[2025-03-19T12:18:20.398Z] [audio-service] [info]: Attempt 3/12 to generate audio for scene 1
+[2025-03-19T12:18:20.402Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:18:21.107Z] [audio-service] [warn]: Audio generation attempt 3 failed: Invalid audio data received from TTS API
+[2025-03-19T12:18:21.109Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:18:36.117Z] [audio-service] [info]: Attempt 4/12 to generate audio for scene 1
+[2025-03-19T12:18:36.122Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:18:36.855Z] [audio-service] [warn]: Audio generation attempt 4 failed: Invalid audio data received from TTS API
+[2025-03-19T12:18:36.856Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:18:51.864Z] [audio-service] [info]: Attempt 5/12 to generate audio for scene 1
+[2025-03-19T12:18:51.871Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:18:52.727Z] [audio-service] [warn]: Audio generation attempt 5 failed: Invalid audio data received from TTS API
+[2025-03-19T12:18:52.729Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:19:07.735Z] [audio-service] [info]: Attempt 6/12 to generate audio for scene 1
+[2025-03-19T12:19:07.738Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:19:08.494Z] [audio-service] [warn]: Audio generation attempt 6 failed: Invalid audio data received from TTS API
+[2025-03-19T12:19:08.497Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:19:23.508Z] [audio-service] [info]: Attempt 7/12 to generate audio for scene 1
+[2025-03-19T12:19:23.513Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:19:24.266Z] [audio-service] [warn]: Audio generation attempt 7 failed: Invalid audio data received from TTS API
+[2025-03-19T12:19:24.268Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:19:39.272Z] [audio-service] [info]: Attempt 8/12 to generate audio for scene 1
+[2025-03-19T12:19:39.278Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:19:40.039Z] [audio-service] [warn]: Audio generation attempt 8 failed: Invalid audio data received from TTS API
+[2025-03-19T12:19:40.041Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:19:55.048Z] [audio-service] [info]: Attempt 9/12 to generate audio for scene 1
+[2025-03-19T12:19:55.051Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:19:55.800Z] [audio-service] [warn]: Audio generation attempt 9 failed: Invalid audio data received from TTS API
+[2025-03-19T12:19:55.802Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:20:10.805Z] [audio-service] [info]: Attempt 10/12 to generate audio for scene 1
+[2025-03-19T12:20:10.809Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:20:11.111Z] [audio-service] [warn]: Audio generation attempt 10 failed: Invalid audio data received from TTS API
+[2025-03-19T12:20:11.113Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:20:26.118Z] [audio-service] [info]: Attempt 11/12 to generate audio for scene 1
+[2025-03-19T12:20:26.121Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:20:26.936Z] [audio-service] [warn]: Audio generation attempt 11 failed: Invalid audio data received from TTS API
+[2025-03-19T12:20:26.940Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:20:41.947Z] [audio-service] [info]: Attempt 12/12 to generate audio for scene 1
+[2025-03-19T12:20:41.950Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:20:42.644Z] [audio-service] [warn]: Audio generation attempt 12 failed: Invalid audio data received from TTS API
+[2025-03-19T12:20:42.646Z] [audio-service] [error]: Failed to generate audio for scene 1 after all retries
+[2025-03-19T12:20:42.678Z] [audio-service] [info]: Generating audio for job: 67dab49363e40732224c973d
+[2025-03-19T12:20:42.680Z] [audio-service] [info]: Processing audio for scene 1/10 for job 67dab49363e40732224c973d
+[2025-03-19T12:20:42.680Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 1
+[2025-03-19T12:20:42.680Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:20:43.420Z] [audio-service] [warn]: Audio generation attempt 1 failed: Invalid audio data received from TTS API
+[2025-03-19T12:20:43.421Z] [audio-service] [info]: Waiting 5 seconds before retry...
+[2025-03-19T12:20:48.425Z] [audio-service] [info]: Attempt 2/12 to generate audio for scene 1
+[2025-03-19T12:20:48.428Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:20:49.108Z] [audio-service] [warn]: Audio generation attempt 2 failed: Invalid audio data received from TTS API
+[2025-03-19T12:20:49.111Z] [audio-service] [info]: Waiting 10 seconds before retry...
+[2025-03-19T12:20:59.120Z] [audio-service] [info]: Attempt 3/12 to generate audio for scene 1
+[2025-03-19T12:20:59.123Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:20:59.907Z] [audio-service] [warn]: Audio generation attempt 3 failed: Invalid audio data received from TTS API
+[2025-03-19T12:20:59.910Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:21:14.913Z] [audio-service] [info]: Attempt 4/12 to generate audio for scene 1
+[2025-03-19T12:21:14.916Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:21:15.676Z] [audio-service] [warn]: Audio generation attempt 4 failed: Invalid audio data received from TTS API
+[2025-03-19T12:21:15.679Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:21:30.683Z] [audio-service] [info]: Attempt 5/12 to generate audio for scene 1
+[2025-03-19T12:21:30.686Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:21:31.447Z] [audio-service] [warn]: Audio generation attempt 5 failed: Invalid audio data received from TTS API
+[2025-03-19T12:21:31.449Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:21:46.458Z] [audio-service] [info]: Attempt 6/12 to generate audio for scene 1
+[2025-03-19T12:21:46.462Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:21:47.171Z] [audio-service] [warn]: Audio generation attempt 6 failed: Invalid audio data received from TTS API
+[2025-03-19T12:21:47.173Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:22:02.179Z] [audio-service] [info]: Attempt 7/12 to generate audio for scene 1
+[2025-03-19T12:22:02.182Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:22:02.869Z] [audio-service] [warn]: Audio generation attempt 7 failed: Invalid audio data received from TTS API
+[2025-03-19T12:22:02.871Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:22:17.879Z] [audio-service] [info]: Attempt 8/12 to generate audio for scene 1
+[2025-03-19T12:22:17.882Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:22:18.651Z] [audio-service] [warn]: Audio generation attempt 8 failed: Invalid audio data received from TTS API
+[2025-03-19T12:22:18.652Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:22:33.653Z] [audio-service] [info]: Attempt 9/12 to generate audio for scene 1
+[2025-03-19T12:22:33.656Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:22:34.370Z] [audio-service] [warn]: Audio generation attempt 9 failed: Invalid audio data received from TTS API
+[2025-03-19T12:22:34.372Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:22:49.383Z] [audio-service] [info]: Attempt 10/12 to generate audio for scene 1
+[2025-03-19T12:22:49.387Z] [audio-service] [info]: Calling TTS API for text: "Em um verde pasto ensolarado, ..."
+[2025-03-19T12:22:50.109Z] [audio-service] [warn]: Audio generation attempt 10 failed: Invalid audio data received from TTS API
+[2025-03-19T12:22:50.112Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:24:32.677Z] [audio-service] [info]: Generating audio for job: 67dab772bffdda2d31fab352
+[2025-03-19T12:24:32.680Z] [audio-service] [info]: Processing audio for scene 1/10 for job 67dab772bffdda2d31fab352
+[2025-03-19T12:24:32.680Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 1
+[2025-03-19T12:24:32.681Z] [audio-service] [info]: Calling TTS API for text: "Conheça Miau Miau, uma gatinha..."
+[2025-03-19T12:24:37.163Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dab772bffdda2d31fab352/67dab772bffdda2d31fab352-scene-1-1742387072681.mp3
+[2025-03-19T12:24:37.166Z] [audio-service] [info]: Generated audio for scene 1: /storage/audio/67dab772bffdda2d31fab352/67dab772bffdda2d31fab352-scene-1-1742387072681.mp3
+[2025-03-19T12:24:37.167Z] [audio-service] [info]: Audio 1/10 generated successfully for job 67dab772bffdda2d31fab352
+[2025-03-19T12:24:37.168Z] [audio-service] [info]: Processing audio for scene 2/10 for job 67dab772bffdda2d31fab352
+[2025-03-19T12:24:37.170Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 2
+[2025-03-19T12:24:37.171Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau adora explorar a sal..."
+[2025-03-19T12:24:42.356Z] [audio-service] [warn]: Audio generation attempt 1 failed: Invalid audio data received from TTS API
+[2025-03-19T12:24:42.358Z] [audio-service] [info]: Waiting 5 seconds before retry...
+[2025-03-19T12:24:47.368Z] [audio-service] [info]: Attempt 2/12 to generate audio for scene 2
+[2025-03-19T12:24:47.372Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau adora explorar a sal..."
+[2025-03-19T12:24:48.170Z] [audio-service] [warn]: Audio generation attempt 2 failed: Invalid audio data received from TTS API
+[2025-03-19T12:24:48.172Z] [audio-service] [info]: Waiting 10 seconds before retry...
+[2025-03-19T12:24:58.181Z] [audio-service] [info]: Attempt 3/12 to generate audio for scene 2
+[2025-03-19T12:24:58.184Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau adora explorar a sal..."
+[2025-03-19T12:24:58.914Z] [audio-service] [warn]: Audio generation attempt 3 failed: Invalid audio data received from TTS API
+[2025-03-19T12:24:58.916Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:25:13.920Z] [audio-service] [info]: Attempt 4/12 to generate audio for scene 2
+[2025-03-19T12:25:13.924Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau adora explorar a sal..."
+[2025-03-19T12:25:14.670Z] [audio-service] [warn]: Audio generation attempt 4 failed: Invalid audio data received from TTS API
+[2025-03-19T12:25:14.672Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:25:29.676Z] [audio-service] [info]: Attempt 5/12 to generate audio for scene 2
+[2025-03-19T12:25:29.678Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau adora explorar a sal..."
+[2025-03-19T12:26:38.658Z] [audio-service] [warn]: Audio generation attempt 5 failed: Invalid audio data received from TTS API
+[2025-03-19T12:26:38.660Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:26:53.668Z] [audio-service] [info]: Attempt 6/12 to generate audio for scene 2
+[2025-03-19T12:26:53.673Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau adora explorar a sal..."
+[2025-03-19T12:26:54.423Z] [audio-service] [warn]: Audio generation attempt 6 failed: Invalid audio data received from TTS API
+[2025-03-19T12:26:54.424Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:27:09.427Z] [audio-service] [info]: Attempt 7/12 to generate audio for scene 2
+[2025-03-19T12:27:09.442Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau adora explorar a sal..."
+[2025-03-19T12:27:10.190Z] [audio-service] [warn]: Audio generation attempt 7 failed: Invalid audio data received from TTS API
+[2025-03-19T12:27:10.191Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:27:25.195Z] [audio-service] [info]: Attempt 8/12 to generate audio for scene 2
+[2025-03-19T12:27:25.201Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau adora explorar a sal..."
+[2025-03-19T12:27:25.933Z] [audio-service] [warn]: Audio generation attempt 8 failed: Invalid audio data received from TTS API
+[2025-03-19T12:27:25.934Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:27:40.941Z] [audio-service] [info]: Attempt 9/12 to generate audio for scene 2
+[2025-03-19T12:27:40.944Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau adora explorar a sal..."
+[2025-03-19T12:27:41.646Z] [audio-service] [warn]: Audio generation attempt 9 failed: Invalid audio data received from TTS API
+[2025-03-19T12:27:41.648Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:27:56.653Z] [audio-service] [info]: Attempt 10/12 to generate audio for scene 2
+[2025-03-19T12:27:56.654Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau adora explorar a sal..."
+[2025-03-19T12:27:57.345Z] [audio-service] [warn]: Audio generation attempt 10 failed: Invalid audio data received from TTS API
+[2025-03-19T12:27:57.347Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:28:12.350Z] [audio-service] [info]: Attempt 11/12 to generate audio for scene 2
+[2025-03-19T12:28:12.354Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau adora explorar a sal..."
+[2025-03-19T12:28:13.112Z] [audio-service] [warn]: Audio generation attempt 11 failed: Invalid audio data received from TTS API
+[2025-03-19T12:28:13.113Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:28:28.120Z] [audio-service] [info]: Attempt 12/12 to generate audio for scene 2
+[2025-03-19T12:28:28.122Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau adora explorar a sal..."
+[2025-03-19T12:28:28.839Z] [audio-service] [warn]: Audio generation attempt 12 failed: Invalid audio data received from TTS API
+[2025-03-19T12:28:28.840Z] [audio-service] [error]: Failed to generate audio for scene 2 after all retries
+[2025-03-19T12:28:28.859Z] [audio-service] [info]: Generating audio for job: 67dab772bffdda2d31fab352
+[2025-03-19T12:28:28.860Z] [audio-service] [info]: Processing audio for scene 1/10 for job 67dab772bffdda2d31fab352
+[2025-03-19T12:28:28.860Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 1
+[2025-03-19T12:28:28.861Z] [audio-service] [info]: Calling TTS API for text: "Conheça Miau Miau, uma gatinha..."
+[2025-03-19T12:28:29.786Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dab772bffdda2d31fab352/67dab772bffdda2d31fab352-scene-1-1742387308861.mp3
+[2025-03-19T12:28:29.786Z] [audio-service] [info]: Generated audio for scene 1: /storage/audio/67dab772bffdda2d31fab352/67dab772bffdda2d31fab352-scene-1-1742387308861.mp3
+[2025-03-19T12:28:29.787Z] [audio-service] [info]: Audio 1/10 generated successfully for job 67dab772bffdda2d31fab352
+[2025-03-19T12:28:29.787Z] [audio-service] [info]: Processing audio for scene 2/10 for job 67dab772bffdda2d31fab352
+[2025-03-19T12:28:29.787Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 2
+[2025-03-19T12:28:29.788Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau adora explorar a sal..."
+[2025-03-19T12:28:30.462Z] [audio-service] [warn]: Audio generation attempt 1 failed: Invalid audio data received from TTS API
+[2025-03-19T12:28:30.463Z] [audio-service] [info]: Waiting 5 seconds before retry...
+[2025-03-19T12:28:35.465Z] [audio-service] [info]: Attempt 2/12 to generate audio for scene 2
+[2025-03-19T12:28:35.468Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau adora explorar a sal..."
+[2025-03-19T12:28:36.212Z] [audio-service] [warn]: Audio generation attempt 2 failed: Invalid audio data received from TTS API
+[2025-03-19T12:28:36.213Z] [audio-service] [info]: Waiting 10 seconds before retry...
+[2025-03-19T12:28:46.216Z] [audio-service] [info]: Attempt 3/12 to generate audio for scene 2
+[2025-03-19T12:28:46.217Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau adora explorar a sal..."
+[2025-03-19T12:28:46.961Z] [audio-service] [warn]: Audio generation attempt 3 failed: Invalid audio data received from TTS API
+[2025-03-19T12:28:46.962Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:29:01.969Z] [audio-service] [info]: Attempt 4/12 to generate audio for scene 2
+[2025-03-19T12:29:01.975Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau adora explorar a sal..."
+[2025-03-19T12:29:02.683Z] [audio-service] [warn]: Audio generation attempt 4 failed: Invalid audio data received from TTS API
+[2025-03-19T12:29:02.684Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:29:17.689Z] [audio-service] [info]: Attempt 5/12 to generate audio for scene 2
+[2025-03-19T12:29:17.691Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau adora explorar a sal..."
+[2025-03-19T12:29:18.373Z] [audio-service] [warn]: Audio generation attempt 5 failed: Invalid audio data received from TTS API
+[2025-03-19T12:29:18.374Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:29:33.378Z] [audio-service] [info]: Attempt 6/12 to generate audio for scene 2
+[2025-03-19T12:29:33.381Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau adora explorar a sal..."
+[2025-03-19T12:29:34.171Z] [audio-service] [warn]: Audio generation attempt 6 failed: Invalid audio data received from TTS API
+[2025-03-19T12:29:34.172Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:29:49.178Z] [audio-service] [info]: Attempt 7/12 to generate audio for scene 2
+[2025-03-19T12:29:49.182Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau adora explorar a sal..."
+[2025-03-19T12:29:49.874Z] [audio-service] [warn]: Audio generation attempt 7 failed: Invalid audio data received from TTS API
+[2025-03-19T12:29:49.875Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:30:04.877Z] [audio-service] [info]: Attempt 8/12 to generate audio for scene 2
+[2025-03-19T12:30:04.883Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau adora explorar a sal..."
+[2025-03-19T12:30:05.591Z] [audio-service] [warn]: Audio generation attempt 8 failed: Invalid audio data received from TTS API
+[2025-03-19T12:30:05.593Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:30:20.594Z] [audio-service] [info]: Attempt 9/12 to generate audio for scene 2
+[2025-03-19T12:30:20.598Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau adora explorar a sal..."
+[2025-03-19T12:30:21.377Z] [audio-service] [warn]: Audio generation attempt 9 failed: Invalid audio data received from TTS API
+[2025-03-19T12:30:21.377Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:30:36.380Z] [audio-service] [info]: Attempt 10/12 to generate audio for scene 2
+[2025-03-19T12:30:36.383Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau adora explorar a sal..."
+[2025-03-19T12:30:49.873Z] [audio-service] [warn]: Audio generation attempt 10 failed: Invalid audio data received from TTS API
+[2025-03-19T12:30:49.874Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:31:04.877Z] [audio-service] [info]: Attempt 11/12 to generate audio for scene 2
+[2025-03-19T12:31:04.880Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau adora explorar a sal..."
+[2025-03-19T12:31:27.734Z] [audio-service] [warn]: Audio generation attempt 11 failed: Invalid audio data received from TTS API
+[2025-03-19T12:31:27.741Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:31:42.750Z] [audio-service] [info]: Attempt 12/12 to generate audio for scene 2
+[2025-03-19T12:31:42.753Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau adora explorar a sal..."
+[2025-03-19T12:31:47.997Z] [audio-service] [warn]: Audio generation attempt 12 failed: Invalid audio data received from TTS API
+[2025-03-19T12:31:47.998Z] [audio-service] [error]: Failed to generate audio for scene 2 after all retries
+[2025-03-19T12:31:48.034Z] [audio-service] [info]: Generating audio for job: 67dab772bffdda2d31fab352
+[2025-03-19T12:31:48.035Z] [audio-service] [info]: Processing audio for scene 1/10 for job 67dab772bffdda2d31fab352
+[2025-03-19T12:31:48.036Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 1
+[2025-03-19T12:31:48.036Z] [audio-service] [info]: Calling TTS API for text: "Conheça Miau Miau, uma gatinha..."
+[2025-03-19T12:31:53.382Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dab772bffdda2d31fab352/67dab772bffdda2d31fab352-scene-1-1742387508036.mp3
+[2025-03-19T12:31:53.386Z] [audio-service] [info]: Generated audio for scene 1: /storage/audio/67dab772bffdda2d31fab352/67dab772bffdda2d31fab352-scene-1-1742387508036.mp3
+[2025-03-19T12:31:53.387Z] [audio-service] [info]: Audio 1/10 generated successfully for job 67dab772bffdda2d31fab352
+[2025-03-19T12:31:53.388Z] [audio-service] [info]: Processing audio for scene 2/10 for job 67dab772bffdda2d31fab352
+[2025-03-19T12:31:53.389Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 2
+[2025-03-19T12:31:53.390Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau adora explorar a sal..."
+[2025-03-19T12:32:04.682Z] [audio-service] [warn]: Audio generation attempt 1 failed: Invalid audio data received from TTS API
+[2025-03-19T12:32:04.718Z] [audio-service] [info]: Waiting 5 seconds before retry...
+[2025-03-19T12:32:09.720Z] [audio-service] [info]: Attempt 2/12 to generate audio for scene 2
+[2025-03-19T12:32:09.723Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau adora explorar a sal..."
+[2025-03-19T12:32:16.988Z] [audio-service] [warn]: Audio generation attempt 2 failed: Invalid audio data received from TTS API
+[2025-03-19T12:32:16.992Z] [audio-service] [info]: Waiting 10 seconds before retry...
+[2025-03-19T12:32:26.997Z] [audio-service] [info]: Attempt 3/12 to generate audio for scene 2
+[2025-03-19T12:32:27.002Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau adora explorar a sal..."
+[2025-03-19T12:32:43.642Z] [audio-service] [warn]: Audio generation attempt 3 failed: Invalid audio data received from TTS API
+[2025-03-19T12:32:43.643Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:32:58.645Z] [audio-service] [info]: Attempt 4/12 to generate audio for scene 2
+[2025-03-19T12:32:58.648Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau adora explorar a sal..."
+[2025-03-19T12:32:59.509Z] [audio-service] [warn]: Audio generation attempt 4 failed: Invalid audio data received from TTS API
+[2025-03-19T12:32:59.510Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:33:14.515Z] [audio-service] [info]: Attempt 5/12 to generate audio for scene 2
+[2025-03-19T12:33:14.519Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau adora explorar a sal..."
+[2025-03-19T12:33:22.320Z] [audio-service] [warn]: Audio generation attempt 5 failed: Invalid audio data received from TTS API
+[2025-03-19T12:33:22.321Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:33:37.329Z] [audio-service] [info]: Attempt 6/12 to generate audio for scene 2
+[2025-03-19T12:33:37.337Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau adora explorar a sal..."
+[2025-03-19T12:33:42.598Z] [audio-service] [warn]: Audio generation attempt 6 failed: Invalid audio data received from TTS API
+[2025-03-19T12:33:42.600Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:33:57.603Z] [audio-service] [info]: Attempt 7/12 to generate audio for scene 2
+[2025-03-19T12:33:57.605Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau adora explorar a sal..."
+[2025-03-19T12:34:01.735Z] [audio-service] [warn]: Audio generation attempt 7 failed: Invalid audio data received from TTS API
+[2025-03-19T12:34:01.737Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:34:16.741Z] [audio-service] [info]: Attempt 8/12 to generate audio for scene 2
+[2025-03-19T12:34:16.744Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau adora explorar a sal..."
+[2025-03-19T12:34:23.329Z] [audio-service] [warn]: Audio generation attempt 8 failed: Invalid audio data received from TTS API
+[2025-03-19T12:34:23.331Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:34:38.335Z] [audio-service] [info]: Attempt 9/12 to generate audio for scene 2
+[2025-03-19T12:34:38.337Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau adora explorar a sal..."
+[2025-03-19T12:34:40.758Z] [audio-service] [warn]: Audio generation attempt 9 failed: Invalid audio data received from TTS API
+[2025-03-19T12:34:40.759Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:34:55.762Z] [audio-service] [info]: Attempt 10/12 to generate audio for scene 2
+[2025-03-19T12:34:55.765Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau adora explorar a sal..."
+[2025-03-19T12:34:59.950Z] [audio-service] [warn]: Audio generation attempt 10 failed: Invalid audio data received from TTS API
+[2025-03-19T12:34:59.952Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:35:14.953Z] [audio-service] [info]: Attempt 11/12 to generate audio for scene 2
+[2025-03-19T12:35:14.954Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau adora explorar a sal..."
+[2025-03-19T12:35:21.585Z] [audio-service] [warn]: Audio generation attempt 11 failed: Invalid audio data received from TTS API
+[2025-03-19T12:35:21.587Z] [audio-service] [info]: Waiting 15 seconds before retry...
+[2025-03-19T12:35:36.591Z] [audio-service] [info]: Attempt 12/12 to generate audio for scene 2
+[2025-03-19T12:35:36.593Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau adora explorar a sal..."
+[2025-03-19T12:35:48.628Z] [audio-service] [warn]: Audio generation attempt 12 failed: Invalid audio data received from TTS API
+[2025-03-19T12:35:48.630Z] [audio-service] [error]: Failed to generate audio for scene 2 after all retries
+[2025-03-19T12:53:36.333Z] [audio-service] [info]: Generating audio for job: 67dabe42bffdda2d31fab36c
+[2025-03-19T12:53:36.335Z] [audio-service] [info]: Processing audio for scene 1/10 for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:53:36.336Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 1
+[2025-03-19T12:53:36.336Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau, uma gatinha preta e..."
+[2025-03-19T12:53:39.787Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dabe42bffdda2d31fab36c/67dabe42bffdda2d31fab36c-scene-1-1742388816336.mp3
+[2025-03-19T12:53:39.790Z] [audio-service] [info]: Generated audio for scene 1: /storage/audio/67dabe42bffdda2d31fab36c/67dabe42bffdda2d31fab36c-scene-1-1742388816336.mp3
+[2025-03-19T12:53:39.791Z] [audio-service] [info]: Audio 1/10 generated successfully for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:53:39.792Z] [audio-service] [info]: Processing audio for scene 2/10 for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:53:39.793Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 2
+[2025-03-19T12:53:39.794Z] [audio-service] [info]: Calling TTS API for text: "Com seus olhos verdes curiosos..."
+[2025-03-19T12:53:45.838Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dabe42bffdda2d31fab36c/67dabe42bffdda2d31fab36c-scene-2-1742388819794.mp3
+[2025-03-19T12:53:45.840Z] [audio-service] [info]: Generated audio for scene 2: /storage/audio/67dabe42bffdda2d31fab36c/67dabe42bffdda2d31fab36c-scene-2-1742388819794.mp3
+[2025-03-19T12:53:45.842Z] [audio-service] [info]: Audio 2/10 generated successfully for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:53:45.843Z] [audio-service] [info]: Processing audio for scene 3/10 for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:53:45.844Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 3
+[2025-03-19T12:53:45.846Z] [audio-service] [info]: Calling TTS API for text: "Um raio de sol aqueceu seu pel..."
+[2025-03-19T12:53:52.141Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dabe42bffdda2d31fab36c/67dabe42bffdda2d31fab36c-scene-3-1742388825845.mp3
+[2025-03-19T12:53:52.144Z] [audio-service] [info]: Generated audio for scene 3: /storage/audio/67dabe42bffdda2d31fab36c/67dabe42bffdda2d31fab36c-scene-3-1742388825845.mp3
+[2025-03-19T12:53:52.146Z] [audio-service] [info]: Audio 3/10 generated successfully for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:53:52.147Z] [audio-service] [info]: Processing audio for scene 4/10 for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:53:52.149Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 4
+[2025-03-19T12:53:52.151Z] [audio-service] [info]: Calling TTS API for text: "Um som suave a assustou; era a..."
+[2025-03-19T12:53:58.166Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dabe42bffdda2d31fab36c/67dabe42bffdda2d31fab36c-scene-4-1742388832151.mp3
+[2025-03-19T12:53:58.169Z] [audio-service] [info]: Generated audio for scene 4: /storage/audio/67dabe42bffdda2d31fab36c/67dabe42bffdda2d31fab36c-scene-4-1742388832151.mp3
+[2025-03-19T12:53:58.170Z] [audio-service] [info]: Audio 4/10 generated successfully for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:53:58.172Z] [audio-service] [info]: Processing audio for scene 5/10 for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:53:58.173Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 5
+[2025-03-19T12:53:58.174Z] [audio-service] [info]: Calling TTS API for text: "Ela se aproximou de uma flor c..."
+[2025-03-19T12:54:03.330Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dabe42bffdda2d31fab36c/67dabe42bffdda2d31fab36c-scene-5-1742388838174.mp3
+[2025-03-19T12:54:03.332Z] [audio-service] [info]: Generated audio for scene 5: /storage/audio/67dabe42bffdda2d31fab36c/67dabe42bffdda2d31fab36c-scene-5-1742388838174.mp3
+[2025-03-19T12:54:03.334Z] [audio-service] [info]: Audio 5/10 generated successfully for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:54:03.335Z] [audio-service] [info]: Processing audio for scene 6/10 for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:54:03.337Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 6
+[2025-03-19T12:54:03.338Z] [audio-service] [info]: Calling TTS API for text: "Um gato grande e gentil a obse..."
+[2025-03-19T12:54:09.573Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dabe42bffdda2d31fab36c/67dabe42bffdda2d31fab36c-scene-6-1742388843338.mp3
+[2025-03-19T12:54:09.576Z] [audio-service] [info]: Generated audio for scene 6: /storage/audio/67dabe42bffdda2d31fab36c/67dabe42bffdda2d31fab36c-scene-6-1742388843338.mp3
+[2025-03-19T12:54:09.578Z] [audio-service] [info]: Audio 6/10 generated successfully for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:54:09.579Z] [audio-service] [info]: Processing audio for scene 7/10 for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:54:09.580Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 7
+[2025-03-19T12:54:09.582Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau sentiu-se segura e c..."
+[2025-03-19T12:54:15.543Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dabe42bffdda2d31fab36c/67dabe42bffdda2d31fab36c-scene-7-1742388849582.mp3
+[2025-03-19T12:54:15.546Z] [audio-service] [info]: Generated audio for scene 7: /storage/audio/67dabe42bffdda2d31fab36c/67dabe42bffdda2d31fab36c-scene-7-1742388849582.mp3
+[2025-03-19T12:54:15.547Z] [audio-service] [info]: Audio 7/10 generated successfully for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:54:15.548Z] [audio-service] [info]: Processing audio for scene 8/10 for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:54:15.548Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 8
+[2025-03-19T12:54:15.549Z] [audio-service] [info]: Calling TTS API for text: "Ela encontrou um novelo de lã ..."
+[2025-03-19T12:54:21.357Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dabe42bffdda2d31fab36c/67dabe42bffdda2d31fab36c-scene-8-1742388855549.mp3
+[2025-03-19T12:54:21.359Z] [audio-service] [info]: Generated audio for scene 8: /storage/audio/67dabe42bffdda2d31fab36c/67dabe42bffdda2d31fab36c-scene-8-1742388855549.mp3
+[2025-03-19T12:54:21.359Z] [audio-service] [info]: Audio 8/10 generated successfully for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:54:21.359Z] [audio-service] [info]: Processing audio for scene 9/10 for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:54:21.359Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 9
+[2025-03-19T12:54:21.360Z] [audio-service] [info]: Calling TTS API for text: "Cansada, Miau Miau se aconcheg..."
+[2025-03-19T12:54:27.675Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dabe42bffdda2d31fab36c/67dabe42bffdda2d31fab36c-scene-9-1742388861360.mp3
+[2025-03-19T12:54:27.678Z] [audio-service] [info]: Generated audio for scene 9: /storage/audio/67dabe42bffdda2d31fab36c/67dabe42bffdda2d31fab36c-scene-9-1742388861360.mp3
+[2025-03-19T12:54:27.678Z] [audio-service] [info]: Audio 9/10 generated successfully for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:54:27.679Z] [audio-service] [info]: Processing audio for scene 10/10 for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:54:27.681Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 10
+[2025-03-19T12:54:27.682Z] [audio-service] [info]: Calling TTS API for text: "Seu primeiro dia no jardim foi..."
+[2025-03-19T12:54:33.339Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dabe42bffdda2d31fab36c/67dabe42bffdda2d31fab36c-scene-10-1742388867682.mp3
+[2025-03-19T12:54:33.342Z] [audio-service] [info]: Generated audio for scene 10: /storage/audio/67dabe42bffdda2d31fab36c/67dabe42bffdda2d31fab36c-scene-10-1742388867682.mp3
+[2025-03-19T12:54:33.344Z] [audio-service] [info]: Audio 10/10 generated successfully for job 67dabe42bffdda2d31fab36c
+[2025-03-19T12:54:33.345Z] [audio-service] [info]: Audio files generated: 10
+[2025-03-19T13:01:42.491Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 1
+[2025-03-19T13:01:42.492Z] [audio-service] [info]: Calling TTS API for text: "Miau Miau, uma gatinha preta e..."
+[2025-03-19T13:01:54.983Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dabe42bffdda2d31fab36c/67dabe42bffdda2d31fab36c-scene-1-1742389302492.mp3
+[2025-03-19T13:01:54.985Z] [audio-service] [info]: Generated audio for scene 1: /storage/audio/67dabe42bffdda2d31fab36c/67dabe42bffdda2d31fab36c-scene-1-1742389302492.mp3
+[2025-03-19T13:48:07.735Z] [audio-service] [info]: Generating audio for job: 67dacb097ca9a97b132031a4
+[2025-03-19T13:48:07.738Z] [audio-service] [info]: Processing audio for scene 1/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:48:07.738Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 1
+[2025-03-19T13:48:07.739Z] [audio-service] [info]: Calling TTS API for text: "O dia começou normal, com Pedr..."
+[2025-03-19T13:48:11.840Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-scene-1-1742392087739.mp3
+[2025-03-19T13:48:11.842Z] [audio-service] [info]: Generated audio for scene 1: /storage/audio/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-scene-1-1742392087739.mp3
+[2025-03-19T13:48:11.843Z] [audio-service] [info]: Audio 1/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:48:11.844Z] [audio-service] [info]: Processing audio for scene 2/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:48:11.844Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 2
+[2025-03-19T13:48:11.845Z] [audio-service] [info]: Calling TTS API for text: "No caminho para a loja, Pedro ..."
+[2025-03-19T13:48:17.843Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-scene-2-1742392091845.mp3
+[2025-03-19T13:48:17.845Z] [audio-service] [info]: Generated audio for scene 2: /storage/audio/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-scene-2-1742392091845.mp3
+[2025-03-19T13:48:17.846Z] [audio-service] [info]: Audio 2/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:48:17.847Z] [audio-service] [info]: Processing audio for scene 3/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:48:17.848Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 3
+[2025-03-19T13:48:17.849Z] [audio-service] [info]: Calling TTS API for text: "Ao chegar na loja, a imensidão..."
+[2025-03-19T13:48:23.598Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-scene-3-1742392097849.mp3
+[2025-03-19T13:48:23.600Z] [audio-service] [info]: Generated audio for scene 3: /storage/audio/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-scene-3-1742392097849.mp3
+[2025-03-19T13:48:23.602Z] [audio-service] [info]: Audio 3/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:48:23.603Z] [audio-service] [info]: Processing audio for scene 4/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:48:23.605Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 4
+[2025-03-19T13:48:23.606Z] [audio-service] [info]: Calling TTS API for text: "A vendedora, Ana, notou sua he..."
+[2025-03-19T13:48:28.836Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-scene-4-1742392103606.mp3
+[2025-03-19T13:48:28.839Z] [audio-service] [info]: Generated audio for scene 4: /storage/audio/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-scene-4-1742392103606.mp3
+[2025-03-19T13:48:28.840Z] [audio-service] [info]: Audio 4/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:48:28.841Z] [audio-service] [info]: Processing audio for scene 5/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:48:28.842Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 5
+[2025-03-19T13:48:28.843Z] [audio-service] [info]: Calling TTS API for text: "Ana explicou as diferenças ent..."
+[2025-03-19T13:48:35.600Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-scene-5-1742392108843.mp3
+[2025-03-19T13:48:35.602Z] [audio-service] [info]: Generated audio for scene 5: /storage/audio/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-scene-5-1742392108843.mp3
+[2025-03-19T13:48:35.603Z] [audio-service] [info]: Audio 5/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:48:35.605Z] [audio-service] [info]: Processing audio for scene 6/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:48:35.606Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 6
+[2025-03-19T13:48:35.607Z] [audio-service] [info]: Calling TTS API for text: "Pedro experimentou vários mode..."
+[2025-03-19T13:48:41.698Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-scene-6-1742392115607.mp3
+[2025-03-19T13:48:41.700Z] [audio-service] [info]: Generated audio for scene 6: /storage/audio/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-scene-6-1742392115607.mp3
+[2025-03-19T13:48:41.702Z] [audio-service] [info]: Audio 6/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:48:41.703Z] [audio-service] [info]: Processing audio for scene 7/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:48:41.704Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 7
+[2025-03-19T13:48:41.705Z] [audio-service] [info]: Calling TTS API for text: "Uma cadeira em particular cham..."
+[2025-03-19T13:48:47.554Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-scene-7-1742392121705.mp3
+[2025-03-19T13:48:47.555Z] [audio-service] [info]: Generated audio for scene 7: /storage/audio/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-scene-7-1742392121705.mp3
+[2025-03-19T13:48:47.556Z] [audio-service] [info]: Audio 7/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:48:47.557Z] [audio-service] [info]: Processing audio for scene 8/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:48:47.557Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 8
+[2025-03-19T13:48:47.558Z] [audio-service] [info]: Calling TTS API for text: "Ao se sentar nela, Pedro senti..."
+[2025-03-19T13:48:54.067Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-scene-8-1742392127558.mp3
+[2025-03-19T13:48:54.069Z] [audio-service] [info]: Generated audio for scene 8: /storage/audio/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-scene-8-1742392127558.mp3
+[2025-03-19T13:48:54.070Z] [audio-service] [info]: Audio 8/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:48:54.072Z] [audio-service] [info]: Processing audio for scene 9/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:48:54.072Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 9
+[2025-03-19T13:48:54.073Z] [audio-service] [info]: Calling TTS API for text: "Com um sorriso no rosto, Pedro..."
+[2025-03-19T13:48:59.559Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-scene-9-1742392134073.mp3
+[2025-03-19T13:48:59.562Z] [audio-service] [info]: Generated audio for scene 9: /storage/audio/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-scene-9-1742392134073.mp3
+[2025-03-19T13:48:59.563Z] [audio-service] [info]: Audio 9/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:48:59.564Z] [audio-service] [info]: Processing audio for scene 10/10 for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:48:59.566Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 10
+[2025-03-19T13:48:59.566Z] [audio-service] [info]: Calling TTS API for text: "De volta para casa, Pedro mal ..."
+[2025-03-19T13:49:05.338Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-scene-10-1742392139566.mp3
+[2025-03-19T13:49:05.341Z] [audio-service] [info]: Generated audio for scene 10: /storage/audio/67dacb097ca9a97b132031a4/67dacb097ca9a97b132031a4-scene-10-1742392139566.mp3
+[2025-03-19T13:49:05.343Z] [audio-service] [info]: Audio 10/10 generated successfully for job 67dacb097ca9a97b132031a4
+[2025-03-19T13:49:05.344Z] [audio-service] [info]: Audio files generated: 10
+[2025-03-19T14:09:56.174Z] [audio-service] [info]: Generating audio for job: 67dad024be384bbec08813b1
+[2025-03-19T14:09:56.177Z] [audio-service] [info]: Processing audio for scene 1/10 for job 67dad024be384bbec08813b1
+[2025-03-19T14:09:56.178Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 1
+[2025-03-19T14:09:56.178Z] [audio-service] [info]: Calling TTS API for text: "A manhã começou com um café e ..."
+[2025-03-19T14:10:09.948Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dad024be384bbec08813b1/67dad024be384bbec08813b1-scene-1-1742393396178.mp3
+[2025-03-19T14:10:09.951Z] [audio-service] [info]: Generated audio for scene 1: /storage/audio/67dad024be384bbec08813b1/67dad024be384bbec08813b1-scene-1-1742393396178.mp3
+[2025-03-19T14:10:09.952Z] [audio-service] [info]: Audio 1/10 generated successfully for job 67dad024be384bbec08813b1
+[2025-03-19T14:10:09.953Z] [audio-service] [info]: Processing audio for scene 2/10 for job 67dad024be384bbec08813b1
+[2025-03-19T14:10:09.955Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 2
+[2025-03-19T14:10:09.956Z] [audio-service] [info]: Calling TTS API for text: "Primeira loja: uma decepção. C..."
+[2025-03-19T14:10:31.583Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dad024be384bbec08813b1/67dad024be384bbec08813b1-scene-2-1742393409956.mp3
+[2025-03-19T14:10:31.584Z] [audio-service] [info]: Generated audio for scene 2: /storage/audio/67dad024be384bbec08813b1/67dad024be384bbec08813b1-scene-2-1742393409956.mp3
+[2025-03-19T14:10:31.585Z] [audio-service] [info]: Audio 2/10 generated successfully for job 67dad024be384bbec08813b1
+[2025-03-19T14:10:31.585Z] [audio-service] [info]: Processing audio for scene 3/10 for job 67dad024be384bbec08813b1
+[2025-03-19T14:10:31.586Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 3
+[2025-03-19T14:10:31.586Z] [audio-service] [info]: Calling TTS API for text: "Na segunda loja, um vendedor i..."
+[2025-03-19T14:11:01.456Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dad024be384bbec08813b1/67dad024be384bbec08813b1-scene-3-1742393431586.mp3
+[2025-03-19T14:11:01.459Z] [audio-service] [info]: Generated audio for scene 3: /storage/audio/67dad024be384bbec08813b1/67dad024be384bbec08813b1-scene-3-1742393431586.mp3
+[2025-03-19T14:11:01.460Z] [audio-service] [info]: Audio 3/10 generated successfully for job 67dad024be384bbec08813b1
+[2025-03-19T14:11:01.462Z] [audio-service] [info]: Processing audio for scene 4/10 for job 67dad024be384bbec08813b1
+[2025-03-19T14:11:01.463Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 4
+[2025-03-19T14:11:01.466Z] [audio-service] [info]: Calling TTS API for text: "Experimentei uma cadeira ergon..."
+[2025-03-19T14:11:19.272Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dad024be384bbec08813b1/67dad024be384bbec08813b1-scene-4-1742393461466.mp3
+[2025-03-19T14:11:19.275Z] [audio-service] [info]: Generated audio for scene 4: /storage/audio/67dad024be384bbec08813b1/67dad024be384bbec08813b1-scene-4-1742393461466.mp3
+[2025-03-19T14:11:19.277Z] [audio-service] [info]: Audio 4/10 generated successfully for job 67dad024be384bbec08813b1
+[2025-03-19T14:11:19.278Z] [audio-service] [info]: Processing audio for scene 5/10 for job 67dad024be384bbec08813b1
+[2025-03-19T14:11:19.280Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 5
+[2025-03-19T14:11:19.282Z] [audio-service] [info]: Calling TTS API for text: "A terceira loja era pequena, m..."
+[2025-03-19T14:11:54.113Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dad024be384bbec08813b1/67dad024be384bbec08813b1-scene-5-1742393479282.mp3
+[2025-03-19T14:11:54.117Z] [audio-service] [info]: Generated audio for scene 5: /storage/audio/67dad024be384bbec08813b1/67dad024be384bbec08813b1-scene-5-1742393479282.mp3
+[2025-03-19T14:11:54.120Z] [audio-service] [info]: Audio 5/10 generated successfully for job 67dad024be384bbec08813b1
+[2025-03-19T14:11:54.122Z] [audio-service] [info]: Processing audio for scene 6/10 for job 67dad024be384bbec08813b1
+[2025-03-19T14:11:54.123Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 6
+[2025-03-19T14:11:54.124Z] [audio-service] [info]: Calling TTS API for text: "Encontrei uma cadeira de madei..."
+[2025-03-19T14:11:58.674Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dad024be384bbec08813b1/67dad024be384bbec08813b1-scene-6-1742393514124.mp3
+[2025-03-19T14:11:58.677Z] [audio-service] [info]: Generated audio for scene 6: /storage/audio/67dad024be384bbec08813b1/67dad024be384bbec08813b1-scene-6-1742393514124.mp3
+[2025-03-19T14:11:58.680Z] [audio-service] [info]: Audio 6/10 generated successfully for job 67dad024be384bbec08813b1
+[2025-03-19T14:11:58.681Z] [audio-service] [info]: Processing audio for scene 7/10 for job 67dad024be384bbec08813b1
+[2025-03-19T14:11:58.683Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 7
+[2025-03-19T14:11:58.685Z] [audio-service] [info]: Calling TTS API for text: "Era exatamente o que eu procur..."
+[2025-03-19T14:12:18.381Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dad024be384bbec08813b1/67dad024be384bbec08813b1-scene-7-1742393518685.mp3
+[2025-03-19T14:12:18.384Z] [audio-service] [info]: Generated audio for scene 7: /storage/audio/67dad024be384bbec08813b1/67dad024be384bbec08813b1-scene-7-1742393518685.mp3
+[2025-03-19T14:12:18.385Z] [audio-service] [info]: Audio 7/10 generated successfully for job 67dad024be384bbec08813b1
+[2025-03-19T14:12:18.386Z] [audio-service] [info]: Processing audio for scene 8/10 for job 67dad024be384bbec08813b1
+[2025-03-19T14:12:18.388Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 8
+[2025-03-19T14:12:18.389Z] [audio-service] [info]: Calling TTS API for text: "A compra foi rápida e a vended..."
+[2025-03-19T14:12:25.094Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dad024be384bbec08813b1/67dad024be384bbec08813b1-scene-8-1742393538389.mp3
+[2025-03-19T14:12:25.098Z] [audio-service] [info]: Generated audio for scene 8: /storage/audio/67dad024be384bbec08813b1/67dad024be384bbec08813b1-scene-8-1742393538389.mp3
+[2025-03-19T14:12:25.099Z] [audio-service] [info]: Audio 8/10 generated successfully for job 67dad024be384bbec08813b1
+[2025-03-19T14:12:25.101Z] [audio-service] [info]: Processing audio for scene 9/10 for job 67dad024be384bbec08813b1
+[2025-03-19T14:12:25.102Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 9
+[2025-03-19T14:12:25.104Z] [audio-service] [info]: Calling TTS API for text: "Em casa, a cadeira se encaixou..."
+[2025-03-19T14:12:53.734Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dad024be384bbec08813b1/67dad024be384bbec08813b1-scene-9-1742393545104.mp3
+[2025-03-19T14:12:53.737Z] [audio-service] [info]: Generated audio for scene 9: /storage/audio/67dad024be384bbec08813b1/67dad024be384bbec08813b1-scene-9-1742393545104.mp3
+[2025-03-19T14:12:53.739Z] [audio-service] [info]: Audio 9/10 generated successfully for job 67dad024be384bbec08813b1
+[2025-03-19T14:12:53.740Z] [audio-service] [info]: Processing audio for scene 10/10 for job 67dad024be384bbec08813b1
+[2025-03-19T14:12:53.742Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 10
+[2025-03-19T14:12:53.743Z] [audio-service] [info]: Calling TTS API for text: "Finalmente, encontrei a cadeir..."
+[2025-03-19T14:13:50.060Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dad024be384bbec08813b1/67dad024be384bbec08813b1-scene-10-1742393573743.mp3
+[2025-03-19T14:13:50.063Z] [audio-service] [info]: Generated audio for scene 10: /storage/audio/67dad024be384bbec08813b1/67dad024be384bbec08813b1-scene-10-1742393573743.mp3
+[2025-03-19T14:13:50.065Z] [audio-service] [info]: Audio 10/10 generated successfully for job 67dad024be384bbec08813b1
+[2025-03-19T14:13:50.067Z] [audio-service] [info]: Audio files generated: 10
+[2025-03-19T14:43:16.573Z] [audio-service] [info]: Generating audio for job: 67dad7f4bafc03c132e58280
+[2025-03-19T14:43:16.575Z] [audio-service] [info]: Processing audio for scene 1/10 for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:43:16.576Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 1
+[2025-03-19T14:43:16.577Z] [audio-service] [info]: Calling TTS API for text: "Vitinho, com seus olhos brilha..."
+[2025-03-19T14:43:20.531Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-scene-1-1742395396577.mp3
+[2025-03-19T14:43:20.534Z] [audio-service] [info]: Generated audio for scene 1: /storage/audio/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-scene-1-1742395396577.mp3
+[2025-03-19T14:43:20.535Z] [audio-service] [info]: Audio 1/10 generated successfully for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:43:20.535Z] [audio-service] [info]: Processing audio for scene 2/10 for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:43:20.536Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 2
+[2025-03-19T14:43:20.537Z] [audio-service] [info]: Calling TTS API for text: "A tentação é grande demais: el..."
+[2025-03-19T14:43:26.306Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-scene-2-1742395400537.mp3
+[2025-03-19T14:43:26.309Z] [audio-service] [info]: Generated audio for scene 2: /storage/audio/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-scene-2-1742395400537.mp3
+[2025-03-19T14:43:26.310Z] [audio-service] [info]: Audio 2/10 generated successfully for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:43:26.311Z] [audio-service] [info]: Processing audio for scene 3/10 for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:43:26.311Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 3
+[2025-03-19T14:43:26.312Z] [audio-service] [info]: Calling TTS API for text: "Com agilidade, ele escala a la..."
+[2025-03-19T14:43:32.316Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-scene-3-1742395406312.mp3
+[2025-03-19T14:43:32.319Z] [audio-service] [info]: Generated audio for scene 3: /storage/audio/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-scene-3-1742395406312.mp3
+[2025-03-19T14:43:32.320Z] [audio-service] [info]: Audio 3/10 generated successfully for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:43:32.321Z] [audio-service] [info]: Processing audio for scene 4/10 for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:43:32.322Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 4
+[2025-03-19T14:43:32.323Z] [audio-service] [info]: Calling TTS API for text: "Seu Juca, o dono do laranjal, ..."
+[2025-03-19T14:43:38.176Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-scene-4-1742395412323.mp3
+[2025-03-19T14:43:38.178Z] [audio-service] [info]: Generated audio for scene 4: /storage/audio/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-scene-4-1742395412323.mp3
+[2025-03-19T14:43:38.178Z] [audio-service] [info]: Audio 4/10 generated successfully for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:43:38.179Z] [audio-service] [info]: Processing audio for scene 5/10 for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:43:38.179Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 5
+[2025-03-19T14:43:38.180Z] [audio-service] [info]: Calling TTS API for text: "Assustado, Vitinho escorrega e..."
+[2025-03-19T14:43:44.178Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-scene-5-1742395418180.mp3
+[2025-03-19T14:43:44.181Z] [audio-service] [info]: Generated audio for scene 5: /storage/audio/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-scene-5-1742395418180.mp3
+[2025-03-19T14:43:44.182Z] [audio-service] [info]: Audio 5/10 generated successfully for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:43:44.183Z] [audio-service] [info]: Processing audio for scene 6/10 for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:43:44.184Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 6
+[2025-03-19T14:43:44.185Z] [audio-service] [info]: Calling TTS API for text: "Seu Juca se aproxima preocupad..."
+[2025-03-19T14:43:49.903Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-scene-6-1742395424185.mp3
+[2025-03-19T14:43:49.905Z] [audio-service] [info]: Generated audio for scene 6: /storage/audio/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-scene-6-1742395424185.mp3
+[2025-03-19T14:43:49.906Z] [audio-service] [info]: Audio 6/10 generated successfully for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:43:49.906Z] [audio-service] [info]: Processing audio for scene 7/10 for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:43:49.907Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 7
+[2025-03-19T14:43:49.907Z] [audio-service] [info]: Calling TTS API for text: "Vitinho, com o joelho ralado, ..."
+[2025-03-19T14:43:56.713Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-scene-7-1742395429907.mp3
+[2025-03-19T14:43:56.716Z] [audio-service] [info]: Generated audio for scene 7: /storage/audio/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-scene-7-1742395429907.mp3
+[2025-03-19T14:43:56.717Z] [audio-service] [info]: Audio 7/10 generated successfully for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:43:56.718Z] [audio-service] [info]: Processing audio for scene 8/10 for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:43:56.719Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 8
+[2025-03-19T14:43:56.720Z] [audio-service] [info]: Calling TTS API for text: "Seu Juca explica que roubar é ..."
+[2025-03-19T14:44:02.317Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-scene-8-1742395436720.mp3
+[2025-03-19T14:44:02.319Z] [audio-service] [info]: Generated audio for scene 8: /storage/audio/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-scene-8-1742395436720.mp3
+[2025-03-19T14:44:02.320Z] [audio-service] [info]: Audio 8/10 generated successfully for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:44:02.321Z] [audio-service] [info]: Processing audio for scene 9/10 for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:44:02.322Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 9
+[2025-03-19T14:44:02.323Z] [audio-service] [info]: Calling TTS API for text: "Vitinho aprende a lição e prom..."
+[2025-03-19T14:44:07.926Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-scene-9-1742395442323.mp3
+[2025-03-19T14:44:07.928Z] [audio-service] [info]: Generated audio for scene 9: /storage/audio/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-scene-9-1742395442323.mp3
+[2025-03-19T14:44:07.929Z] [audio-service] [info]: Audio 9/10 generated successfully for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:44:07.930Z] [audio-service] [info]: Processing audio for scene 10/10 for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:44:07.931Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 10
+[2025-03-19T14:44:07.931Z] [audio-service] [info]: Calling TTS API for text: "Juntos, eles compartilham as l..."
+[2025-03-19T14:44:13.752Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-scene-10-1742395447931.mp3
+[2025-03-19T14:44:13.754Z] [audio-service] [info]: Generated audio for scene 10: /storage/audio/67dad7f4bafc03c132e58280/67dad7f4bafc03c132e58280-scene-10-1742395447931.mp3
+[2025-03-19T14:44:13.755Z] [audio-service] [info]: Audio 10/10 generated successfully for job 67dad7f4bafc03c132e58280
+[2025-03-19T14:44:13.755Z] [audio-service] [info]: Audio files generated: 10
+[2025-03-19T16:50:23.671Z] [audio-service] [info]: Generating audio for job: 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:50:23.674Z] [audio-service] [info]: Processing audio for scene 1/10 for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:50:23.674Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 1
+[2025-03-19T16:50:23.674Z] [audio-service] [info]: Calling TTS API for text: "No asfalto quente, a tampinha ..."
+[2025-03-19T16:50:27.852Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67daf5c011c09a0ff3103ea9/67daf5c011c09a0ff3103ea9-scene-1-1742403023674.mp3
+[2025-03-19T16:50:27.856Z] [audio-service] [info]: Generated audio for scene 1: /storage/audio/67daf5c011c09a0ff3103ea9/67daf5c011c09a0ff3103ea9-scene-1-1742403023674.mp3
+[2025-03-19T16:50:27.857Z] [audio-service] [info]: Audio 1/10 generated successfully for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:50:27.858Z] [audio-service] [info]: Processing audio for scene 2/10 for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:50:27.860Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 2
+[2025-03-19T16:50:27.862Z] [audio-service] [info]: Calling TTS API for text: "Zeca, impulsionada pelo vento ..."
+[2025-03-19T16:50:33.667Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67daf5c011c09a0ff3103ea9/67daf5c011c09a0ff3103ea9-scene-2-1742403027861.mp3
+[2025-03-19T16:50:33.669Z] [audio-service] [info]: Generated audio for scene 2: /storage/audio/67daf5c011c09a0ff3103ea9/67daf5c011c09a0ff3103ea9-scene-2-1742403027861.mp3
+[2025-03-19T16:50:33.671Z] [audio-service] [info]: Audio 2/10 generated successfully for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:50:33.672Z] [audio-service] [info]: Processing audio for scene 3/10 for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:50:33.673Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 3
+[2025-03-19T16:50:33.674Z] [audio-service] [info]: Calling TTS API for text: "Um tênis gigante surgiu! Era P..."
+[2025-03-19T16:50:39.261Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67daf5c011c09a0ff3103ea9/67daf5c011c09a0ff3103ea9-scene-3-1742403033674.mp3
+[2025-03-19T16:50:39.265Z] [audio-service] [info]: Generated audio for scene 3: /storage/audio/67daf5c011c09a0ff3103ea9/67daf5c011c09a0ff3103ea9-scene-3-1742403033674.mp3
+[2025-03-19T16:50:39.266Z] [audio-service] [info]: Audio 3/10 generated successfully for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:50:39.268Z] [audio-service] [info]: Processing audio for scene 4/10 for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:50:39.269Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 4
+[2025-03-19T16:50:39.271Z] [audio-service] [info]: Calling TTS API for text: "Pedro, sem perceber, levantou ..."
+[2025-03-19T16:50:45.145Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67daf5c011c09a0ff3103ea9/67daf5c011c09a0ff3103ea9-scene-4-1742403039271.mp3
+[2025-03-19T16:50:45.147Z] [audio-service] [info]: Generated audio for scene 4: /storage/audio/67daf5c011c09a0ff3103ea9/67daf5c011c09a0ff3103ea9-scene-4-1742403039271.mp3
+[2025-03-19T16:50:45.149Z] [audio-service] [info]: Audio 4/10 generated successfully for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:50:45.150Z] [audio-service] [info]: Processing audio for scene 5/10 for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:50:45.151Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 5
+[2025-03-19T16:50:45.152Z] [audio-service] [info]: Calling TTS API for text: "Um carro veloz! Zeca precisou ..."
+[2025-03-19T16:50:51.279Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67daf5c011c09a0ff3103ea9/67daf5c011c09a0ff3103ea9-scene-5-1742403045152.mp3
+[2025-03-19T16:50:51.282Z] [audio-service] [info]: Generated audio for scene 5: /storage/audio/67daf5c011c09a0ff3103ea9/67daf5c011c09a0ff3103ea9-scene-5-1742403045152.mp3
+[2025-03-19T16:50:51.284Z] [audio-service] [info]: Audio 5/10 generated successfully for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:50:51.285Z] [audio-service] [info]: Processing audio for scene 6/10 for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:50:51.287Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 6
+[2025-03-19T16:50:51.288Z] [audio-service] [info]: Calling TTS API for text: "Com um salto arriscado, desvio..."
+[2025-03-19T16:50:57.338Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67daf5c011c09a0ff3103ea9/67daf5c011c09a0ff3103ea9-scene-6-1742403051288.mp3
+[2025-03-19T16:50:57.341Z] [audio-service] [info]: Generated audio for scene 6: /storage/audio/67daf5c011c09a0ff3103ea9/67daf5c011c09a0ff3103ea9-scene-6-1742403051288.mp3
+[2025-03-19T16:50:57.344Z] [audio-service] [info]: Audio 6/10 generated successfully for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:50:57.345Z] [audio-service] [info]: Processing audio for scene 7/10 for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:50:57.347Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 7
+[2025-03-19T16:50:57.349Z] [audio-service] [info]: Calling TTS API for text: "Uma sombra se aproximava: era ..."
+[2025-03-19T16:51:03.758Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67daf5c011c09a0ff3103ea9/67daf5c011c09a0ff3103ea9-scene-7-1742403057349.mp3
+[2025-03-19T16:51:03.760Z] [audio-service] [info]: Generated audio for scene 7: /storage/audio/67daf5c011c09a0ff3103ea9/67daf5c011c09a0ff3103ea9-scene-7-1742403057349.mp3
+[2025-03-19T16:51:03.762Z] [audio-service] [info]: Audio 7/10 generated successfully for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:51:03.763Z] [audio-service] [info]: Processing audio for scene 8/10 for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:51:03.764Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 8
+[2025-03-19T16:51:03.765Z] [audio-service] [info]: Calling TTS API for text: "Laura, com cuidado, pegou Zeca..."
+[2025-03-19T16:51:09.176Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67daf5c011c09a0ff3103ea9/67daf5c011c09a0ff3103ea9-scene-8-1742403063765.mp3
+[2025-03-19T16:51:09.180Z] [audio-service] [info]: Generated audio for scene 8: /storage/audio/67daf5c011c09a0ff3103ea9/67daf5c011c09a0ff3103ea9-scene-8-1742403063765.mp3
+[2025-03-19T16:51:09.181Z] [audio-service] [info]: Audio 8/10 generated successfully for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:51:09.182Z] [audio-service] [info]: Processing audio for scene 9/10 for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:51:09.184Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 9
+[2025-03-19T16:51:09.185Z] [audio-service] [info]: Calling TTS API for text: "Finalmente, Zeca repousou na g..."
+[2025-03-19T16:51:15.470Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67daf5c011c09a0ff3103ea9/67daf5c011c09a0ff3103ea9-scene-9-1742403069185.mp3
+[2025-03-19T16:51:15.474Z] [audio-service] [info]: Generated audio for scene 9: /storage/audio/67daf5c011c09a0ff3103ea9/67daf5c011c09a0ff3103ea9-scene-9-1742403069185.mp3
+[2025-03-19T16:51:15.476Z] [audio-service] [info]: Audio 9/10 generated successfully for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:51:15.477Z] [audio-service] [info]: Processing audio for scene 10/10 for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:51:15.479Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 10
+[2025-03-19T16:51:15.481Z] [audio-service] [info]: Calling TTS API for text: "A pequena tampinha, agora feli..."
+[2025-03-19T16:51:21.644Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67daf5c011c09a0ff3103ea9/67daf5c011c09a0ff3103ea9-scene-10-1742403075481.mp3
+[2025-03-19T16:51:21.646Z] [audio-service] [info]: Generated audio for scene 10: /storage/audio/67daf5c011c09a0ff3103ea9/67daf5c011c09a0ff3103ea9-scene-10-1742403075481.mp3
+[2025-03-19T16:51:21.647Z] [audio-service] [info]: Audio 10/10 generated successfully for job 67daf5c011c09a0ff3103ea9
+[2025-03-19T16:51:21.648Z] [audio-service] [info]: Audio files generated: 10
+[2025-03-19T17:21:57.487Z] [audio-service] [info]: Generating audio for job: 67dafd275a4368873ac78681
+[2025-03-19T17:21:57.490Z] [audio-service] [info]: Processing audio for scene 1/10 for job 67dafd275a4368873ac78681
+[2025-03-19T17:21:57.490Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 1
+[2025-03-19T17:21:57.491Z] [audio-service] [info]: Calling TTS API for text: "Em meio à Babilônia, Léia, uma..."
+[2025-03-19T17:22:01.612Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dafd275a4368873ac78681/67dafd275a4368873ac78681-scene-1-1742404917491.mp3
+[2025-03-19T17:22:01.615Z] [audio-service] [info]: Generated audio for scene 1: /storage/audio/67dafd275a4368873ac78681/67dafd275a4368873ac78681-scene-1-1742404917491.mp3
+[2025-03-19T17:22:01.616Z] [audio-service] [info]: Audio 1/10 generated successfully for job 67dafd275a4368873ac78681
+[2025-03-19T17:22:01.618Z] [audio-service] [info]: Processing audio for scene 2/10 for job 67dafd275a4368873ac78681
+[2025-03-19T17:22:01.618Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 2
+[2025-03-19T17:22:01.619Z] [audio-service] [info]: Calling TTS API for text: "Léia encontra consolo nas pala..."
+[2025-03-19T17:22:06.860Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dafd275a4368873ac78681/67dafd275a4368873ac78681-scene-2-1742404921619.mp3
+[2025-03-19T17:22:06.863Z] [audio-service] [info]: Generated audio for scene 2: /storage/audio/67dafd275a4368873ac78681/67dafd275a4368873ac78681-scene-2-1742404921619.mp3
+[2025-03-19T17:22:06.864Z] [audio-service] [info]: Audio 2/10 generated successfully for job 67dafd275a4368873ac78681
+[2025-03-19T17:22:06.866Z] [audio-service] [info]: Processing audio for scene 3/10 for job 67dafd275a4368873ac78681
+[2025-03-19T17:22:06.867Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 3
+[2025-03-19T17:22:06.868Z] [audio-service] [info]: Calling TTS API for text: "Eli, um ancião sábio, comparti..."
+[2025-03-19T17:22:13.489Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dafd275a4368873ac78681/67dafd275a4368873ac78681-scene-3-1742404926868.mp3
+[2025-03-19T17:22:13.492Z] [audio-service] [info]: Generated audio for scene 3: /storage/audio/67dafd275a4368873ac78681/67dafd275a4368873ac78681-scene-3-1742404926868.mp3
+[2025-03-19T17:22:13.493Z] [audio-service] [info]: Audio 3/10 generated successfully for job 67dafd275a4368873ac78681
+[2025-03-19T17:22:13.495Z] [audio-service] [info]: Processing audio for scene 4/10 for job 67dafd275a4368873ac78681
+[2025-03-19T17:22:13.496Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 4
+[2025-03-19T17:22:13.498Z] [audio-service] [info]: Calling TTS API for text: "A promessa de Deus se torna um..."
+[2025-03-19T17:22:19.668Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dafd275a4368873ac78681/67dafd275a4368873ac78681-scene-4-1742404933498.mp3
+[2025-03-19T17:22:19.670Z] [audio-service] [info]: Generated audio for scene 4: /storage/audio/67dafd275a4368873ac78681/67dafd275a4368873ac78681-scene-4-1742404933498.mp3
+[2025-03-19T17:22:19.672Z] [audio-service] [info]: Audio 4/10 generated successfully for job 67dafd275a4368873ac78681
+[2025-03-19T17:22:19.673Z] [audio-service] [info]: Processing audio for scene 5/10 for job 67dafd275a4368873ac78681
+[2025-03-19T17:22:19.673Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 5
+[2025-03-19T17:22:19.674Z] [audio-service] [info]: Calling TTS API for text: "Anos depois, a fé de Léia é te..."
+[2025-03-19T17:22:25.454Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dafd275a4368873ac78681/67dafd275a4368873ac78681-scene-5-1742404939674.mp3
+[2025-03-19T17:22:25.457Z] [audio-service] [info]: Generated audio for scene 5: /storage/audio/67dafd275a4368873ac78681/67dafd275a4368873ac78681-scene-5-1742404939674.mp3
+[2025-03-19T17:22:25.459Z] [audio-service] [info]: Audio 5/10 generated successfully for job 67dafd275a4368873ac78681
+[2025-03-19T17:22:25.461Z] [audio-service] [info]: Processing audio for scene 6/10 for job 67dafd275a4368873ac78681
+[2025-03-19T17:22:25.463Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 6
+[2025-03-19T17:22:25.465Z] [audio-service] [info]: Calling TTS API for text: "Um encontro inesperado com Dan..."
+[2025-03-19T17:22:30.964Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dafd275a4368873ac78681/67dafd275a4368873ac78681-scene-6-1742404945465.mp3
+[2025-03-19T17:22:30.967Z] [audio-service] [info]: Generated audio for scene 6: /storage/audio/67dafd275a4368873ac78681/67dafd275a4368873ac78681-scene-6-1742404945465.mp3
+[2025-03-19T17:22:30.969Z] [audio-service] [info]: Audio 6/10 generated successfully for job 67dafd275a4368873ac78681
+[2025-03-19T17:22:30.970Z] [audio-service] [info]: Processing audio for scene 7/10 for job 67dafd275a4368873ac78681
+[2025-03-19T17:22:30.972Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 7
+[2025-03-19T17:22:30.974Z] [audio-service] [info]: Calling TTS API for text: "A fé de Léia se fortalece ao t..."
+[2025-03-19T17:22:37.235Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dafd275a4368873ac78681/67dafd275a4368873ac78681-scene-7-1742404950974.mp3
+[2025-03-19T17:22:37.236Z] [audio-service] [info]: Generated audio for scene 7: /storage/audio/67dafd275a4368873ac78681/67dafd275a4368873ac78681-scene-7-1742404950974.mp3
+[2025-03-19T17:22:37.237Z] [audio-service] [info]: Audio 7/10 generated successfully for job 67dafd275a4368873ac78681
+[2025-03-19T17:22:37.238Z] [audio-service] [info]: Processing audio for scene 8/10 for job 67dafd275a4368873ac78681
+[2025-03-19T17:22:37.239Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 8
+[2025-03-19T17:22:37.240Z] [audio-service] [info]: Calling TTS API for text: "Com renovada esperança, Léia c..."
+[2025-03-19T17:22:43.336Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dafd275a4368873ac78681/67dafd275a4368873ac78681-scene-8-1742404957240.mp3
+[2025-03-19T17:22:43.339Z] [audio-service] [info]: Generated audio for scene 8: /storage/audio/67dafd275a4368873ac78681/67dafd275a4368873ac78681-scene-8-1742404957240.mp3
+[2025-03-19T17:22:43.341Z] [audio-service] [info]: Audio 8/10 generated successfully for job 67dafd275a4368873ac78681
+[2025-03-19T17:22:43.342Z] [audio-service] [info]: Processing audio for scene 9/10 for job 67dafd275a4368873ac78681
+[2025-03-19T17:22:43.343Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 9
+[2025-03-19T17:22:43.345Z] [audio-service] [info]: Calling TTS API for text: "O tempo passa e a profecia se ..."
+[2025-03-19T17:22:48.957Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dafd275a4368873ac78681/67dafd275a4368873ac78681-scene-9-1742404963345.mp3
+[2025-03-19T17:22:48.960Z] [audio-service] [info]: Generated audio for scene 9: /storage/audio/67dafd275a4368873ac78681/67dafd275a4368873ac78681-scene-9-1742404963345.mp3
+[2025-03-19T17:22:48.962Z] [audio-service] [info]: Audio 9/10 generated successfully for job 67dafd275a4368873ac78681
+[2025-03-19T17:22:48.963Z] [audio-service] [info]: Processing audio for scene 10/10 for job 67dafd275a4368873ac78681
+[2025-03-19T17:22:48.964Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 10
+[2025-03-19T17:22:48.965Z] [audio-service] [info]: Calling TTS API for text: "Em Jerusalém reconstruída, Léi..."
+[2025-03-19T17:22:55.856Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67dafd275a4368873ac78681/67dafd275a4368873ac78681-scene-10-1742404968965.mp3
+[2025-03-19T17:22:55.858Z] [audio-service] [info]: Generated audio for scene 10: /storage/audio/67dafd275a4368873ac78681/67dafd275a4368873ac78681-scene-10-1742404968965.mp3
+[2025-03-19T17:22:55.858Z] [audio-service] [info]: Audio 10/10 generated successfully for job 67dafd275a4368873ac78681
+[2025-03-19T17:22:55.859Z] [audio-service] [info]: Audio files generated: 10
+[2025-03-24T11:05:13.368Z] [audio-service] [info]: Generating audio for job: 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:05:13.371Z] [audio-service] [info]: Processing audio for scene 1/10 for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:05:13.371Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 1
+[2025-03-24T11:05:13.371Z] [audio-service] [info]: Calling TTS API for text: "Em uma pequena cidade, João, u..."
+[2025-03-24T11:05:18.213Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67e13c5a070848d8a2e49dcd/67e13c5a070848d8a2e49dcd-scene-1-1742814313371.mp3
+[2025-03-24T11:05:18.216Z] [audio-service] [info]: Generated audio for scene 1: /storage/audio/67e13c5a070848d8a2e49dcd/67e13c5a070848d8a2e49dcd-scene-1-1742814313371.mp3
+[2025-03-24T11:05:18.217Z] [audio-service] [info]: Audio 1/10 generated successfully for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:05:18.218Z] [audio-service] [info]: Processing audio for scene 2/10 for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:05:18.219Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 2
+[2025-03-24T11:05:18.220Z] [audio-service] [info]: Calling TTS API for text: "Seus amigos não entendiam essa..."
+[2025-03-24T11:05:23.726Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67e13c5a070848d8a2e49dcd/67e13c5a070848d8a2e49dcd-scene-2-1742814318220.mp3
+[2025-03-24T11:05:23.730Z] [audio-service] [info]: Generated audio for scene 2: /storage/audio/67e13c5a070848d8a2e49dcd/67e13c5a070848d8a2e49dcd-scene-2-1742814318220.mp3
+[2025-03-24T11:05:23.731Z] [audio-service] [info]: Audio 2/10 generated successfully for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:05:23.733Z] [audio-service] [info]: Processing audio for scene 3/10 for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:05:23.734Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 3
+[2025-03-24T11:05:23.736Z] [audio-service] [info]: Calling TTS API for text: "Um dia, um misterioso desconhe..."
+[2025-03-24T11:05:29.434Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67e13c5a070848d8a2e49dcd/67e13c5a070848d8a2e49dcd-scene-3-1742814323736.mp3
+[2025-03-24T11:05:29.438Z] [audio-service] [info]: Generated audio for scene 3: /storage/audio/67e13c5a070848d8a2e49dcd/67e13c5a070848d8a2e49dcd-scene-3-1742814323736.mp3
+[2025-03-24T11:05:29.439Z] [audio-service] [info]: Audio 3/10 generated successfully for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:05:29.441Z] [audio-service] [info]: Processing audio for scene 4/10 for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:05:29.442Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 4
+[2025-03-24T11:05:29.443Z] [audio-service] [info]: Calling TTS API for text: "O desconhecido, chamado Arthur..."
+[2025-03-24T11:05:35.552Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67e13c5a070848d8a2e49dcd/67e13c5a070848d8a2e49dcd-scene-4-1742814329443.mp3
+[2025-03-24T11:05:35.554Z] [audio-service] [info]: Generated audio for scene 4: /storage/audio/67e13c5a070848d8a2e49dcd/67e13c5a070848d8a2e49dcd-scene-4-1742814329443.mp3
+[2025-03-24T11:05:35.556Z] [audio-service] [info]: Audio 4/10 generated successfully for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:05:35.558Z] [audio-service] [info]: Processing audio for scene 5/10 for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:05:35.560Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 5
+[2025-03-24T11:05:35.561Z] [audio-service] [info]: Calling TTS API for text: "Intrigado, João aceitou o desa..."
+[2025-03-24T11:05:41.703Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67e13c5a070848d8a2e49dcd/67e13c5a070848d8a2e49dcd-scene-5-1742814335561.mp3
+[2025-03-24T11:05:41.706Z] [audio-service] [info]: Generated audio for scene 5: /storage/audio/67e13c5a070848d8a2e49dcd/67e13c5a070848d8a2e49dcd-scene-5-1742814335561.mp3
+[2025-03-24T11:05:41.708Z] [audio-service] [info]: Audio 5/10 generated successfully for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:05:41.709Z] [audio-service] [info]: Processing audio for scene 6/10 for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:05:41.711Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 6
+[2025-03-24T11:05:41.712Z] [audio-service] [info]: Calling TTS API for text: "A cerveja era incrivelmente am..."
+[2025-03-24T11:05:47.023Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67e13c5a070848d8a2e49dcd/67e13c5a070848d8a2e49dcd-scene-6-1742814341712.mp3
+[2025-03-24T11:05:47.026Z] [audio-service] [info]: Generated audio for scene 6: /storage/audio/67e13c5a070848d8a2e49dcd/67e13c5a070848d8a2e49dcd-scene-6-1742814341712.mp3
+[2025-03-24T11:05:47.027Z] [audio-service] [info]: Audio 6/10 generated successfully for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:05:47.029Z] [audio-service] [info]: Processing audio for scene 7/10 for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:05:47.030Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 7
+[2025-03-24T11:05:47.032Z] [audio-service] [info]: Calling TTS API for text: "No dia seguinte, João acordou ..."
+[2025-03-24T11:05:53.477Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67e13c5a070848d8a2e49dcd/67e13c5a070848d8a2e49dcd-scene-7-1742814347032.mp3
+[2025-03-24T11:05:53.479Z] [audio-service] [info]: Generated audio for scene 7: /storage/audio/67e13c5a070848d8a2e49dcd/67e13c5a070848d8a2e49dcd-scene-7-1742814347032.mp3
+[2025-03-24T11:05:53.480Z] [audio-service] [info]: Audio 7/10 generated successfully for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:05:53.480Z] [audio-service] [info]: Processing audio for scene 8/10 for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:05:53.481Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 8
+[2025-03-24T11:05:53.481Z] [audio-service] [info]: Calling TTS API for text: "Ele podia levitar latas, criar..."
+[2025-03-24T11:06:00.205Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67e13c5a070848d8a2e49dcd/67e13c5a070848d8a2e49dcd-scene-8-1742814353481.mp3
+[2025-03-24T11:06:00.207Z] [audio-service] [info]: Generated audio for scene 8: /storage/audio/67e13c5a070848d8a2e49dcd/67e13c5a070848d8a2e49dcd-scene-8-1742814353481.mp3
+[2025-03-24T11:06:00.209Z] [audio-service] [info]: Audio 8/10 generated successfully for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:06:00.211Z] [audio-service] [info]: Processing audio for scene 9/10 for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:06:00.212Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 9
+[2025-03-24T11:06:00.214Z] [audio-service] [info]: Calling TTS API for text: "João usou seus poderes para o ..."
+[2025-03-24T11:06:05.261Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67e13c5a070848d8a2e49dcd/67e13c5a070848d8a2e49dcd-scene-9-1742814360214.mp3
+[2025-03-24T11:06:05.264Z] [audio-service] [info]: Generated audio for scene 9: /storage/audio/67e13c5a070848d8a2e49dcd/67e13c5a070848d8a2e49dcd-scene-9-1742814360214.mp3
+[2025-03-24T11:06:05.266Z] [audio-service] [info]: Audio 9/10 generated successfully for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:06:05.267Z] [audio-service] [info]: Processing audio for scene 10/10 for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:06:05.268Z] [audio-service] [info]: Attempt 1/12 to generate audio for scene 10
+[2025-03-24T11:06:05.268Z] [audio-service] [info]: Calling TTS API for text: "E assim, o cara que só tomava ..."
+[2025-03-24T11:06:11.717Z] [audio-service] [info]: TTS audio generated successfully: /app/storage/audio/67e13c5a070848d8a2e49dcd/67e13c5a070848d8a2e49dcd-scene-10-1742814365268.mp3
+[2025-03-24T11:06:11.720Z] [audio-service] [info]: Generated audio for scene 10: /storage/audio/67e13c5a070848d8a2e49dcd/67e13c5a070848d8a2e49dcd-scene-10-1742814365268.mp3
+[2025-03-24T11:06:11.722Z] [audio-service] [info]: Audio 10/10 generated successfully for job 67e13c5a070848d8a2e49dcd
+[2025-03-24T11:06:11.723Z] [audio-service] [info]: Audio files generated: 10
