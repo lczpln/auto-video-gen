@@ -112,14 +112,16 @@ export class JobsService {
       throw new NotFoundException(`Job with ID ${jobId} not found`);
     }
 
-    if (job.status !== JobStatus.READY) {
+    if (
+      ![JobStatus.READY, JobStatus.ERROR].includes(job.status)
+    ) {
       throw new BadRequestException(
-        `Job must be in READY status to generate video. Current status: ${job.status}`
+        `Job must be in READY or ERROR status to generate video. Current status: ${job.status}`
       );
     }
 
     // Update job status to GENERATING_VIDEO
-    await this.updateJobStatus(jobId, JobStatus.GENERATING_VIDEO);
+    // await this.updateJobStatus(jobId, JobStatus.GENERATING_VIDEO);
 
     // Add job to video queue
     await this.videoProcessingQueue.add("video", { jobId });
