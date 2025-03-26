@@ -10,6 +10,12 @@ import * as os from "os";
 import { Scene } from "src/types/scene";
 import { FfmpegService } from "./ffmpeg.service";
 
+// Helper function to dynamically import Echogarden
+async function getEchogarden(): Promise<any> {
+  const module = await (eval(`import('echogarden')`) as Promise<any>);
+  return module;
+}
+
 // Promisify exec para uso com async/await
 const execPromise = promisify(exec);
 
@@ -122,8 +128,8 @@ export class VideoService {
         `${videoName}.srt`
       );
 
-      // Dynamic import do Echogarden
-      const Echogarden = await import("echogarden");
+      // Dynamically import Echogarden
+      const echogardenModule = await getEchogarden();
 
       const alignOptions = {
         language: "pt-BR",
@@ -139,20 +145,20 @@ export class VideoService {
         },
       };
 
-      const alignResult = await Echogarden.align(videoFile, text, alignOptions);
+      const alignResult = await echogardenModule.align(videoFile, text, alignOptions);
 
       if (!alignResult || !alignResult.timeline) {
         throw new Error("Failed to align text with video");
       }
 
-      const srtContent = Echogarden.timelineToSubtitles(alignResult.timeline, {
+      const srtContent = echogardenModule.timelineToSubtitles(alignResult.timeline, {
         format: "srt",
         mode: "word",
         language: "pt-BR",
         maxLineCount: 1,
-        // maxWordsPerLine: 3,
-        // minWordsPerLine: 1,
-        // lineBreakThreshold: 0.5,
+        maxWordsPerLine: 3,
+        minWordsPerLine: 1,
+        lineBreakThreshold: 0.5,
       });
 
       await fs.writeFile(outputSrtFile, srtContent);
@@ -219,7 +225,6 @@ export class VideoService {
           sceneDuration
         );
         sceneVideos.push(sceneOutput);
-        break;
       }
 
       // Concatenar todos os vídeos
