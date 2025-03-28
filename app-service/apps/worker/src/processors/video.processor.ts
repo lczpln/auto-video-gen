@@ -1,9 +1,10 @@
 import { Process, Processor } from '@nestjs/bull';
 import { Job } from 'bull';
-import { LoggerService } from '../../common/services/logger.service';
+import { LoggerService } from '../../../../src/common/services/logger.service';
 import { VideoService } from '../services/video.service';
-import { JobsService } from '../../jobs/jobs.service';
-import { JobStatus } from '../../jobs/models/job.schema';
+import { JobsService } from '../../../../src/jobs/jobs.service';
+import { JobStatus } from '../../../../src/jobs/models/job.schema';
+import { Scene } from 'src/types/scene';
 
 @Processor('video-processing')
 export class VideoProcessor {
@@ -28,10 +29,11 @@ export class VideoProcessor {
 
       // Get job details
       const jobDetails = await this.jobsService.getJob(jobId);
-      const { audioUrls, imageUrls } = jobDetails;
+      const { audioUrls, imageUrls, content } = jobDetails;
+      const scenes = content.scenes as Scene[];
 
       // Generate video using the video service
-      const videoUrl = await this.videoService.generateVideo(jobId, audioUrls, imageUrls);
+      const videoUrl = await this.videoService.generateVideo(jobId, audioUrls, imageUrls, scenes);
 
       // Update job video URL
       await this.jobsService.updateJobVideoUrl(jobId, videoUrl);

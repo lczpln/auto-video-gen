@@ -1,13 +1,20 @@
 import { Injectable } from "@nestjs/common";
 import { ConfigService } from "@nestjs/config";
-import { LoggerService } from "../../common/services/logger.service";
+import { LoggerService } from "../../../../src/common/services/logger.service";
 import * as path from "path";
 import * as fs from "fs/promises";
 import * as fsSync from "fs";
-import { JobsService } from "../../jobs/jobs.service";
 import { exec, execSync, spawn } from "child_process";
 import { promisify } from "util";
 import * as os from "os";
+import { Scene } from "src/types/scene";
+import { FfmpegService } from "./ffmpeg.service";
+
+// Helper function to dynamically import Echogarden
+async function getEchogarden(): Promise<any> {
+  const module = await (eval(`import('echogarden')`) as Promise<any>);
+  return module;
+}
 
 // Promisify exec para uso com async/await
 const execPromise = promisify(exec);
@@ -52,7 +59,8 @@ export class VideoService {
   constructor(
     private configService: ConfigService,
     private loggerService: LoggerService,
-    private jobsService: JobsService
+    // private jobsService: JobsService
+    private ffmpegService: FfmpegService
   ) {
     this.logger = this.loggerService.getLogger("video-service");
 
@@ -76,6 +84,7 @@ export class VideoService {
   private async getAudioDuration(audioPath: string): Promise<number> {
     try {
       const cmd = `${this.ffprobePath} -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 "${audioPath}"`;
+      this.logger.debug(`Getting audio duration with command: \n ${cmd}`);
       const output = execSync(cmd).toString().trim();
       return parseFloat(output);
     } catch (err) {
@@ -95,12 +104,12 @@ export class VideoService {
       const outputDir = path.dirname(outputFile);
       await fs.mkdir(outputDir, { recursive: true });
 
-      // Efeito de zoom suave usando filtros do FFmpeg
-      const filter = `[0:v]scale=8000:-1,zoompan=z='zoom+0.001':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=1:s=${this.videoWidth}x${this.videoHeight},trim=duration=${sceneDuration},fade=t=in:st=0:d=1,fade=t=out:st=${sceneDuration - 1}:d=1[v]`;
-
-      const cmd = `${this.ffmpegPath} -y -loop 1 -i "${imageFile}" -i "${audioFile}" -filter_complex "${filter}" -map "[v]" -map 1:a -c:v libx264 -c:a aac -shortest "${outputFile}"`;
-
-      execSync(cmd, { stdio: "inherit" });
+      await this.ffmpegService.generateSceneFromImageAndAudio(imageFile, audioFile, outputFile, {
+        zoom: 1.2,
+        frameRate: 30,
+        fadeIn: 1.0,
+        fadeOut: 1.0,
+      });
       return outputFile;
     } catch (error) {
       this.logger.error("Error creating scene video:", error);
@@ -119,8 +128,8 @@ export class VideoService {
         `${videoName}.srt`
       );
 
-      // Dynamic import do Echogarden
-      const Echogarden = await import("echogarden");
+      // Dynamically import Echogarden
+      const echogardenModule = await getEchogarden();
 
       const alignOptions = {
         language: "pt-BR",
@@ -136,13 +145,13 @@ export class VideoService {
         },
       };
 
-      const alignResult = await Echogarden.align(videoFile, text, alignOptions);
+      const alignResult = await echogardenModule.align(videoFile, text, alignOptions);
 
       if (!alignResult || !alignResult.timeline) {
         throw new Error("Failed to align text with video");
       }
 
-      const srtContent = Echogarden.timelineToSubtitles(alignResult.timeline, {
+      const srtContent = echogardenModule.timelineToSubtitles(alignResult.timeline, {
         format: "srt",
         mode: "word",
         language: "pt-BR",
@@ -175,41 +184,17 @@ export class VideoService {
     }
   }
 
-  private async concatenateVideos(
-    videoFiles: string[],
-    outputFile: string
-  ): Promise<string> {
-    try {
-      // Criar arquivo de lista para concatenação
-      const concatList = path.join(path.dirname(outputFile), "concat_list.txt");
-      const listContent = videoFiles.map((file) => `file '${file}'`).join("\n");
-      await fs.writeFile(concatList, listContent);
-
-      // Concatenar vídeos
-      const cmd = `${this.ffmpegPath} -y -f concat -safe 0 -i "${concatList}" -c copy "${outputFile}"`;
-      execSync(cmd, { stdio: "inherit" });
-
-      // Limpar arquivo temporário
-      await fs.unlink(concatList);
-
-      return outputFile;
-    } catch (error) {
-      this.logger.error("Error concatenating videos:", error);
-      throw error;
-    }
-  }
-
   async generateVideo(
     jobId: string,
     audioUrls: string[],
-    imageUrls: string[]
+    imageUrls: string[],
+    scenes: Scene[]
   ): Promise<string> {
     try {
       this.logger.info(`Generating video for job: ${jobId}`);
 
-      const job = await this.jobsService.getJob(jobId);
-      if (!job || !job.content) {
-        throw new Error(`Job ${jobId} not found or has no content`);
+      if (!scenes) {
+        throw new Error(`Job ${jobId} has no scenes`);
       }
 
       const tempDir = path.join(
@@ -244,10 +229,10 @@ export class VideoService {
 
       // Concatenar todos os vídeos
       const rawVideoPath = path.join(tempDir, "raw_video.mp4");
-      await this.concatenateVideos(sceneVideos, rawVideoPath);
+      await this.ffmpegService.concatenateVideos(sceneVideos, rawVideoPath);
 
       // Gerar legendas
-      const fullText = job.content.scenes
+      const fullText = scenes
         .map((scene) => scene.text)
         .filter(Boolean)
         .join(" ");

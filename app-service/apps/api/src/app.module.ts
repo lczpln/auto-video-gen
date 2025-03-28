@@ -4,11 +4,11 @@ import { MongooseModule } from "@nestjs/mongoose";
 import { BullModule } from "@nestjs/bull";
 import { join } from "path";
 
-import { JobsModule } from "./jobs/jobs.module";
-import { WorkersModule } from "./workers/workers.module";
-import { CommonModule } from "./common/common.module";
-import { StaticFilesModule } from "./common/static.module";
-import videoConfig from "./workers/video.config";
+import { JobsModule } from "../../../src/jobs/jobs.module";
+import { WorkersModule } from "../../../src/workers/workers.module";
+import { CommonModule } from "../../../src/common/common.module";
+import { StaticFilesModule } from "../../../src/common/static.module";
+import videoConfig from "../../../src/workers/video.config";
 
 @Module({
   imports: [

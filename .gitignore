@@ -4,3 +4,11 @@ node_modules
 logs/*
 .env
 .DS_Store
+
+*.log
+*.log.*
+*.log.*.*
+*.log.*.*.*
+*.log.*.*.*.*
+*.log.*.*.*.*.*
+*.log.*.*.*.*.*.*
